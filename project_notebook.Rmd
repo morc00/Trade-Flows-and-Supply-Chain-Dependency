@@ -1,0 +1,47 @@
+---
+title: "Trade Flows and Supply Chain Dependency"
+author: "Soumyadip Das"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: united
+---
+
+## 1. Project Overview
+
+This project aims to map a country's import and export flows for a chosen sector to identify concentration risk in supplier countries. By quantifying exposure to tariff or disruption shocks, we will develop diversification recommendations for an importing firm.
+
+### 1.1 Objectives
+
+- **Map Trade Flows**: Visualize and analyze the import and export data for the target sector.
+- **Identify Concentration Risk**: Determine if the supply chain is overly dependent on specific supplier countries.
+- **Quantify Exposure**: Measure the potential impact of tariff changes or supply chain disruptions.
+- **Provide Recommendations**: Formulate actionable diversification strategies for importing firms.
+
+## 2. Data Preparation
+
+*In this section, we will load our trade flow datasets and perform necessary data cleaning and transformations.*
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# Load necessary libraries (e.g., tidyverse, ggplot2)
+# library(tidyverse)
+```
+
+## 3. Exploratory Data Analysis (EDA)
+
+*Analyze the distribution of imports and exports across different countries and regions.*
+
+## 4. Concentration Risk Analysis
+
+*Calculate metrics such as the Herfindahl-Hirschman Index (HHI) to quantify market concentration among supplier countries.*
+
+## 5. Shock Exposure Modeling
+
+*Model the impact of hypothetical tariff increases or localized disruptions on the supply chain.*
+
+## 6. Recommendations & Conclusion
+
+*Based on the analysis, provide strategic recommendations for diversification to mitigate identified risks.*
