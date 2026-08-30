@@ -1,0 +1,61 @@
+---
+title: "Data Preparation and Feature Engineering"
+author: "Soumyadip Das"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    theme: united
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# Use reticulate to enable Python chunks
+library(reticulate)
+```
+
+## 1. Introduction
+
+This notebook covers the data preparation and feature engineering for the Trade Flows and Supply Chain Dependency project. All analysis is performed in Python.
+
+```{python}
+import pandas as pd
+import numpy as np
+import os
+
+# Load raw data
+raw_data_path = "../data/raw/semiconductor_trade_flows.csv"
+if os.path.exists(raw_data_path):
+    df = pd.read_csv(raw_data_path)
+    print(f"Data loaded successfully with shape: {df.shape}")
+else:
+    print(f"Error: Could not find data at {raw_data_path}")
+```
+
+## 2. Data Cleaning
+
+We check for missing values and ensure data types are correct.
+
+```{python}
+# Check for missing values
+missing = df.isnull().sum()
+print("Missing values per column:\n", missing)
+
+# Ensure proper data types
+df['Year'] = df['Year'].astype(int)
+df['Trade_Value_USD'] = df['Trade_Value_USD'].astype(float)
+```
+
+## 3. Feature Engineering
+
+We will calculate some initial aggregates, such as total trade volume per year by country.
+
+```{python}
+# Create total trade volume by reporter country and year
+grouped = df.groupby(['Year', 'Reporter_Country', 'Flow_Type'])['Trade_Value_USD'].sum().reset_index()
+
+# Save cleaned data
+os.makedirs("../data/processed", exist_ok=True)
+df.to_csv("../data/processed/clean_trade_flows.csv", index=False)
+print("Saved cleaned dataset to data/processed/clean_trade_flows.csv")
+```

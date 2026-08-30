@@ -1,0 +1,2501 @@
+Year,Reporter_Country,Reporter_Region,Partner_Country,Partner_Region,Flow_Type,Product_Category,Trade_Value_USD,Tariff_Rate,Disruption_Risk_Score
+2019,Netherlands,Europe,Japan,Asia,Import,Analog ICs,56824.43,0.067,7
+2019,India,Asia,Singapore,Asia,Import,Microprocessors,340067.79,0.021,3
+2019,Taiwan,Asia,South Korea,Asia,Export,Microprocessors,23027.48,0.06,3
+2019,Mexico,North America,Netherlands,Europe,Export,Logic ICs,9362.0,0.007,3
+2019,Netherlands,Europe,South Korea,Asia,Import,Memory ICs,19892.63,0.015,4
+2019,Mexico,North America,France,Europe,Export,Microprocessors,146514.49,0.074,3
+2019,UK,Europe,USA,North America,Export,Memory ICs,1754.19,0.078,10
+2019,Japan,Asia,Taiwan,Asia,Import,Memory ICs,586892.42,0.116,2
+2019,Vietnam,Asia,UK,Europe,Export,Sensors,3588.99,0.086,9
+2019,UK,Europe,Singapore,Asia,Import,Optoelectronics,237340.58,0.041,5
+2019,Singapore,Asia,Vietnam,Asia,Import,Microprocessors,1075.01,0.044,1
+2019,Malaysia,Asia,Netherlands,Europe,Import,Logic ICs,93246.79,0.03,8
+2019,France,Europe,India,Asia,Import,Logic ICs,141657.69,0.091,10
+2019,Netherlands,Europe,Vietnam,Asia,Import,Microprocessors,85437.02,0.129,8
+2019,Mexico,North America,China,Asia,Import,Sensors,582872.31,0.096,3
+2019,USA,North America,Germany,Europe,Import,Sensors,3654.02,0.127,5
+2019,Vietnam,Asia,Netherlands,Europe,Import,Sensors,18710445.47,0.064,10
+2019,Mexico,North America,Canada,North America,Import,Logic ICs,3495.45,0.047,4
+2019,UK,Europe,South Korea,Asia,Import,Optoelectronics,1290.53,0.141,7
+2019,India,Asia,Germany,Europe,Export,Microprocessors,32230.68,0.139,9
+2019,South Korea,Asia,Taiwan,Asia,Export,Microprocessors,9609.15,0.132,10
+2019,Netherlands,Europe,Mexico,North America,Import,Sensors,1342.81,0.017,9
+2019,India,Asia,UK,Europe,Import,Microprocessors,1482.11,0.025,9
+2019,UK,Europe,South Korea,Asia,Import,Analog ICs,2869.39,0.04,8
+2019,France,Europe,India,Asia,Export,Logic ICs,5851.91,0.038,7
+2019,China,Asia,Germany,Europe,Import,Optoelectronics,16433.12,0.043,1
+2019,India,Asia,USA,North America,Export,Memory ICs,9103.99,0.052,1
+2019,Germany,Europe,UK,Europe,Export,Optoelectronics,18614.01,0.073,6
+2019,Netherlands,Europe,Japan,Asia,Import,Analog ICs,1565.95,0.12,5
+2019,Japan,Asia,China,Asia,Export,Sensors,5787.79,0.08,1
+2019,Malaysia,Asia,Mexico,North America,Import,Sensors,106867.56,0.049,4
+2019,Germany,Europe,Vietnam,Asia,Import,Analog ICs,52207.37,0.052,7
+2019,Japan,Asia,Malaysia,Asia,Import,Memory ICs,57754.6,0.11,2
+2019,Netherlands,Europe,France,Europe,Export,Memory ICs,140492.97,0.039,10
+2019,Malaysia,Asia,Japan,Asia,Export,Logic ICs,11510.54,0.135,5
+2019,India,Asia,Netherlands,Europe,Import,Logic ICs,14592.55,0.052,3
+2019,Japan,Asia,Singapore,Asia,Export,Logic ICs,5653.05,0.024,6
+2019,Singapore,Asia,Japan,Asia,Export,Analog ICs,35049.18,0.056,9
+2019,Germany,Europe,Malaysia,Asia,Import,Memory ICs,31246.61,0.104,9
+2019,Japan,Asia,USA,North America,Export,Logic ICs,1931.96,0.074,4
+2019,Singapore,Asia,Netherlands,Europe,Import,Logic ICs,50829.75,0.076,6
+2019,Netherlands,Europe,Taiwan,Asia,Export,Sensors,506.21,0.146,3
+2019,Taiwan,Asia,Singapore,Asia,Import,Analog ICs,22606.75,0.087,1
+2019,South Korea,Asia,Mexico,North America,Import,Analog ICs,403151.68,0.086,1
+2019,USA,North America,Mexico,North America,Export,Sensors,17184.02,0.145,3
+2019,Mexico,North America,USA,North America,Export,Optoelectronics,96827.05,0.058,7
+2019,USA,North America,Germany,Europe,Export,Memory ICs,91146.05,0.104,8
+2019,UK,Europe,Singapore,Asia,Export,Sensors,26501.53,0.054,10
+2019,China,Asia,Vietnam,Asia,Import,Logic ICs,50882.73,0.083,10
+2019,Netherlands,Europe,Vietnam,Asia,Import,Memory ICs,5134.01,0.13,10
+2019,Netherlands,Europe,Malaysia,Asia,Export,Optoelectronics,7245.31,0.133,2
+2019,China,Asia,Netherlands,Europe,Import,Sensors,17060.66,0.049,10
+2019,France,Europe,UK,Europe,Import,Sensors,9613.62,0.006,6
+2019,France,Europe,Taiwan,Asia,Import,Microprocessors,25858.57,0.049,8
+2019,South Korea,Asia,Mexico,North America,Export,Microprocessors,5111.59,0.008,4
+2019,UK,Europe,France,Europe,Import,Microprocessors,33959.27,0.02,2
+2019,Mexico,North America,Vietnam,Asia,Export,Analog ICs,5863.06,0.066,7
+2019,Vietnam,Asia,South Korea,Asia,Export,Optoelectronics,121159.93,0.012,9
+2019,Mexico,North America,South Korea,Asia,Import,Memory ICs,52452.61,0.036,6
+2019,Malaysia,Asia,Singapore,Asia,Import,Optoelectronics,116240.56,0.096,7
+2019,France,Europe,South Korea,Asia,Export,Optoelectronics,1054.96,0.053,5
+2019,Taiwan,Asia,Malaysia,Asia,Import,Sensors,8362.66,0.014,1
+2019,UK,Europe,Japan,Asia,Import,Microprocessors,7342.94,0.07,5
+2019,Netherlands,Europe,Vietnam,Asia,Export,Sensors,197519.48,0.095,2
+2019,Japan,Asia,France,Europe,Export,Memory ICs,22106.51,0.081,4
+2019,Singapore,Asia,Netherlands,Europe,Export,Logic ICs,99894.57,0.13,4
+2019,Singapore,Asia,Mexico,North America,Export,Analog ICs,6436.45,0.082,5
+2019,Mexico,North America,Germany,Europe,Import,Logic ICs,1502491.49,0.098,2
+2019,Canada,North America,Germany,Europe,Export,Analog ICs,257924.63,0.058,10
+2019,Vietnam,Asia,UK,Europe,Export,Analog ICs,1664.95,0.042,4
+2019,Vietnam,Asia,South Korea,Asia,Export,Optoelectronics,54030.14,0.082,5
+2019,Malaysia,Asia,Singapore,Asia,Export,Analog ICs,18817.39,0.149,4
+2019,China,Asia,USA,North America,Import,Sensors,1024.41,0.102,7
+2019,Malaysia,Asia,Germany,Europe,Import,Sensors,45530.57,0.135,4
+2019,Malaysia,Asia,Taiwan,Asia,Import,Analog ICs,48246.75,0.102,4
+2019,Germany,Europe,Vietnam,Asia,Import,Optoelectronics,17170.52,0.014,9
+2019,Japan,Asia,India,Asia,Import,Microprocessors,828467.72,0.145,9
+2019,Vietnam,Asia,Mexico,North America,Import,Optoelectronics,49472.18,0.126,8
+2019,Vietnam,Asia,Malaysia,Asia,Export,Analog ICs,8586.3,0.013,3
+2019,Singapore,Asia,Canada,North America,Import,Sensors,35034.9,0.122,7
+2019,Malaysia,Asia,Canada,North America,Export,Microprocessors,5234.94,0.117,6
+2019,Netherlands,Europe,India,Asia,Export,Memory ICs,14372.99,0.05,3
+2019,Canada,North America,China,Asia,Export,Sensors,42000.51,0.112,9
+2019,France,Europe,Mexico,North America,Import,Logic ICs,4211.35,0.13,6
+2019,South Korea,Asia,Taiwan,Asia,Export,Microprocessors,24130.11,0.048,6
+2019,South Korea,Asia,India,Asia,Export,Optoelectronics,47971.35,0.038,3
+2019,Japan,Asia,Malaysia,Asia,Export,Logic ICs,5412.0,0.149,6
+2019,Taiwan,Asia,Germany,Europe,Export,Logic ICs,3183.63,0.137,10
+2019,Singapore,Asia,Taiwan,Asia,Export,Microprocessors,3058.08,0.097,8
+2019,Vietnam,Asia,Mexico,North America,Export,Microprocessors,8247.56,0.012,9
+2019,Japan,Asia,India,Asia,Export,Logic ICs,6059.34,0.09,3
+2019,Canada,North America,Taiwan,Asia,Export,Analog ICs,896.75,0.109,9
+2019,China,Asia,Vietnam,Asia,Export,Sensors,19011.09,0.122,1
+2019,India,Asia,South Korea,Asia,Export,Logic ICs,12525.95,0.145,1
+2019,Canada,North America,USA,North America,Export,Logic ICs,907.91,0.008,6
+2019,Mexico,North America,USA,North America,Import,Optoelectronics,6642.54,0.149,5
+2019,Netherlands,Europe,South Korea,Asia,Import,Optoelectronics,6072.04,0.036,9
+2019,UK,Europe,USA,North America,Import,Optoelectronics,331684.92,0.091,1
+2019,USA,North America,Singapore,Asia,Export,Memory ICs,4205.77,0.101,2
+2019,Taiwan,Asia,Germany,Europe,Import,Memory ICs,11995.31,0.128,6
+2019,Mexico,North America,South Korea,Asia,Export,Sensors,50383.83,0.072,7
+2019,France,Europe,South Korea,Asia,Import,Sensors,322602.76,0.106,3
+2019,Netherlands,Europe,Taiwan,Asia,Export,Microprocessors,24542.01,0.095,3
+2019,France,Europe,China,Asia,Export,Logic ICs,35621.42,0.077,8
+2019,France,Europe,Mexico,North America,Export,Memory ICs,730.14,0.069,2
+2019,Taiwan,Asia,South Korea,Asia,Export,Optoelectronics,19710.46,0.031,3
+2019,France,Europe,Malaysia,Asia,Import,Analog ICs,45853.03,0.027,8
+2019,Malaysia,Asia,Germany,Europe,Export,Analog ICs,3361.83,0.077,2
+2019,Canada,North America,Vietnam,Asia,Import,Analog ICs,8050.79,0.052,6
+2019,South Korea,Asia,Taiwan,Asia,Import,Optoelectronics,178193.55,0.069,10
+2019,UK,Europe,China,Asia,Import,Sensors,4814.13,0.014,9
+2019,Taiwan,Asia,France,Europe,Export,Sensors,2163.21,0.024,1
+2019,Vietnam,Asia,Japan,Asia,Import,Logic ICs,31453.23,0.08,8
+2019,Taiwan,Asia,UK,Europe,Export,Microprocessors,23653.61,0.055,8
+2019,China,Asia,Canada,North America,Export,Sensors,124703.99,0.112,2
+2019,Vietnam,Asia,Taiwan,Asia,Import,Analog ICs,56504.39,0.036,9
+2019,Netherlands,Europe,South Korea,Asia,Export,Memory ICs,713410.2,0.013,9
+2019,USA,North America,Canada,North America,Export,Logic ICs,34429.61,0.102,3
+2019,Malaysia,Asia,Canada,North America,Export,Microprocessors,2542501.02,0.112,1
+2019,Mexico,North America,Germany,Europe,Export,Logic ICs,167554.74,0.051,4
+2019,Vietnam,Asia,China,Asia,Import,Analog ICs,58201.86,0.036,6
+2019,South Korea,Asia,Taiwan,Asia,Export,Microprocessors,28416.66,0.128,8
+2019,Netherlands,Europe,Malaysia,Asia,Import,Analog ICs,147.6,0.147,6
+2019,China,Asia,Japan,Asia,Export,Analog ICs,86619.86,0.13,6
+2019,Taiwan,Asia,USA,North America,Export,Sensors,63362.86,0.084,8
+2019,Vietnam,Asia,Germany,Europe,Import,Microprocessors,33356.47,0.031,10
+2019,Taiwan,Asia,Japan,Asia,Import,Microprocessors,849.73,0.017,10
+2019,UK,Europe,Taiwan,Asia,Import,Sensors,24249.95,0.023,4
+2019,Canada,North America,India,Asia,Import,Logic ICs,4934.76,0.082,10
+2019,Mexico,North America,China,Asia,Import,Memory ICs,764.09,0.013,5
+2019,Malaysia,Asia,USA,North America,Import,Analog ICs,2622809.28,0.119,1
+2019,South Korea,Asia,UK,Europe,Export,Microprocessors,6575.93,0.061,5
+2019,Singapore,Asia,India,Asia,Import,Memory ICs,58459.42,0.126,8
+2019,India,Asia,Malaysia,Asia,Import,Sensors,519316.18,0.12,3
+2019,South Korea,Asia,Germany,Europe,Import,Sensors,266.08,0.132,9
+2019,China,Asia,Singapore,Asia,Export,Sensors,45322.41,0.135,6
+2019,USA,North America,Netherlands,Europe,Import,Logic ICs,42355.55,0.058,5
+2019,Singapore,Asia,Germany,Europe,Import,Analog ICs,14211.39,0.065,3
+2019,Netherlands,Europe,Germany,Europe,Export,Memory ICs,43347.0,0.093,4
+2019,UK,Europe,Netherlands,Europe,Import,Microprocessors,9599.1,0.15,9
+2019,USA,North America,Canada,North America,Import,Analog ICs,451144.35,0.132,1
+2019,Taiwan,Asia,Canada,North America,Import,Microprocessors,49220.67,0.069,4
+2019,Singapore,Asia,France,Europe,Import,Optoelectronics,128.27,0.116,3
+2019,Germany,Europe,Japan,Asia,Export,Memory ICs,10187.57,0.038,5
+2019,Japan,Asia,India,Asia,Export,Memory ICs,2088.98,0.064,10
+2019,UK,Europe,India,Asia,Export,Memory ICs,5650.37,0.088,2
+2019,Malaysia,Asia,USA,North America,Import,Microprocessors,7647.22,0.138,5
+2019,Singapore,Asia,South Korea,Asia,Export,Memory ICs,99492.02,0.116,10
+2019,Malaysia,Asia,Taiwan,Asia,Import,Optoelectronics,6280.23,0.028,7
+2019,Malaysia,Asia,USA,North America,Import,Sensors,8178.15,0.078,8
+2019,France,Europe,South Korea,Asia,Import,Logic ICs,4478.28,0.118,10
+2019,Malaysia,Asia,Germany,Europe,Import,Microprocessors,82582.28,0.081,6
+2019,China,Asia,Netherlands,Europe,Export,Analog ICs,11253.46,0.034,3
+2019,Taiwan,Asia,Singapore,Asia,Import,Microprocessors,620352.44,0.063,8
+2019,USA,North America,Canada,North America,Import,Analog ICs,2880.2,0.144,1
+2019,Japan,Asia,Taiwan,Asia,Export,Microprocessors,61903.91,0.08,8
+2019,USA,North America,Netherlands,Europe,Import,Optoelectronics,1443.16,0.12,1
+2019,Canada,North America,UK,Europe,Export,Analog ICs,481.78,0.01,3
+2019,France,Europe,China,Asia,Export,Sensors,344.9,0.084,4
+2019,USA,North America,Singapore,Asia,Import,Analog ICs,1842.21,0.056,10
+2019,Germany,Europe,UK,Europe,Export,Microprocessors,253826.61,0.038,7
+2019,India,Asia,France,Europe,Import,Sensors,284.68,0.051,5
+2019,Germany,Europe,USA,North America,Export,Memory ICs,268232.83,0.144,4
+2019,South Korea,Asia,Taiwan,Asia,Import,Sensors,51054.51,0.044,2
+2019,Netherlands,Europe,Vietnam,Asia,Import,Logic ICs,42288.31,0.063,2
+2019,USA,North America,France,Europe,Import,Microprocessors,1804.02,0.05,2
+2019,Germany,Europe,Netherlands,Europe,Import,Microprocessors,8509.5,0.116,9
+2019,China,Asia,South Korea,Asia,Export,Analog ICs,167941.99,0.142,6
+2019,Mexico,North America,Singapore,Asia,Import,Memory ICs,38907.61,0.071,1
+2019,China,Asia,Germany,Europe,Import,Sensors,23791.96,0.111,2
+2019,Canada,North America,Malaysia,Asia,Import,Logic ICs,30999.64,0.148,10
+2019,Canada,North America,China,Asia,Import,Optoelectronics,38113.51,0.003,2
+2019,South Korea,Asia,Vietnam,Asia,Export,Logic ICs,49836.63,0.098,10
+2019,Mexico,North America,Netherlands,Europe,Import,Memory ICs,731.31,0.021,9
+2019,France,Europe,Taiwan,Asia,Import,Memory ICs,1847901.41,0.026,1
+2019,Vietnam,Asia,South Korea,Asia,Export,Sensors,167500.25,0.078,2
+2019,Mexico,North America,Taiwan,Asia,Import,Logic ICs,32001.36,0.037,5
+2019,India,Asia,Singapore,Asia,Import,Microprocessors,4862.14,0.108,7
+2019,Singapore,Asia,Germany,Europe,Export,Memory ICs,62301.73,0.02,8
+2019,USA,North America,Vietnam,Asia,Export,Microprocessors,17384.83,0.024,4
+2019,India,Asia,USA,North America,Export,Analog ICs,750.61,0.116,5
+2019,Malaysia,Asia,Singapore,Asia,Import,Logic ICs,158616.47,0.074,8
+2019,Vietnam,Asia,Malaysia,Asia,Import,Analog ICs,59842.73,0.104,6
+2019,China,Asia,Mexico,North America,Import,Optoelectronics,63907.39,0.014,1
+2019,Canada,North America,USA,North America,Export,Logic ICs,1573.89,0.081,8
+2019,Germany,Europe,Singapore,Asia,Import,Optoelectronics,14009.76,0.114,5
+2019,Taiwan,Asia,Singapore,Asia,Import,Memory ICs,1039.92,0.148,10
+2019,France,Europe,Vietnam,Asia,Export,Logic ICs,19617.75,0.027,5
+2019,Taiwan,Asia,Vietnam,Asia,Import,Sensors,45028.57,0.029,8
+2019,China,Asia,India,Asia,Import,Optoelectronics,6805.33,0.071,4
+2019,Netherlands,Europe,Germany,Europe,Export,Analog ICs,1325.68,0.018,2
+2019,Germany,Europe,South Korea,Asia,Import,Memory ICs,179994.03,0.109,7
+2019,France,Europe,Singapore,Asia,Import,Microprocessors,5995.89,0.094,10
+2019,Mexico,North America,UK,Europe,Export,Analog ICs,177564.96,0.131,7
+2019,Canada,North America,China,Asia,Export,Analog ICs,20982.53,0.087,9
+2019,Vietnam,Asia,UK,Europe,Import,Microprocessors,7255.77,0.111,1
+2019,Germany,Europe,Canada,North America,Export,Sensors,54673.09,0.088,1
+2019,South Korea,Asia,UK,Europe,Import,Logic ICs,97545.73,0.016,9
+2019,Singapore,Asia,Japan,Asia,Export,Analog ICs,15812.47,0.132,8
+2019,India,Asia,UK,Europe,Import,Memory ICs,4225.24,0.025,4
+2019,Japan,Asia,India,Asia,Export,Microprocessors,8495.1,0.125,10
+2019,India,Asia,China,Asia,Import,Memory ICs,181843.7,0.006,10
+2019,Germany,Europe,Singapore,Asia,Export,Optoelectronics,377380.22,0.104,8
+2019,Germany,Europe,Taiwan,Asia,Import,Optoelectronics,7033.98,0.081,9
+2019,Japan,Asia,UK,Europe,Import,Memory ICs,246.82,0.041,9
+2019,Germany,Europe,Malaysia,Asia,Export,Microprocessors,3801.91,0.005,8
+2019,Malaysia,Asia,South Korea,Asia,Import,Analog ICs,3193.16,0.001,5
+2019,Vietnam,Asia,China,Asia,Export,Optoelectronics,3996.49,0.033,5
+2019,Canada,North America,USA,North America,Export,Optoelectronics,3449931.22,0.124,8
+2019,Singapore,Asia,China,Asia,Export,Analog ICs,7617.95,0.13,1
+2019,Taiwan,Asia,Singapore,Asia,Import,Microprocessors,113659.72,0.105,10
+2019,Japan,Asia,France,Europe,Import,Sensors,60751.56,0.028,5
+2019,India,Asia,Canada,North America,Export,Logic ICs,10502.34,0.112,2
+2019,Japan,Asia,China,Asia,Export,Optoelectronics,4158.38,0.076,7
+2019,China,Asia,Canada,North America,Export,Analog ICs,23139.22,0.039,8
+2019,Canada,North America,Germany,Europe,Export,Sensors,26368.15,0.043,7
+2019,Vietnam,Asia,Malaysia,Asia,Export,Memory ICs,247202.69,0.14,6
+2019,Japan,Asia,China,Asia,Export,Analog ICs,1232.76,0.025,6
+2019,USA,North America,Vietnam,Asia,Export,Logic ICs,6815.15,0.097,4
+2019,Canada,North America,Mexico,North America,Import,Optoelectronics,1006117.25,0.003,6
+2019,France,Europe,Germany,Europe,Import,Memory ICs,85527.98,0.015,9
+2019,Netherlands,Europe,France,Europe,Import,Optoelectronics,20009.07,0.104,4
+2019,China,Asia,France,Europe,Export,Microprocessors,1701.71,0.143,8
+2019,Mexico,North America,Canada,North America,Import,Optoelectronics,126110.61,0.096,6
+2019,Germany,Europe,Malaysia,Asia,Import,Analog ICs,2360.97,0.109,2
+2019,Canada,North America,Germany,Europe,Export,Logic ICs,2116.07,0.098,2
+2019,France,Europe,Mexico,North America,Export,Analog ICs,43715.18,0.116,2
+2019,Japan,Asia,Netherlands,Europe,Import,Optoelectronics,54913.06,0.02,5
+2019,Singapore,Asia,Mexico,North America,Export,Analog ICs,15942.58,0.0,7
+2019,USA,North America,UK,Europe,Export,Microprocessors,1506.36,0.065,6
+2019,Malaysia,Asia,Mexico,North America,Import,Sensors,913.42,0.12,1
+2019,Singapore,Asia,South Korea,Asia,Export,Sensors,68145.62,0.059,6
+2019,India,Asia,Canada,North America,Import,Logic ICs,144306.7,0.022,9
+2019,UK,Europe,France,Europe,Export,Sensors,119614.23,0.093,4
+2019,USA,North America,Vietnam,Asia,Export,Memory ICs,33415.18,0.013,1
+2019,Canada,North America,Japan,Asia,Export,Sensors,371.12,0.048,6
+2019,Netherlands,Europe,Vietnam,Asia,Export,Memory ICs,7027.89,0.025,1
+2019,Singapore,Asia,India,Asia,Import,Analog ICs,69228.34,0.134,9
+2019,Taiwan,Asia,Malaysia,Asia,Import,Logic ICs,89004.89,0.107,4
+2019,UK,Europe,France,Europe,Import,Analog ICs,48386.24,0.134,4
+2019,Taiwan,Asia,Vietnam,Asia,Export,Memory ICs,6909.12,0.025,2
+2019,Taiwan,Asia,Mexico,North America,Import,Microprocessors,20989.77,0.024,3
+2019,Vietnam,Asia,Germany,Europe,Import,Sensors,2798.52,0.118,7
+2019,Germany,Europe,Mexico,North America,Export,Sensors,7641.92,0.108,6
+2019,South Korea,Asia,Singapore,Asia,Import,Analog ICs,2308.48,0.102,6
+2019,France,Europe,USA,North America,Import,Microprocessors,136175.8,0.026,5
+2019,France,Europe,Vietnam,Asia,Import,Microprocessors,351120.32,0.115,8
+2019,China,Asia,USA,North America,Import,Logic ICs,100198.8,0.066,5
+2019,China,Asia,Japan,Asia,Export,Memory ICs,73098.84,0.149,10
+2019,Taiwan,Asia,Canada,North America,Export,Analog ICs,212584.23,0.093,8
+2019,South Korea,Asia,France,Europe,Import,Analog ICs,8496.41,0.09,10
+2019,Mexico,North America,UK,Europe,Export,Memory ICs,353848.95,0.027,5
+2019,Taiwan,Asia,Canada,North America,Import,Sensors,14766.56,0.089,7
+2019,Malaysia,Asia,Japan,Asia,Export,Sensors,4043.85,0.098,9
+2019,Malaysia,Asia,Mexico,North America,Export,Analog ICs,1653.48,0.116,8
+2019,Japan,Asia,Canada,North America,Import,Analog ICs,224505.07,0.133,6
+2019,UK,Europe,Vietnam,Asia,Import,Memory ICs,3736.87,0.067,8
+2019,India,Asia,Mexico,North America,Import,Logic ICs,51445.63,0.025,4
+2019,Mexico,North America,Malaysia,Asia,Import,Optoelectronics,60332.81,0.117,8
+2019,Mexico,North America,Singapore,Asia,Export,Sensors,296.56,0.031,4
+2019,China,Asia,UK,Europe,Export,Logic ICs,94396.48,0.006,7
+2019,Germany,Europe,Taiwan,Asia,Import,Optoelectronics,24437.93,0.013,1
+2019,USA,North America,Germany,Europe,Export,Microprocessors,29105.58,0.13,8
+2019,France,Europe,India,Asia,Export,Microprocessors,54451.72,0.08,7
+2019,UK,Europe,Canada,North America,Export,Memory ICs,75022.83,0.145,1
+2019,Netherlands,Europe,Singapore,Asia,Import,Sensors,2678.92,0.13,6
+2019,France,Europe,China,Asia,Import,Memory ICs,44828.64,0.037,10
+2019,Singapore,Asia,France,Europe,Export,Logic ICs,20877.17,0.005,8
+2019,Malaysia,Asia,UK,Europe,Export,Logic ICs,75815.45,0.124,5
+2019,Malaysia,Asia,Vietnam,Asia,Export,Microprocessors,29204.36,0.024,6
+2019,France,Europe,Malaysia,Asia,Import,Logic ICs,13043.79,0.016,2
+2019,Canada,North America,Taiwan,Asia,Export,Microprocessors,7979.58,0.1,6
+2019,China,Asia,Canada,North America,Import,Analog ICs,11624.69,0.045,7
+2019,Malaysia,Asia,South Korea,Asia,Import,Logic ICs,146730.62,0.055,7
+2019,France,Europe,South Korea,Asia,Import,Microprocessors,1838356.67,0.082,3
+2019,Mexico,North America,Taiwan,Asia,Export,Analog ICs,203612.8,0.091,10
+2019,China,Asia,UK,Europe,Import,Analog ICs,76480.7,0.127,5
+2019,Canada,North America,Vietnam,Asia,Import,Microprocessors,24755.5,0.022,5
+2019,France,Europe,Mexico,North America,Export,Analog ICs,85814.75,0.108,5
+2019,Netherlands,Europe,India,Asia,Import,Optoelectronics,69629.06,0.135,9
+2019,Japan,Asia,India,Asia,Import,Microprocessors,15096.33,0.015,4
+2019,South Korea,Asia,Japan,Asia,Export,Analog ICs,66579.14,0.139,3
+2019,Singapore,Asia,Vietnam,Asia,Export,Sensors,3043.44,0.062,9
+2019,UK,Europe,India,Asia,Import,Microprocessors,144573.37,0.027,7
+2019,France,Europe,Singapore,Asia,Import,Memory ICs,4250.35,0.122,8
+2019,Canada,North America,Vietnam,Asia,Import,Analog ICs,16306.45,0.0,6
+2019,Taiwan,Asia,South Korea,Asia,Export,Microprocessors,5410.07,0.092,10
+2019,Malaysia,Asia,Canada,North America,Export,Logic ICs,5850.01,0.036,5
+2019,Japan,Asia,China,Asia,Export,Analog ICs,52633.69,0.121,3
+2019,Japan,Asia,Vietnam,Asia,Import,Memory ICs,131206.45,0.023,1
+2019,Germany,Europe,Mexico,North America,Export,Logic ICs,15205.69,0.004,3
+2019,Mexico,North America,Netherlands,Europe,Export,Analog ICs,16989.63,0.035,9
+2019,UK,Europe,Malaysia,Asia,Export,Analog ICs,624407.5,0.066,7
+2019,Malaysia,Asia,USA,North America,Import,Microprocessors,279012.41,0.123,4
+2019,Vietnam,Asia,Taiwan,Asia,Export,Optoelectronics,2436.8,0.053,4
+2019,Canada,North America,USA,North America,Export,Memory ICs,5310.3,0.1,5
+2019,Singapore,Asia,Taiwan,Asia,Export,Memory ICs,7391.2,0.069,6
+2019,Taiwan,Asia,China,Asia,Import,Microprocessors,238527.79,0.099,1
+2019,Germany,Europe,China,Asia,Import,Sensors,312755.73,0.013,5
+2019,Canada,North America,France,Europe,Import,Logic ICs,606.64,0.026,10
+2019,UK,Europe,Malaysia,Asia,Import,Microprocessors,304985.33,0.119,7
+2019,Mexico,North America,Germany,Europe,Export,Sensors,1940.91,0.149,8
+2019,Singapore,Asia,Mexico,North America,Import,Logic ICs,6018.99,0.039,8
+2019,Netherlands,Europe,USA,North America,Import,Microprocessors,76107.33,0.117,2
+2019,Canada,North America,UK,Europe,Export,Logic ICs,5630.37,0.057,2
+2019,India,Asia,Malaysia,Asia,Import,Logic ICs,2102.79,0.046,4
+2019,UK,Europe,Netherlands,Europe,Export,Microprocessors,45734.22,0.085,4
+2019,Vietnam,Asia,Mexico,North America,Import,Logic ICs,363721.7,0.017,2
+2019,Canada,North America,Germany,Europe,Export,Memory ICs,37600.95,0.119,4
+2019,UK,Europe,Malaysia,Asia,Import,Optoelectronics,41914.86,0.003,2
+2019,Germany,Europe,China,Asia,Export,Microprocessors,91541.07,0.086,6
+2019,USA,North America,Japan,Asia,Import,Sensors,28013.76,0.021,6
+2019,UK,Europe,Canada,North America,Export,Analog ICs,4451.17,0.072,4
+2019,Malaysia,Asia,France,Europe,Export,Optoelectronics,44493.39,0.082,4
+2019,China,Asia,Canada,North America,Export,Sensors,802.02,0.058,5
+2019,Germany,Europe,China,Asia,Export,Logic ICs,271813.84,0.009,2
+2019,Canada,North America,France,Europe,Export,Logic ICs,1878.91,0.011,3
+2019,Netherlands,Europe,Mexico,North America,Import,Microprocessors,13086.27,0.095,8
+2019,USA,North America,South Korea,Asia,Import,Microprocessors,147135.36,0.079,7
+2019,China,Asia,France,Europe,Import,Microprocessors,1130.26,0.061,3
+2019,Netherlands,Europe,India,Asia,Export,Sensors,65050.91,0.115,7
+2019,China,Asia,UK,Europe,Import,Optoelectronics,100539.94,0.003,5
+2019,Vietnam,Asia,Netherlands,Europe,Export,Optoelectronics,3016.3,0.082,5
+2019,Japan,Asia,Netherlands,Europe,Import,Memory ICs,20704.82,0.019,2
+2019,Japan,Asia,Mexico,North America,Export,Analog ICs,1416.86,0.069,5
+2019,Vietnam,Asia,Canada,North America,Import,Logic ICs,873.82,0.015,8
+2019,Malaysia,Asia,USA,North America,Export,Microprocessors,29659.5,0.14,8
+2019,South Korea,Asia,Mexico,North America,Import,Memory ICs,10306.04,0.058,6
+2019,Singapore,Asia,USA,North America,Import,Logic ICs,23482.44,0.023,1
+2019,Netherlands,Europe,South Korea,Asia,Export,Optoelectronics,4881.29,0.006,7
+2019,India,Asia,USA,North America,Import,Analog ICs,1488.83,0.052,3
+2019,Netherlands,Europe,Germany,Europe,Export,Analog ICs,3155.09,0.026,5
+2019,South Korea,Asia,UK,Europe,Export,Memory ICs,74180.92,0.057,2
+2019,Germany,Europe,USA,North America,Export,Sensors,303251.5,0.039,9
+2019,Malaysia,Asia,Vietnam,Asia,Import,Sensors,11883.44,0.019,8
+2019,China,Asia,Taiwan,Asia,Import,Optoelectronics,87019.98,0.138,2
+2019,India,Asia,Vietnam,Asia,Import,Logic ICs,2725.43,0.066,9
+2019,China,Asia,Taiwan,Asia,Export,Sensors,431.51,0.139,3
+2019,UK,Europe,USA,North America,Export,Optoelectronics,123123.97,0.129,1
+2019,Mexico,North America,Malaysia,Asia,Import,Memory ICs,6862.62,0.095,5
+2019,UK,Europe,Singapore,Asia,Export,Sensors,82930.86,0.027,6
+2019,Taiwan,Asia,India,Asia,Import,Sensors,230256.16,0.081,2
+2019,China,Asia,Canada,North America,Import,Microprocessors,7652.34,0.076,8
+2019,Mexico,North America,Canada,North America,Export,Analog ICs,71162.98,0.114,1
+2019,Singapore,Asia,Germany,Europe,Import,Sensors,824679.46,0.131,9
+2019,South Korea,Asia,France,Europe,Export,Memory ICs,76657.12,0.084,8
+2019,USA,North America,Mexico,North America,Import,Analog ICs,289515.74,0.031,10
+2019,South Korea,Asia,UK,Europe,Import,Analog ICs,9455.73,0.028,9
+2019,Canada,North America,Malaysia,Asia,Export,Microprocessors,1212.31,0.022,7
+2019,Taiwan,Asia,Singapore,Asia,Import,Optoelectronics,2410.0,0.019,4
+2019,Japan,Asia,Vietnam,Asia,Export,Sensors,736.79,0.062,8
+2019,Netherlands,Europe,South Korea,Asia,Export,Sensors,406114.95,0.025,9
+2019,Canada,North America,Japan,Asia,Import,Microprocessors,793581.74,0.016,10
+2019,Netherlands,Europe,Japan,Asia,Export,Sensors,25905.24,0.073,2
+2019,Germany,Europe,France,Europe,Export,Microprocessors,194959.87,0.022,8
+2019,Canada,North America,Mexico,North America,Export,Memory ICs,1284.38,0.106,4
+2019,Germany,Europe,Canada,North America,Export,Sensors,5251.95,0.013,4
+2019,USA,North America,India,Asia,Export,Analog ICs,526.86,0.115,9
+2019,Mexico,North America,Taiwan,Asia,Import,Logic ICs,912197.29,0.118,6
+2019,France,Europe,UK,Europe,Export,Analog ICs,2557.08,0.111,10
+2019,South Korea,Asia,Malaysia,Asia,Export,Optoelectronics,92594.09,0.088,6
+2019,USA,North America,India,Asia,Import,Analog ICs,628502.19,0.141,10
+2019,Germany,Europe,UK,Europe,Export,Analog ICs,5526.81,0.072,5
+2019,Vietnam,Asia,South Korea,Asia,Export,Sensors,257.95,0.095,7
+2019,Netherlands,Europe,China,Asia,Import,Logic ICs,31819.48,0.138,9
+2019,Japan,Asia,South Korea,Asia,Export,Microprocessors,2985.06,0.007,6
+2019,Mexico,North America,Netherlands,Europe,Import,Microprocessors,2595.41,0.127,6
+2019,Mexico,North America,Malaysia,Asia,Import,Microprocessors,458.04,0.005,4
+2019,China,Asia,Vietnam,Asia,Import,Logic ICs,1591.58,0.116,6
+2019,France,Europe,China,Asia,Export,Analog ICs,2463.64,0.145,7
+2019,South Korea,Asia,Vietnam,Asia,Export,Microprocessors,65181.29,0.074,5
+2019,China,Asia,South Korea,Asia,Import,Memory ICs,812057.17,0.029,1
+2019,Germany,Europe,Malaysia,Asia,Import,Microprocessors,4372.81,0.023,4
+2019,France,Europe,Vietnam,Asia,Import,Sensors,11724.9,0.084,1
+2019,Singapore,Asia,Canada,North America,Import,Memory ICs,166730.79,0.119,1
+2019,USA,North America,China,Asia,Export,Sensors,228.54,0.173,5
+2019,South Korea,Asia,China,Asia,Export,Logic ICs,8984.35,0.062,7
+2019,Taiwan,Asia,Mexico,North America,Export,Sensors,1226921.3,0.121,10
+2019,Germany,Europe,France,Europe,Import,Optoelectronics,8387.63,0.114,6
+2019,France,Europe,Singapore,Asia,Export,Optoelectronics,3272.61,0.099,4
+2019,Mexico,North America,UK,Europe,Import,Optoelectronics,41562.1,0.116,2
+2019,Malaysia,Asia,Singapore,Asia,Export,Analog ICs,20664.3,0.136,1
+2019,Vietnam,Asia,Japan,Asia,Import,Sensors,4417.25,0.06,3
+2019,South Korea,Asia,Germany,Europe,Import,Microprocessors,311.08,0.078,8
+2019,Mexico,North America,Malaysia,Asia,Export,Optoelectronics,237112.85,0.059,8
+2019,China,Asia,Vietnam,Asia,Export,Microprocessors,64439.83,0.084,2
+2019,Netherlands,Europe,Germany,Europe,Import,Analog ICs,3567357.88,0.005,8
+2019,South Korea,Asia,Mexico,North America,Export,Analog ICs,31748.91,0.047,6
+2019,UK,Europe,Taiwan,Asia,Import,Logic ICs,23119.67,0.145,7
+2019,South Korea,Asia,UK,Europe,Import,Memory ICs,371179.52,0.025,6
+2019,Vietnam,Asia,France,Europe,Import,Analog ICs,6588.99,0.004,4
+2019,China,Asia,Vietnam,Asia,Export,Sensors,38335.26,0.11,9
+2019,Japan,Asia,Taiwan,Asia,Export,Sensors,2942.21,0.071,9
+2019,South Korea,Asia,Singapore,Asia,Export,Sensors,215293.42,0.124,10
+2019,South Korea,Asia,Mexico,North America,Export,Memory ICs,13658.75,0.021,9
+2019,Germany,Europe,France,Europe,Export,Memory ICs,10576.09,0.092,7
+2019,Taiwan,Asia,USA,North America,Import,Microprocessors,98775.75,0.095,4
+2019,Canada,North America,China,Asia,Export,Analog ICs,20985.96,0.103,7
+2019,Taiwan,Asia,Malaysia,Asia,Export,Microprocessors,14065.63,0.13,6
+2019,France,Europe,South Korea,Asia,Import,Logic ICs,6711.96,0.046,4
+2019,UK,Europe,Japan,Asia,Export,Logic ICs,93640.77,0.1,2
+2019,Germany,Europe,USA,North America,Export,Analog ICs,83693.92,0.0,2
+2019,Singapore,Asia,UK,Europe,Export,Sensors,29192.2,0.057,4
+2019,USA,North America,Malaysia,Asia,Export,Sensors,199026.89,0.138,7
+2019,Taiwan,Asia,Malaysia,Asia,Import,Sensors,32596.17,0.121,4
+2019,Canada,North America,Netherlands,Europe,Export,Logic ICs,41521.18,0.046,7
+2019,Malaysia,Asia,Mexico,North America,Import,Microprocessors,43435.35,0.081,8
+2019,USA,North America,UK,Europe,Import,Logic ICs,6053.9,0.07,9
+2019,UK,Europe,India,Asia,Import,Analog ICs,97812.57,0.09,4
+2019,Mexico,North America,Singapore,Asia,Export,Logic ICs,3744.97,0.05,6
+2019,Malaysia,Asia,Singapore,Asia,Import,Optoelectronics,8025.18,0.064,2
+2019,South Korea,Asia,France,Europe,Import,Optoelectronics,108027.73,0.038,5
+2019,Germany,Europe,Mexico,North America,Import,Optoelectronics,154878.35,0.132,1
+2019,Singapore,Asia,Canada,North America,Import,Microprocessors,60005.31,0.137,9
+2019,Germany,Europe,Vietnam,Asia,Export,Optoelectronics,386288.7,0.096,7
+2019,Netherlands,Europe,Mexico,North America,Export,Microprocessors,12796.81,0.058,3
+2019,Taiwan,Asia,Mexico,North America,Export,Memory ICs,44641.3,0.04,6
+2019,Taiwan,Asia,Malaysia,Asia,Export,Logic ICs,21171.88,0.006,6
+2019,Vietnam,Asia,India,Asia,Export,Analog ICs,14180.33,0.029,3
+2019,Canada,North America,Japan,Asia,Export,Logic ICs,352.23,0.077,6
+2019,USA,North America,UK,Europe,Import,Sensors,39968.31,0.043,7
+2019,South Korea,Asia,USA,North America,Export,Sensors,39240.51,0.06,6
+2019,UK,Europe,Malaysia,Asia,Import,Optoelectronics,120503.43,0.08,7
+2019,Netherlands,Europe,Malaysia,Asia,Import,Optoelectronics,6970.35,0.101,3
+2019,India,Asia,Canada,North America,Import,Sensors,10518.2,0.109,8
+2019,Singapore,Asia,Canada,North America,Import,Optoelectronics,2328.47,0.091,1
+2019,Canada,North America,Vietnam,Asia,Import,Microprocessors,8382.3,0.039,7
+2019,USA,North America,France,Europe,Export,Memory ICs,29542.52,0.039,4
+2019,UK,Europe,USA,North America,Import,Microprocessors,7456.57,0.063,4
+2019,USA,North America,Mexico,North America,Export,Analog ICs,11923.16,0.053,7
+2019,China,Asia,France,Europe,Import,Logic ICs,111076.12,0.09,2
+2019,Germany,Europe,Taiwan,Asia,Import,Logic ICs,40564.13,0.023,3
+2019,Japan,Asia,Taiwan,Asia,Import,Optoelectronics,2236.23,0.002,3
+2019,India,Asia,USA,North America,Import,Optoelectronics,27367.72,0.06,5
+2019,South Korea,Asia,UK,Europe,Import,Logic ICs,121895.58,0.127,6
+2019,India,Asia,China,Asia,Export,Analog ICs,289134.94,0.012,9
+2019,South Korea,Asia,Taiwan,Asia,Export,Sensors,356799.97,0.123,9
+2019,France,Europe,Netherlands,Europe,Export,Analog ICs,13358.48,0.087,10
+2019,India,Asia,Malaysia,Asia,Export,Microprocessors,69820.04,0.077,5
+2019,Netherlands,Europe,Japan,Asia,Import,Logic ICs,184.3,0.052,4
+2019,Germany,Europe,Canada,North America,Export,Microprocessors,281329.16,0.089,1
+2019,Taiwan,Asia,South Korea,Asia,Export,Memory ICs,24393.61,0.126,8
+2019,Mexico,North America,Taiwan,Asia,Import,Microprocessors,2369.67,0.015,6
+2019,India,Asia,Vietnam,Asia,Import,Memory ICs,26778.42,0.047,5
+2019,UK,Europe,Vietnam,Asia,Import,Memory ICs,88779.3,0.09,9
+2019,USA,North America,Canada,North America,Import,Analog ICs,11297.77,0.144,4
+2019,USA,North America,Canada,North America,Export,Sensors,2022.62,0.083,2
+2019,Canada,North America,Taiwan,Asia,Import,Analog ICs,29315.93,0.126,3
+2019,Vietnam,Asia,China,Asia,Export,Optoelectronics,1767.09,0.145,7
+2019,Japan,Asia,Germany,Europe,Import,Microprocessors,3904.64,0.087,3
+2019,Canada,North America,France,Europe,Export,Analog ICs,77816.83,0.11,2
+2019,Singapore,Asia,Taiwan,Asia,Import,Memory ICs,17862.38,0.069,7
+2019,South Korea,Asia,Singapore,Asia,Export,Optoelectronics,4363070.86,0.034,5
+2019,China,Asia,India,Asia,Export,Optoelectronics,1090.14,0.069,6
+2019,South Korea,Asia,Taiwan,Asia,Import,Microprocessors,30415.75,0.07,10
+2019,Mexico,North America,Taiwan,Asia,Import,Analog ICs,10000.65,0.069,4
+2019,Taiwan,Asia,France,Europe,Import,Memory ICs,14787526.6,0.084,7
+2019,France,Europe,India,Asia,Import,Logic ICs,1828.19,0.054,1
+2019,Germany,Europe,South Korea,Asia,Export,Analog ICs,239884.42,0.115,4
+2019,Netherlands,Europe,Canada,North America,Import,Logic ICs,11228.43,0.009,1
+2019,USA,North America,Singapore,Asia,Import,Sensors,129432.91,0.139,6
+2019,India,Asia,Germany,Europe,Export,Memory ICs,106752.47,0.02,5
+2019,Mexico,North America,China,Asia,Import,Analog ICs,370474.84,0.044,7
+2019,Germany,Europe,USA,North America,Export,Logic ICs,61461.78,0.095,5
+2019,Canada,North America,Singapore,Asia,Export,Optoelectronics,56019.27,0.133,3
+2019,China,Asia,France,Europe,Export,Logic ICs,58216.53,0.108,4
+2019,UK,Europe,France,Europe,Export,Analog ICs,4515.0,0.121,2
+2019,Canada,North America,Germany,Europe,Import,Sensors,11897.42,0.045,8
+2019,USA,North America,Netherlands,Europe,Export,Memory ICs,16765.95,0.022,10
+2019,Canada,North America,Singapore,Asia,Import,Microprocessors,866.39,0.13,3
+2019,Singapore,Asia,Netherlands,Europe,Export,Sensors,219826.1,0.082,5
+2019,Canada,North America,South Korea,Asia,Import,Optoelectronics,38549.0,0.062,9
+2019,Taiwan,Asia,France,Europe,Import,Sensors,296996.2,0.083,4
+2019,China,Asia,UK,Europe,Export,Microprocessors,15173.02,0.035,5
+2019,Singapore,Asia,France,Europe,Export,Sensors,2183.64,0.116,2
+2019,Mexico,North America,Netherlands,Europe,Import,Sensors,25097.82,0.132,8
+2019,China,Asia,France,Europe,Import,Logic ICs,4252.07,0.0,10
+2019,Canada,North America,Vietnam,Asia,Export,Sensors,207328.82,0.106,7
+2019,Singapore,Asia,China,Asia,Export,Logic ICs,57501.99,0.012,9
+2019,USA,North America,India,Asia,Import,Logic ICs,15556.39,0.126,4
+2019,Japan,Asia,China,Asia,Import,Analog ICs,301971.12,0.057,3
+2019,South Korea,Asia,USA,North America,Export,Memory ICs,16734.98,0.085,9
+2019,Singapore,Asia,Netherlands,Europe,Export,Optoelectronics,151872.25,0.145,1
+2019,Japan,Asia,France,Europe,Import,Sensors,260996.28,0.04,4
+2019,Germany,Europe,Mexico,North America,Import,Memory ICs,21872.47,0.058,9
+2019,Germany,Europe,France,Europe,Export,Memory ICs,3165.27,0.095,3
+2019,Mexico,North America,Malaysia,Asia,Export,Logic ICs,34194.99,0.062,2
+2019,Malaysia,Asia,Taiwan,Asia,Import,Sensors,1552.79,0.132,1
+2019,Japan,Asia,Canada,North America,Import,Optoelectronics,18090.13,0.14,4
+2019,China,Asia,Germany,Europe,Export,Sensors,9247.12,0.097,5
+2019,Mexico,North America,Singapore,Asia,Export,Sensors,4374.79,0.006,9
+2019,USA,North America,Taiwan,Asia,Export,Memory ICs,89971.35,0.082,5
+2019,Vietnam,Asia,UK,Europe,Import,Optoelectronics,31350.16,0.005,3
+2019,France,Europe,Taiwan,Asia,Import,Microprocessors,25969.03,0.089,8
+2019,Canada,North America,India,Asia,Import,Microprocessors,17708.2,0.114,7
+2019,Mexico,North America,France,Europe,Import,Microprocessors,8290.0,0.146,6
+2019,South Korea,Asia,Vietnam,Asia,Import,Sensors,2314.4,0.065,5
+2019,Malaysia,Asia,USA,North America,Import,Memory ICs,8635.48,0.033,9
+2019,UK,Europe,Mexico,North America,Export,Analog ICs,71828.97,0.132,3
+2019,Malaysia,Asia,India,Asia,Export,Logic ICs,1181747.94,0.091,8
+2020,Singapore,Asia,Canada,North America,Export,Analog ICs,9980.04,0.034,2
+2020,China,Asia,Mexico,North America,Import,Microprocessors,15378.9,0.071,10
+2020,Japan,Asia,Vietnam,Asia,Export,Logic ICs,32067.72,0.098,6
+2020,Malaysia,Asia,USA,North America,Import,Memory ICs,909.2,0.029,10
+2020,Malaysia,Asia,Vietnam,Asia,Import,Memory ICs,2265.88,0.147,8
+2020,Singapore,Asia,Japan,Asia,Import,Microprocessors,3365.02,0.096,1
+2020,USA,North America,France,Europe,Export,Sensors,13017.4,0.134,9
+2020,UK,Europe,China,Asia,Export,Logic ICs,560.36,0.14,4
+2020,Japan,Asia,Malaysia,Asia,Import,Sensors,751.36,0.114,10
+2020,South Korea,Asia,UK,Europe,Import,Sensors,5225.78,0.041,6
+2020,UK,Europe,China,Asia,Export,Memory ICs,15672.15,0.084,6
+2020,Canada,North America,Singapore,Asia,Export,Optoelectronics,1590.6,0.007,1
+2020,USA,North America,India,Asia,Import,Memory ICs,9334.86,0.144,4
+2020,Germany,Europe,Mexico,North America,Export,Analog ICs,71475.25,0.147,9
+2020,Mexico,North America,India,Asia,Import,Logic ICs,4251.97,0.105,5
+2020,China,Asia,Netherlands,Europe,Export,Optoelectronics,306789.67,0.128,4
+2020,France,Europe,UK,Europe,Import,Analog ICs,3252.33,0.085,6
+2020,Canada,North America,Taiwan,Asia,Export,Logic ICs,56659.36,0.125,4
+2020,South Korea,Asia,Mexico,North America,Export,Microprocessors,77439.36,0.033,8
+2020,China,Asia,Netherlands,Europe,Export,Analog ICs,1739.25,0.038,9
+2020,Canada,North America,Germany,Europe,Export,Optoelectronics,21711.56,0.077,7
+2020,USA,North America,Germany,Europe,Export,Microprocessors,75362.15,0.113,3
+2020,Germany,Europe,USA,North America,Import,Analog ICs,105416.49,0.149,4
+2020,South Korea,Asia,India,Asia,Export,Microprocessors,1237.01,0.127,1
+2020,Vietnam,Asia,Canada,North America,Export,Microprocessors,4411.88,0.143,6
+2020,China,Asia,Singapore,Asia,Import,Logic ICs,97946.46,0.143,5
+2020,India,Asia,Singapore,Asia,Import,Optoelectronics,559290.98,0.042,7
+2020,France,Europe,Netherlands,Europe,Import,Memory ICs,27138.59,0.134,5
+2020,UK,Europe,Japan,Asia,Import,Memory ICs,27585.11,0.031,8
+2020,Malaysia,Asia,Germany,Europe,Export,Sensors,157362.04,0.031,9
+2020,India,Asia,Japan,Asia,Export,Analog ICs,120.49,0.122,8
+2020,France,Europe,Canada,North America,Export,Memory ICs,32790.57,0.116,8
+2020,Vietnam,Asia,Japan,Asia,Import,Memory ICs,27417.62,0.042,7
+2020,Canada,North America,South Korea,Asia,Import,Sensors,180783.94,0.082,9
+2020,Malaysia,Asia,Canada,North America,Import,Microprocessors,5702.07,0.146,7
+2020,Netherlands,Europe,Taiwan,Asia,Import,Optoelectronics,23583.55,0.066,3
+2020,Taiwan,Asia,France,Europe,Export,Microprocessors,201587.91,0.096,9
+2020,South Korea,Asia,Canada,North America,Import,Memory ICs,3588.47,0.045,5
+2020,Malaysia,Asia,India,Asia,Import,Sensors,10751.29,0.15,4
+2020,Netherlands,Europe,Singapore,Asia,Export,Optoelectronics,4238.15,0.081,8
+2020,USA,North America,India,Asia,Import,Memory ICs,4184.37,0.117,9
+2020,USA,North America,India,Asia,Export,Memory ICs,62631.79,0.072,1
+2020,Japan,Asia,France,Europe,Import,Analog ICs,10219.55,0.077,9
+2020,Germany,Europe,Japan,Asia,Import,Logic ICs,36330.05,0.067,2
+2020,Singapore,Asia,France,Europe,Export,Analog ICs,12722.41,0.019,9
+2020,USA,North America,China,Asia,Import,Logic ICs,85566.91,0.152,6
+2020,Japan,Asia,South Korea,Asia,Import,Logic ICs,182848.66,0.084,7
+2020,USA,North America,Germany,Europe,Export,Microprocessors,143647.87,0.118,4
+2020,China,Asia,USA,North America,Import,Analog ICs,1058.12,0.106,3
+2020,Taiwan,Asia,Malaysia,Asia,Import,Logic ICs,10785.32,0.081,5
+2020,USA,North America,South Korea,Asia,Import,Sensors,51077.03,0.121,4
+2020,Mexico,North America,Netherlands,Europe,Export,Sensors,12017.14,0.101,5
+2020,Singapore,Asia,Netherlands,Europe,Export,Analog ICs,1493.73,0.024,1
+2020,USA,North America,Mexico,North America,Export,Optoelectronics,86173.59,0.046,1
+2020,Taiwan,Asia,USA,North America,Import,Logic ICs,37394.84,0.037,1
+2020,UK,Europe,China,Asia,Export,Logic ICs,146714.36,0.103,5
+2020,India,Asia,China,Asia,Export,Microprocessors,7201.25,0.117,6
+2020,Canada,North America,Singapore,Asia,Export,Optoelectronics,43482.71,0.049,10
+2020,Malaysia,Asia,Singapore,Asia,Export,Sensors,1545.91,0.146,5
+2020,Mexico,North America,UK,Europe,Import,Optoelectronics,25718.03,0.028,4
+2020,Malaysia,Asia,USA,North America,Import,Logic ICs,1104.27,0.031,9
+2020,Germany,Europe,China,Asia,Export,Memory ICs,6002.62,0.103,10
+2020,India,Asia,Netherlands,Europe,Import,Analog ICs,7380.82,0.09,4
+2020,Germany,Europe,France,Europe,Export,Sensors,12793.47,0.096,6
+2020,Germany,Europe,Taiwan,Asia,Import,Analog ICs,237951.65,0.092,9
+2020,India,Asia,Japan,Asia,Import,Microprocessors,167267.81,0.0,4
+2020,USA,North America,Germany,Europe,Export,Logic ICs,66366.82,0.03,6
+2020,Japan,Asia,China,Asia,Export,Logic ICs,43528.82,0.008,1
+2020,USA,North America,Canada,North America,Export,Logic ICs,89558.59,0.033,9
+2020,Canada,North America,UK,Europe,Export,Sensors,25183.99,0.147,1
+2020,Vietnam,Asia,China,Asia,Import,Sensors,236189.2,0.013,9
+2020,Mexico,North America,France,Europe,Import,Microprocessors,11548.96,0.065,9
+2020,India,Asia,Vietnam,Asia,Import,Microprocessors,507108.12,0.036,4
+2020,Canada,North America,Singapore,Asia,Import,Logic ICs,290900.41,0.123,4
+2020,France,Europe,USA,North America,Import,Sensors,3524.93,0.009,2
+2020,Germany,Europe,UK,Europe,Export,Logic ICs,4172.85,0.101,2
+2020,UK,Europe,Netherlands,Europe,Export,Memory ICs,59836.45,0.14,8
+2020,UK,Europe,Germany,Europe,Export,Sensors,56613.6,0.111,8
+2020,India,Asia,UK,Europe,Export,Analog ICs,10024.44,0.031,9
+2020,Netherlands,Europe,USA,North America,Export,Microprocessors,832963.44,0.137,5
+2020,Malaysia,Asia,China,Asia,Export,Analog ICs,1595609.32,0.037,6
+2020,Vietnam,Asia,Singapore,Asia,Export,Memory ICs,4908.85,0.097,5
+2020,France,Europe,Mexico,North America,Export,Memory ICs,441559.83,0.09,4
+2020,Taiwan,Asia,Netherlands,Europe,Import,Analog ICs,22045.03,0.074,4
+2020,Mexico,North America,France,Europe,Import,Analog ICs,728285.49,0.039,6
+2020,South Korea,Asia,Canada,North America,Import,Logic ICs,2874.12,0.028,5
+2020,China,Asia,Netherlands,Europe,Import,Optoelectronics,14503.47,0.121,1
+2020,Japan,Asia,Mexico,North America,Export,Analog ICs,278130.1,0.077,7
+2020,Malaysia,Asia,South Korea,Asia,Import,Memory ICs,173224.62,0.046,7
+2020,South Korea,Asia,Japan,Asia,Export,Memory ICs,65810.17,0.056,10
+2020,Netherlands,Europe,USA,North America,Import,Optoelectronics,8523.69,0.078,5
+2020,Vietnam,Asia,Netherlands,Europe,Import,Microprocessors,173900.23,0.129,3
+2020,UK,Europe,Malaysia,Asia,Import,Sensors,10567.54,0.062,4
+2020,France,Europe,Netherlands,Europe,Import,Logic ICs,559.84,0.111,5
+2020,China,Asia,South Korea,Asia,Export,Microprocessors,1823.6,0.013,1
+2020,UK,Europe,India,Asia,Export,Memory ICs,24584.42,0.132,10
+2020,Vietnam,Asia,France,Europe,Export,Analog ICs,27214.33,0.091,7
+2020,Netherlands,Europe,France,Europe,Export,Analog ICs,1038.53,0.05,8
+2020,Singapore,Asia,India,Asia,Import,Logic ICs,923.37,0.081,10
+2020,Singapore,Asia,France,Europe,Export,Logic ICs,512.94,0.031,2
+2020,Germany,Europe,Canada,North America,Export,Logic ICs,66022.95,0.017,1
+2020,South Korea,Asia,Canada,North America,Import,Memory ICs,1864311.82,0.077,5
+2020,Vietnam,Asia,USA,North America,Import,Memory ICs,102.56,0.003,1
+2020,India,Asia,Malaysia,Asia,Import,Optoelectronics,37017.54,0.061,5
+2020,India,Asia,Vietnam,Asia,Export,Logic ICs,137425.06,0.113,9
+2020,Taiwan,Asia,Malaysia,Asia,Import,Microprocessors,188481.63,0.05,9
+2020,Netherlands,Europe,UK,Europe,Import,Analog ICs,10683.76,0.073,5
+2020,UK,Europe,Malaysia,Asia,Export,Memory ICs,250356.99,0.135,2
+2020,Singapore,Asia,Taiwan,Asia,Export,Microprocessors,69130.83,0.127,4
+2020,Malaysia,Asia,USA,North America,Import,Memory ICs,4926.74,0.056,6
+2020,France,Europe,Japan,Asia,Export,Optoelectronics,516.41,0.033,6
+2020,UK,Europe,Singapore,Asia,Import,Sensors,76071.04,0.056,4
+2020,India,Asia,Vietnam,Asia,Import,Analog ICs,15269.49,0.125,1
+2020,Malaysia,Asia,Mexico,North America,Import,Microprocessors,81009.6,0.014,8
+2020,France,Europe,Malaysia,Asia,Export,Logic ICs,359760.49,0.113,7
+2020,Vietnam,Asia,Japan,Asia,Import,Analog ICs,50478.16,0.101,7
+2020,Mexico,North America,Malaysia,Asia,Import,Microprocessors,2444.37,0.039,3
+2020,South Korea,Asia,Vietnam,Asia,Export,Memory ICs,10898.19,0.087,6
+2020,UK,Europe,Vietnam,Asia,Export,Memory ICs,585995.35,0.058,8
+2020,India,Asia,Malaysia,Asia,Export,Optoelectronics,5936.3,0.032,10
+2020,Mexico,North America,India,Asia,Import,Logic ICs,2750.17,0.067,7
+2020,China,Asia,UK,Europe,Export,Logic ICs,35626.67,0.041,6
+2020,Malaysia,Asia,France,Europe,Import,Sensors,4332.83,0.079,5
+2020,Vietnam,Asia,UK,Europe,Import,Analog ICs,95604.81,0.089,6
+2020,Vietnam,Asia,Netherlands,Europe,Import,Microprocessors,44346.11,0.118,10
+2020,South Korea,Asia,Japan,Asia,Export,Logic ICs,20832.9,0.065,1
+2020,South Korea,Asia,France,Europe,Export,Sensors,143026.34,0.124,8
+2020,UK,Europe,China,Asia,Export,Sensors,14644.4,0.064,8
+2020,Singapore,Asia,France,Europe,Import,Optoelectronics,43049.94,0.037,6
+2020,Canada,North America,Taiwan,Asia,Export,Analog ICs,41452.85,0.15,10
+2020,Germany,Europe,Canada,North America,Import,Analog ICs,654.33,0.048,3
+2020,Japan,Asia,India,Asia,Import,Optoelectronics,78976.2,0.118,5
+2020,Germany,Europe,Taiwan,Asia,Export,Sensors,35567.15,0.046,7
+2020,France,Europe,India,Asia,Export,Analog ICs,58006.96,0.141,5
+2020,South Korea,Asia,Canada,North America,Export,Analog ICs,29430.17,0.114,2
+2020,Vietnam,Asia,Canada,North America,Import,Logic ICs,23105.04,0.034,3
+2020,Netherlands,Europe,Singapore,Asia,Import,Sensors,355013.37,0.095,5
+2020,Germany,Europe,South Korea,Asia,Export,Memory ICs,3243.7,0.097,1
+2020,Vietnam,Asia,Japan,Asia,Export,Logic ICs,81551.09,0.125,7
+2020,Taiwan,Asia,China,Asia,Export,Analog ICs,22284.96,0.025,5
+2020,Netherlands,Europe,Malaysia,Asia,Import,Logic ICs,1598.2,0.023,7
+2020,Japan,Asia,USA,North America,Import,Microprocessors,249798.87,0.006,2
+2020,France,Europe,USA,North America,Import,Sensors,62702.59,0.105,8
+2020,Taiwan,Asia,Japan,Asia,Export,Sensors,315443.34,0.08,8
+2020,Vietnam,Asia,UK,Europe,Import,Optoelectronics,235236.12,0.096,6
+2020,Vietnam,Asia,India,Asia,Export,Microprocessors,40116.75,0.053,6
+2020,Japan,Asia,Singapore,Asia,Import,Memory ICs,32534.29,0.132,7
+2020,Canada,North America,India,Asia,Import,Analog ICs,4834.03,0.111,8
+2020,France,Europe,Malaysia,Asia,Import,Analog ICs,39234.35,0.07,5
+2020,UK,Europe,Japan,Asia,Export,Optoelectronics,25579.65,0.146,1
+2020,USA,North America,Vietnam,Asia,Export,Optoelectronics,14592.77,0.011,10
+2020,China,Asia,India,Asia,Export,Memory ICs,4948.52,0.04,10
+2020,Japan,Asia,France,Europe,Import,Microprocessors,19466.91,0.042,8
+2020,India,Asia,UK,Europe,Export,Optoelectronics,57462.22,0.035,10
+2020,Netherlands,Europe,Mexico,North America,Import,Microprocessors,8846.33,0.032,6
+2020,Japan,Asia,France,Europe,Export,Sensors,31661.39,0.13,8
+2020,Netherlands,Europe,Taiwan,Asia,Export,Analog ICs,329080.26,0.021,6
+2020,Vietnam,Asia,Singapore,Asia,Export,Sensors,38730.2,0.047,7
+2020,USA,North America,Netherlands,Europe,Import,Memory ICs,2055.51,0.109,2
+2020,Germany,Europe,Mexico,North America,Export,Logic ICs,211.89,0.129,7
+2020,Netherlands,Europe,Canada,North America,Import,Logic ICs,136.05,0.098,6
+2020,Germany,Europe,Mexico,North America,Import,Logic ICs,1172046.52,0.129,2
+2020,Netherlands,Europe,Japan,Asia,Import,Logic ICs,140195.92,0.133,1
+2020,South Korea,Asia,Taiwan,Asia,Import,Optoelectronics,23471.99,0.087,10
+2020,UK,Europe,France,Europe,Export,Microprocessors,3802.67,0.02,8
+2020,Mexico,North America,South Korea,Asia,Export,Analog ICs,150830.69,0.033,6
+2020,China,Asia,Taiwan,Asia,Export,Optoelectronics,499768.16,0.056,6
+2020,UK,Europe,Germany,Europe,Export,Analog ICs,1289887.29,0.134,1
+2020,India,Asia,France,Europe,Import,Optoelectronics,62317.54,0.033,5
+2020,Vietnam,Asia,Japan,Asia,Import,Sensors,3116.06,0.113,10
+2020,China,Asia,USA,North America,Export,Microprocessors,12314.49,0.069,1
+2020,Singapore,Asia,Vietnam,Asia,Export,Memory ICs,55092.75,0.142,7
+2020,UK,Europe,Singapore,Asia,Export,Analog ICs,39513.02,0.07,1
+2020,Mexico,North America,Malaysia,Asia,Import,Memory ICs,15143.73,0.114,1
+2020,UK,Europe,Netherlands,Europe,Import,Memory ICs,229423.43,0.026,5
+2020,UK,Europe,South Korea,Asia,Export,Logic ICs,10607.62,0.077,4
+2020,France,Europe,Malaysia,Asia,Export,Memory ICs,9266.85,0.094,1
+2020,Malaysia,Asia,Japan,Asia,Import,Sensors,41311.57,0.149,3
+2020,India,Asia,China,Asia,Export,Logic ICs,9351.66,0.116,9
+2020,Malaysia,Asia,Singapore,Asia,Export,Analog ICs,367.28,0.026,1
+2020,India,Asia,Singapore,Asia,Export,Sensors,26856.23,0.098,1
+2020,Vietnam,Asia,Canada,North America,Import,Optoelectronics,6081.09,0.125,8
+2020,Taiwan,Asia,China,Asia,Export,Optoelectronics,9281.26,0.013,1
+2020,Germany,Europe,India,Asia,Export,Logic ICs,503449.9,0.05,2
+2020,France,Europe,Singapore,Asia,Import,Microprocessors,659336.24,0.029,2
+2020,Taiwan,Asia,Netherlands,Europe,Import,Analog ICs,190233.35,0.076,6
+2020,Vietnam,Asia,USA,North America,Import,Microprocessors,319868.26,0.093,3
+2020,Vietnam,Asia,Mexico,North America,Import,Sensors,175739.02,0.012,1
+2020,Vietnam,Asia,China,Asia,Export,Logic ICs,79297.32,0.009,9
+2020,France,Europe,Singapore,Asia,Export,Sensors,15047.9,0.067,2
+2020,Germany,Europe,Vietnam,Asia,Export,Sensors,1592.04,0.027,8
+2020,South Korea,Asia,Germany,Europe,Export,Analog ICs,121493.63,0.008,3
+2020,Mexico,North America,Malaysia,Asia,Import,Microprocessors,724.32,0.133,4
+2020,Mexico,North America,Netherlands,Europe,Export,Logic ICs,985.19,0.066,2
+2020,UK,Europe,Germany,Europe,Export,Optoelectronics,254273.6,0.018,1
+2020,Japan,Asia,Taiwan,Asia,Import,Memory ICs,39375.67,0.045,4
+2020,France,Europe,UK,Europe,Import,Optoelectronics,595.19,0.053,7
+2020,Japan,Asia,India,Asia,Export,Optoelectronics,343731.34,0.123,6
+2020,Singapore,Asia,Netherlands,Europe,Export,Analog ICs,356857.03,0.141,8
+2020,Netherlands,Europe,India,Asia,Import,Optoelectronics,365.68,0.015,5
+2020,Netherlands,Europe,South Korea,Asia,Export,Analog ICs,29667.88,0.111,3
+2020,UK,Europe,India,Asia,Export,Microprocessors,5659.65,0.015,10
+2020,Canada,North America,India,Asia,Export,Optoelectronics,8783.64,0.119,7
+2020,France,Europe,Vietnam,Asia,Import,Memory ICs,1041.62,0.008,4
+2020,Malaysia,Asia,Mexico,North America,Import,Sensors,67044.12,0.038,10
+2020,Taiwan,Asia,Vietnam,Asia,Import,Logic ICs,1523.91,0.011,3
+2020,Canada,North America,Singapore,Asia,Export,Logic ICs,2550.07,0.013,1
+2020,UK,Europe,Canada,North America,Export,Analog ICs,6165.1,0.033,8
+2020,Canada,North America,France,Europe,Export,Optoelectronics,4516.9,0.045,3
+2020,Mexico,North America,Taiwan,Asia,Import,Sensors,251.47,0.011,7
+2020,Malaysia,Asia,China,Asia,Export,Optoelectronics,2472.25,0.098,2
+2020,China,Asia,Japan,Asia,Import,Logic ICs,4251.63,0.107,7
+2020,Mexico,North America,Netherlands,Europe,Import,Analog ICs,173465.84,0.035,3
+2020,Vietnam,Asia,Mexico,North America,Export,Optoelectronics,325008.47,0.066,7
+2020,India,Asia,China,Asia,Import,Analog ICs,6488.05,0.101,5
+2020,France,Europe,UK,Europe,Export,Analog ICs,617.77,0.004,4
+2020,Canada,North America,Vietnam,Asia,Export,Optoelectronics,7463.89,0.048,9
+2020,Netherlands,Europe,Canada,North America,Export,Microprocessors,38655.45,0.137,10
+2020,Canada,North America,Malaysia,Asia,Export,Analog ICs,12789.24,0.006,5
+2020,Canada,North America,Netherlands,Europe,Export,Memory ICs,6636.51,0.124,7
+2020,South Korea,Asia,UK,Europe,Export,Memory ICs,9961.77,0.115,6
+2020,Vietnam,Asia,China,Asia,Import,Memory ICs,32361.97,0.077,5
+2020,Vietnam,Asia,Japan,Asia,Export,Analog ICs,268850.02,0.107,4
+2020,France,Europe,Japan,Asia,Import,Logic ICs,34629.38,0.032,6
+2020,Singapore,Asia,Taiwan,Asia,Import,Sensors,11840.34,0.093,10
+2020,Germany,Europe,Malaysia,Asia,Export,Microprocessors,3172.08,0.099,1
+2020,China,Asia,USA,North America,Import,Logic ICs,14867.84,0.075,7
+2020,UK,Europe,Malaysia,Asia,Export,Memory ICs,147023.46,0.026,9
+2020,Vietnam,Asia,UK,Europe,Export,Logic ICs,2570.08,0.121,9
+2020,UK,Europe,Germany,Europe,Export,Memory ICs,286443.7,0.012,5
+2020,South Korea,Asia,Taiwan,Asia,Import,Logic ICs,58830.48,0.139,10
+2020,China,Asia,Taiwan,Asia,Import,Analog ICs,10763.77,0.063,3
+2020,China,Asia,Germany,Europe,Import,Analog ICs,15293.2,0.118,10
+2020,Mexico,North America,Canada,North America,Export,Sensors,23438.89,0.082,8
+2020,Netherlands,Europe,France,Europe,Import,Sensors,2156.27,0.033,1
+2020,Singapore,Asia,Japan,Asia,Import,Optoelectronics,11874.93,0.013,4
+2020,Mexico,North America,Taiwan,Asia,Import,Microprocessors,2935.99,0.05,7
+2020,Canada,North America,Japan,Asia,Export,Optoelectronics,3146.85,0.066,3
+2020,France,Europe,Japan,Asia,Import,Sensors,1193.67,0.031,5
+2020,India,Asia,Netherlands,Europe,Export,Optoelectronics,37876.1,0.022,6
+2020,France,Europe,Japan,Asia,Export,Sensors,18835.95,0.124,3
+2020,Netherlands,Europe,China,Asia,Import,Analog ICs,46075.86,0.096,4
+2020,Taiwan,Asia,Japan,Asia,Export,Microprocessors,123607.54,0.119,4
+2020,Malaysia,Asia,Japan,Asia,Export,Memory ICs,43521.75,0.007,7
+2020,UK,Europe,India,Asia,Import,Sensors,2011.07,0.012,10
+2020,Malaysia,Asia,Vietnam,Asia,Import,Microprocessors,131583.3,0.147,3
+2020,Malaysia,Asia,South Korea,Asia,Import,Analog ICs,757.94,0.093,8
+2020,USA,North America,UK,Europe,Import,Optoelectronics,354.46,0.064,8
+2020,USA,North America,India,Asia,Import,Optoelectronics,3279.24,0.115,2
+2020,Vietnam,Asia,Singapore,Asia,Export,Microprocessors,5687.41,0.009,8
+2020,China,Asia,India,Asia,Import,Optoelectronics,86452.02,0.049,8
+2020,Malaysia,Asia,Taiwan,Asia,Export,Optoelectronics,19714.41,0.098,6
+2020,Malaysia,Asia,Japan,Asia,Export,Analog ICs,45905.5,0.062,9
+2020,Mexico,North America,Vietnam,Asia,Import,Memory ICs,1864.62,0.012,2
+2020,Japan,Asia,Netherlands,Europe,Export,Memory ICs,394975.54,0.026,2
+2020,France,Europe,Malaysia,Asia,Export,Memory ICs,266.98,0.008,5
+2020,Mexico,North America,Japan,Asia,Import,Optoelectronics,782.74,0.138,6
+2020,Singapore,Asia,Taiwan,Asia,Export,Optoelectronics,183039.46,0.044,4
+2020,Singapore,Asia,Malaysia,Asia,Export,Logic ICs,46515.31,0.087,7
+2020,Canada,North America,India,Asia,Export,Analog ICs,199568.62,0.139,5
+2020,Singapore,Asia,Germany,Europe,Export,Sensors,3607.5,0.1,7
+2020,UK,Europe,France,Europe,Export,Logic ICs,229926.21,0.125,2
+2020,South Korea,Asia,Canada,North America,Import,Microprocessors,1485.78,0.045,1
+2020,South Korea,Asia,France,Europe,Import,Logic ICs,139403.38,0.083,6
+2020,UK,Europe,Netherlands,Europe,Export,Optoelectronics,25827.52,0.077,6
+2020,France,Europe,Malaysia,Asia,Import,Sensors,66710.36,0.1,5
+2020,Mexico,North America,India,Asia,Import,Logic ICs,6276.28,0.027,6
+2020,Singapore,Asia,India,Asia,Import,Sensors,12381.05,0.131,3
+2020,Japan,Asia,UK,Europe,Import,Logic ICs,13066.56,0.048,2
+2020,Canada,North America,Japan,Asia,Export,Optoelectronics,406.44,0.104,1
+2020,Germany,Europe,Mexico,North America,Import,Optoelectronics,703693.79,0.105,9
+2020,Netherlands,Europe,Japan,Asia,Import,Sensors,89838.02,0.149,9
+2020,Taiwan,Asia,Mexico,North America,Export,Optoelectronics,6182.91,0.034,8
+2020,Vietnam,Asia,Germany,Europe,Export,Analog ICs,90079.2,0.042,9
+2020,Japan,Asia,Singapore,Asia,Import,Analog ICs,233510.37,0.035,10
+2020,Vietnam,Asia,India,Asia,Import,Sensors,2098648.18,0.078,3
+2020,Taiwan,Asia,UK,Europe,Export,Sensors,3192.09,0.147,8
+2020,India,Asia,Japan,Asia,Export,Analog ICs,51722.8,0.136,4
+2020,Malaysia,Asia,Mexico,North America,Export,Sensors,383.43,0.137,5
+2020,Singapore,Asia,Malaysia,Asia,Import,Logic ICs,111062.62,0.125,6
+2020,Malaysia,Asia,Japan,Asia,Export,Microprocessors,381470.77,0.068,6
+2020,Malaysia,Asia,Netherlands,Europe,Import,Memory ICs,6918.19,0.088,9
+2020,Vietnam,Asia,Malaysia,Asia,Export,Optoelectronics,25774.84,0.024,1
+2020,Germany,Europe,UK,Europe,Export,Microprocessors,311.85,0.06,8
+2020,Malaysia,Asia,Germany,Europe,Export,Memory ICs,454379.94,0.069,10
+2020,Taiwan,Asia,Netherlands,Europe,Import,Memory ICs,426356.69,0.11,1
+2020,China,Asia,USA,North America,Import,Memory ICs,2926054.55,0.087,6
+2020,India,Asia,Japan,Asia,Import,Logic ICs,7446.02,0.024,2
+2020,Japan,Asia,USA,North America,Export,Analog ICs,3031.09,0.006,2
+2020,Malaysia,Asia,Canada,North America,Import,Optoelectronics,87453.56,0.038,4
+2020,China,Asia,Japan,Asia,Import,Analog ICs,123410.6,0.059,3
+2020,France,Europe,India,Asia,Import,Microprocessors,29089.16,0.092,7
+2020,UK,Europe,Vietnam,Asia,Export,Logic ICs,2069669.5,0.124,2
+2020,Vietnam,Asia,South Korea,Asia,Import,Optoelectronics,9810.47,0.019,10
+2020,Vietnam,Asia,Netherlands,Europe,Export,Optoelectronics,480866.82,0.12,3
+2020,South Korea,Asia,China,Asia,Import,Sensors,2338.96,0.14,9
+2020,Vietnam,Asia,USA,North America,Export,Optoelectronics,63388.38,0.051,6
+2020,South Korea,Asia,Mexico,North America,Import,Optoelectronics,285725.0,0.042,5
+2020,France,Europe,China,Asia,Export,Optoelectronics,15446.83,0.113,10
+2020,USA,North America,Mexico,North America,Import,Memory ICs,1464.02,0.066,2
+2020,Japan,Asia,USA,North America,Export,Optoelectronics,19649.49,0.067,5
+2020,Netherlands,Europe,India,Asia,Export,Sensors,95539.05,0.025,3
+2020,Netherlands,Europe,USA,North America,Import,Memory ICs,362507.19,0.079,10
+2020,India,Asia,Netherlands,Europe,Export,Optoelectronics,66732.64,0.002,3
+2020,Germany,Europe,Vietnam,Asia,Export,Optoelectronics,7506.52,0.06,3
+2020,Germany,Europe,Singapore,Asia,Export,Memory ICs,16785.83,0.022,4
+2020,Germany,Europe,South Korea,Asia,Import,Optoelectronics,181877.6,0.149,9
+2020,Mexico,North America,UK,Europe,Import,Optoelectronics,5397497.95,0.007,7
+2020,Taiwan,Asia,China,Asia,Import,Sensors,3699236.25,0.007,8
+2020,Singapore,Asia,USA,North America,Import,Memory ICs,72605.37,0.025,1
+2020,Mexico,North America,Vietnam,Asia,Export,Sensors,5249.92,0.148,5
+2020,India,Asia,Malaysia,Asia,Export,Sensors,1687.21,0.057,2
+2020,India,Asia,Mexico,North America,Import,Logic ICs,16028.58,0.115,9
+2020,Singapore,Asia,Japan,Asia,Export,Logic ICs,9538.18,0.003,9
+2020,China,Asia,Germany,Europe,Export,Sensors,3526.82,0.059,5
+2020,Malaysia,Asia,Japan,Asia,Export,Memory ICs,212902.5,0.12,2
+2020,Vietnam,Asia,Netherlands,Europe,Import,Memory ICs,205034.47,0.066,9
+2020,Netherlands,Europe,India,Asia,Import,Analog ICs,5820.21,0.049,10
+2020,UK,Europe,Taiwan,Asia,Import,Microprocessors,2222274.62,0.111,6
+2020,Netherlands,Europe,Singapore,Asia,Export,Analog ICs,15405.04,0.05,7
+2020,Mexico,North America,India,Asia,Import,Analog ICs,4815.71,0.027,5
+2020,Vietnam,Asia,Germany,Europe,Export,Analog ICs,23789.84,0.069,6
+2020,Canada,North America,UK,Europe,Import,Microprocessors,3192.85,0.02,7
+2020,Netherlands,Europe,Taiwan,Asia,Import,Memory ICs,1718470.17,0.136,9
+2020,Malaysia,Asia,USA,North America,Export,Analog ICs,14825.81,0.063,2
+2020,Netherlands,Europe,France,Europe,Import,Optoelectronics,1377543.88,0.071,7
+2020,India,Asia,Canada,North America,Export,Memory ICs,15260.54,0.006,6
+2020,India,Asia,Malaysia,Asia,Import,Optoelectronics,780.86,0.062,5
+2020,Vietnam,Asia,Singapore,Asia,Export,Optoelectronics,2384.73,0.039,5
+2020,Mexico,North America,USA,North America,Export,Logic ICs,20503.46,0.027,10
+2020,China,Asia,Malaysia,Asia,Export,Analog ICs,160790.82,0.004,2
+2020,Singapore,Asia,Germany,Europe,Import,Optoelectronics,3581.68,0.071,8
+2020,Germany,Europe,China,Asia,Export,Logic ICs,3718.6,0.038,1
+2020,Japan,Asia,Malaysia,Asia,Import,Logic ICs,11419.0,0.129,2
+2020,Malaysia,Asia,China,Asia,Import,Analog ICs,133312.17,0.044,9
+2020,USA,North America,Vietnam,Asia,Import,Logic ICs,253282.86,0.04,8
+2020,Netherlands,Europe,China,Asia,Export,Logic ICs,1543468.64,0.064,9
+2020,India,Asia,Netherlands,Europe,Import,Memory ICs,315741.19,0.116,9
+2020,Japan,Asia,China,Asia,Export,Microprocessors,258729.0,0.058,8
+2020,Malaysia,Asia,Canada,North America,Import,Memory ICs,828.05,0.14,3
+2020,Malaysia,Asia,Japan,Asia,Import,Optoelectronics,991114.53,0.102,4
+2020,Vietnam,Asia,Canada,North America,Export,Optoelectronics,99523.78,0.043,8
+2020,Germany,Europe,France,Europe,Export,Logic ICs,10040.63,0.053,8
+2020,Malaysia,Asia,Japan,Asia,Import,Memory ICs,1442.56,0.102,7
+2020,Netherlands,Europe,Singapore,Asia,Export,Optoelectronics,15395.24,0.117,7
+2020,France,Europe,Malaysia,Asia,Import,Memory ICs,48612.67,0.049,7
+2020,USA,North America,Canada,North America,Export,Logic ICs,63716.14,0.031,6
+2020,Germany,Europe,Vietnam,Asia,Import,Memory ICs,565234.9,0.031,4
+2020,South Korea,Asia,Germany,Europe,Export,Analog ICs,22500.31,0.138,8
+2020,Malaysia,Asia,Japan,Asia,Import,Logic ICs,14066.33,0.049,3
+2020,Netherlands,Europe,UK,Europe,Import,Analog ICs,17197.76,0.051,9
+2020,France,Europe,Taiwan,Asia,Export,Analog ICs,55028.76,0.037,4
+2020,Germany,Europe,Vietnam,Asia,Import,Optoelectronics,7115.54,0.104,7
+2020,Taiwan,Asia,Canada,North America,Export,Logic ICs,51350.23,0.008,8
+2020,India,Asia,Vietnam,Asia,Import,Analog ICs,10050.3,0.027,3
+2020,Vietnam,Asia,South Korea,Asia,Export,Sensors,15540.54,0.142,3
+2020,Japan,Asia,Taiwan,Asia,Import,Logic ICs,23574.84,0.012,6
+2020,Japan,Asia,Germany,Europe,Import,Analog ICs,30879.42,0.025,8
+2020,Netherlands,Europe,India,Asia,Import,Analog ICs,19475.13,0.029,10
+2020,South Korea,Asia,USA,North America,Export,Microprocessors,40488.28,0.087,1
+2020,Germany,Europe,South Korea,Asia,Export,Analog ICs,6726.81,0.126,1
+2020,Mexico,North America,Singapore,Asia,Export,Memory ICs,41332.84,0.061,2
+2020,France,Europe,Taiwan,Asia,Import,Memory ICs,4137.12,0.037,9
+2020,China,Asia,Singapore,Asia,Export,Optoelectronics,107642.5,0.021,4
+2020,USA,North America,Canada,North America,Import,Memory ICs,1246.61,0.052,2
+2020,China,Asia,Taiwan,Asia,Import,Optoelectronics,1585.05,0.005,9
+2020,Taiwan,Asia,UK,Europe,Export,Analog ICs,15322.87,0.099,8
+2020,UK,Europe,Canada,North America,Export,Optoelectronics,17806.63,0.062,6
+2020,Germany,Europe,South Korea,Asia,Export,Memory ICs,9025.46,0.069,10
+2020,Netherlands,Europe,China,Asia,Export,Optoelectronics,851302.67,0.099,6
+2020,USA,North America,Netherlands,Europe,Import,Optoelectronics,204308.93,0.072,10
+2020,Malaysia,Asia,China,Asia,Import,Analog ICs,1125.69,0.137,6
+2020,Taiwan,Asia,China,Asia,Import,Optoelectronics,104783.1,0.065,8
+2020,Japan,Asia,Canada,North America,Export,Analog ICs,30826.18,0.056,1
+2020,Mexico,North America,Vietnam,Asia,Import,Microprocessors,101249.1,0.041,1
+2020,Canada,North America,Singapore,Asia,Export,Sensors,4317.45,0.051,5
+2020,India,Asia,Netherlands,Europe,Import,Memory ICs,41065.97,0.101,10
+2020,China,Asia,Vietnam,Asia,Export,Analog ICs,52088.37,0.121,2
+2020,Vietnam,Asia,Netherlands,Europe,Export,Sensors,36190.35,0.149,4
+2020,China,Asia,India,Asia,Import,Optoelectronics,853.04,0.08,9
+2020,India,Asia,France,Europe,Export,Memory ICs,83233.53,0.051,8
+2020,India,Asia,Taiwan,Asia,Export,Logic ICs,7289.27,0.143,1
+2020,Singapore,Asia,France,Europe,Import,Analog ICs,5681.47,0.034,6
+2020,India,Asia,Japan,Asia,Export,Optoelectronics,17641.79,0.111,10
+2020,China,Asia,USA,North America,Import,Sensors,16307.15,0.045,7
+2020,Malaysia,Asia,France,Europe,Export,Sensors,11459.88,0.108,7
+2020,Germany,Europe,Malaysia,Asia,Export,Memory ICs,31638.36,0.012,3
+2020,USA,North America,India,Asia,Import,Optoelectronics,298509.21,0.021,6
+2020,Singapore,Asia,Vietnam,Asia,Export,Microprocessors,15856.42,0.043,2
+2020,UK,Europe,Canada,North America,Export,Sensors,33664.08,0.082,7
+2020,Germany,Europe,China,Asia,Export,Memory ICs,23610.04,0.119,9
+2020,Japan,Asia,USA,North America,Export,Optoelectronics,429.66,0.06,3
+2020,China,Asia,Taiwan,Asia,Import,Logic ICs,10243.16,0.027,9
+2020,South Korea,Asia,Canada,North America,Export,Memory ICs,17197.89,0.016,7
+2020,Taiwan,Asia,Netherlands,Europe,Export,Sensors,509030.3,0.094,2
+2020,USA,North America,Malaysia,Asia,Import,Analog ICs,17052.48,0.124,2
+2020,India,Asia,Netherlands,Europe,Import,Logic ICs,965102.7,0.139,10
+2020,Netherlands,Europe,Vietnam,Asia,Export,Sensors,86186.77,0.122,1
+2020,USA,North America,Vietnam,Asia,Import,Memory ICs,93251.75,0.088,1
+2020,UK,Europe,India,Asia,Export,Memory ICs,27299.72,0.027,4
+2020,China,Asia,Netherlands,Europe,Import,Logic ICs,2392.5,0.008,5
+2020,India,Asia,South Korea,Asia,Export,Logic ICs,218408.57,0.012,8
+2020,UK,Europe,Singapore,Asia,Import,Logic ICs,68284.22,0.06,8
+2020,Malaysia,Asia,Japan,Asia,Import,Logic ICs,9225.0,0.024,8
+2020,Vietnam,Asia,India,Asia,Import,Optoelectronics,690.31,0.012,1
+2020,China,Asia,Vietnam,Asia,Export,Microprocessors,9003.02,0.137,2
+2020,USA,North America,Malaysia,Asia,Export,Logic ICs,4666661.78,0.087,9
+2020,Canada,North America,France,Europe,Import,Microprocessors,25069.04,0.034,3
+2020,Vietnam,Asia,Japan,Asia,Export,Logic ICs,2470.49,0.094,5
+2020,Germany,Europe,China,Asia,Import,Memory ICs,319353.97,0.083,1
+2020,Mexico,North America,USA,North America,Export,Analog ICs,220192.8,0.054,4
+2020,Japan,Asia,South Korea,Asia,Export,Sensors,14213.34,0.111,8
+2020,Canada,North America,Taiwan,Asia,Export,Logic ICs,17173.89,0.101,10
+2020,Singapore,Asia,Canada,North America,Import,Microprocessors,7058.2,0.093,4
+2020,Netherlands,Europe,Malaysia,Asia,Export,Analog ICs,34866.54,0.073,9
+2020,Canada,North America,Japan,Asia,Import,Analog ICs,3484.57,0.145,10
+2020,India,Asia,China,Asia,Export,Microprocessors,147147.26,0.079,8
+2020,UK,Europe,China,Asia,Export,Memory ICs,19558.59,0.077,4
+2020,Singapore,Asia,China,Asia,Export,Logic ICs,1385.93,0.058,2
+2020,Japan,Asia,India,Asia,Export,Analog ICs,2075.99,0.074,8
+2020,China,Asia,Japan,Asia,Export,Analog ICs,268071.71,0.01,4
+2020,Taiwan,Asia,China,Asia,Export,Microprocessors,1532.18,0.122,5
+2020,Germany,Europe,Singapore,Asia,Import,Analog ICs,121399.6,0.013,7
+2020,India,Asia,South Korea,Asia,Import,Analog ICs,10522.03,0.025,7
+2020,South Korea,Asia,Malaysia,Asia,Import,Analog ICs,6896.05,0.006,5
+2020,Malaysia,Asia,India,Asia,Export,Memory ICs,6484.89,0.1,3
+2020,Netherlands,Europe,UK,Europe,Import,Sensors,3308.9,0.014,2
+2020,Malaysia,Asia,Vietnam,Asia,Export,Logic ICs,73933.17,0.018,3
+2020,USA,North America,Mexico,North America,Import,Microprocessors,65793.96,0.107,9
+2020,Japan,Asia,China,Asia,Import,Analog ICs,9892.97,0.138,1
+2020,Vietnam,Asia,China,Asia,Export,Optoelectronics,205354.45,0.09,9
+2020,China,Asia,Singapore,Asia,Export,Analog ICs,449591.73,0.02,4
+2020,Vietnam,Asia,South Korea,Asia,Export,Microprocessors,17089.83,0.099,6
+2020,China,Asia,South Korea,Asia,Export,Optoelectronics,4221.86,0.021,7
+2020,Japan,Asia,Singapore,Asia,Import,Logic ICs,234791.78,0.006,6
+2020,Mexico,North America,Vietnam,Asia,Import,Sensors,3953.57,0.002,1
+2020,Germany,Europe,China,Asia,Export,Analog ICs,2627470.96,0.035,8
+2020,USA,North America,India,Asia,Export,Microprocessors,46825.55,0.016,10
+2020,India,Asia,Vietnam,Asia,Export,Logic ICs,3071.78,0.005,4
+2020,Singapore,Asia,UK,Europe,Import,Optoelectronics,32772.99,0.108,7
+2020,Singapore,Asia,USA,North America,Import,Memory ICs,7771.92,0.006,3
+2020,Germany,Europe,China,Asia,Import,Sensors,2332.72,0.098,8
+2020,Singapore,Asia,Canada,North America,Export,Microprocessors,8052.08,0.149,2
+2020,Vietnam,Asia,Japan,Asia,Import,Optoelectronics,1308.8,0.105,4
+2020,Vietnam,Asia,Germany,Europe,Export,Optoelectronics,3513.24,0.04,1
+2020,Mexico,North America,Singapore,Asia,Export,Optoelectronics,6057.04,0.017,2
+2020,Malaysia,Asia,South Korea,Asia,Export,Sensors,15285.74,0.033,8
+2020,India,Asia,Vietnam,Asia,Export,Microprocessors,9205.13,0.136,2
+2020,Canada,North America,South Korea,Asia,Export,Microprocessors,35264.64,0.14,8
+2020,Mexico,North America,Netherlands,Europe,Export,Sensors,7478.55,0.115,5
+2020,Canada,North America,South Korea,Asia,Import,Memory ICs,9394.24,0.047,10
+2020,Singapore,Asia,France,Europe,Import,Microprocessors,143210.57,0.101,4
+2020,South Korea,Asia,Taiwan,Asia,Import,Microprocessors,67932.57,0.006,5
+2020,Canada,North America,USA,North America,Import,Optoelectronics,1559.04,0.02,4
+2020,Singapore,Asia,France,Europe,Import,Memory ICs,19584.05,0.122,1
+2020,Mexico,North America,Malaysia,Asia,Export,Optoelectronics,8022.19,0.137,6
+2020,Mexico,North America,Singapore,Asia,Import,Optoelectronics,6274.28,0.122,10
+2020,Taiwan,Asia,Japan,Asia,Import,Logic ICs,67.78,0.032,9
+2020,Singapore,Asia,South Korea,Asia,Export,Analog ICs,72473.9,0.111,5
+2020,Canada,North America,Germany,Europe,Export,Analog ICs,6769.69,0.031,6
+2020,Japan,Asia,France,Europe,Export,Microprocessors,19432.86,0.12,3
+2020,Malaysia,Asia,Canada,North America,Import,Memory ICs,35819.47,0.111,9
+2020,Netherlands,Europe,China,Asia,Import,Sensors,1244033.03,0.067,10
+2020,Mexico,North America,Japan,Asia,Import,Memory ICs,1031.82,0.071,7
+2020,Vietnam,Asia,USA,North America,Export,Analog ICs,27978.66,0.133,7
+2020,Vietnam,Asia,USA,North America,Export,Sensors,6180.5,0.119,4
+2020,USA,North America,India,Asia,Import,Microprocessors,13546.42,0.104,7
+2020,UK,Europe,France,Europe,Import,Analog ICs,22127.49,0.077,7
+2020,Singapore,Asia,USA,North America,Export,Memory ICs,319991.85,0.13,4
+2020,UK,Europe,Mexico,North America,Export,Microprocessors,46049.68,0.114,1
+2020,Taiwan,Asia,China,Asia,Import,Memory ICs,11904.49,0.082,8
+2020,Japan,Asia,France,Europe,Export,Memory ICs,20556.99,0.124,5
+2020,Japan,Asia,France,Europe,Import,Microprocessors,3987.21,0.075,5
+2020,Canada,North America,Germany,Europe,Export,Optoelectronics,829.3,0.029,4
+2020,Japan,Asia,Germany,Europe,Import,Microprocessors,6669.3,0.05,2
+2020,China,Asia,South Korea,Asia,Import,Memory ICs,24915.97,0.069,9
+2020,Canada,North America,Netherlands,Europe,Import,Memory ICs,828038.89,0.148,3
+2020,South Korea,Asia,Singapore,Asia,Import,Microprocessors,11094.92,0.144,5
+2020,UK,Europe,South Korea,Asia,Import,Logic ICs,10918.68,0.14,3
+2020,Japan,Asia,China,Asia,Import,Optoelectronics,4292.82,0.114,1
+2020,UK,Europe,Canada,North America,Import,Logic ICs,132265.68,0.118,5
+2020,Mexico,North America,France,Europe,Export,Sensors,22979.01,0.076,4
+2020,Taiwan,Asia,Malaysia,Asia,Export,Optoelectronics,35857.73,0.042,3
+2020,USA,North America,Canada,North America,Import,Memory ICs,2488.87,0.087,9
+2020,Singapore,Asia,Germany,Europe,Import,Optoelectronics,727.97,0.047,2
+2020,South Korea,Asia,Singapore,Asia,Import,Sensors,25536.54,0.05,1
+2020,Netherlands,Europe,Malaysia,Asia,Import,Optoelectronics,24124.49,0.002,2
+2020,France,Europe,UK,Europe,Export,Analog ICs,67283.67,0.11,7
+2020,China,Asia,South Korea,Asia,Export,Analog ICs,53901.37,0.015,4
+2020,Taiwan,Asia,Malaysia,Asia,Import,Sensors,11898.83,0.075,8
+2020,Canada,North America,Malaysia,Asia,Export,Analog ICs,11840.28,0.014,3
+2020,Mexico,North America,China,Asia,Import,Sensors,16547.57,0.116,3
+2020,Netherlands,Europe,USA,North America,Import,Microprocessors,62812.26,0.119,4
+2020,USA,North America,South Korea,Asia,Import,Optoelectronics,330.38,0.076,7
+2020,Mexico,North America,Taiwan,Asia,Export,Sensors,34548.2,0.098,1
+2020,Canada,North America,China,Asia,Export,Sensors,8827.97,0.139,2
+2020,Netherlands,Europe,Japan,Asia,Export,Microprocessors,239.23,0.13,8
+2020,France,Europe,Germany,Europe,Import,Memory ICs,3625.03,0.037,4
+2020,Netherlands,Europe,Japan,Asia,Export,Logic ICs,7426.53,0.018,6
+2020,Netherlands,Europe,Japan,Asia,Import,Logic ICs,4797.3,0.053,9
+2021,France,Europe,Mexico,North America,Export,Optoelectronics,26114.45,0.117,10
+2021,USA,North America,Japan,Asia,Import,Sensors,534938.41,0.0,3
+2021,Mexico,North America,India,Asia,Import,Memory ICs,29441.52,0.111,2
+2021,Mexico,North America,France,Europe,Export,Sensors,5910.14,0.127,2
+2021,Germany,Europe,Taiwan,Asia,Export,Memory ICs,3170.69,0.038,2
+2021,Japan,Asia,Vietnam,Asia,Import,Logic ICs,18426.09,0.041,3
+2021,South Korea,Asia,Vietnam,Asia,Import,Analog ICs,2243.61,0.13,8
+2021,India,Asia,Germany,Europe,Import,Microprocessors,23338.36,0.036,8
+2021,Taiwan,Asia,Germany,Europe,Import,Microprocessors,3970.7,0.112,6
+2021,USA,North America,Japan,Asia,Export,Logic ICs,16577.09,0.009,9
+2021,China,Asia,Malaysia,Asia,Import,Microprocessors,6398.42,0.13,6
+2021,France,Europe,India,Asia,Import,Analog ICs,7737.9,0.044,10
+2021,Mexico,North America,Singapore,Asia,Import,Microprocessors,30386.96,0.08,10
+2021,USA,North America,Malaysia,Asia,Export,Sensors,3480.09,0.085,3
+2021,Germany,Europe,Singapore,Asia,Import,Memory ICs,144692.16,0.085,10
+2021,Japan,Asia,China,Asia,Import,Analog ICs,80828.6,0.067,2
+2021,Taiwan,Asia,Malaysia,Asia,Import,Microprocessors,2191.92,0.07,7
+2021,Netherlands,Europe,USA,North America,Import,Analog ICs,4063.27,0.025,7
+2021,India,Asia,UK,Europe,Export,Sensors,71889.41,0.017,1
+2021,Canada,North America,Singapore,Asia,Import,Logic ICs,85857.2,0.097,6
+2021,China,Asia,France,Europe,Import,Memory ICs,5738.93,0.065,10
+2021,France,Europe,Vietnam,Asia,Import,Microprocessors,34425.12,0.119,1
+2021,Taiwan,Asia,Germany,Europe,Export,Microprocessors,1364766.64,0.04,5
+2021,Netherlands,Europe,Mexico,North America,Import,Optoelectronics,40059.06,0.111,10
+2021,Canada,North America,India,Asia,Export,Memory ICs,228133.69,0.145,10
+2021,France,Europe,Germany,Europe,Import,Optoelectronics,9655.0,0.129,10
+2021,Germany,Europe,Netherlands,Europe,Export,Sensors,3636.06,0.14,1
+2021,Taiwan,Asia,Vietnam,Asia,Import,Analog ICs,3202.22,0.033,7
+2021,France,Europe,Taiwan,Asia,Export,Memory ICs,945411.59,0.019,7
+2021,USA,North America,Malaysia,Asia,Import,Sensors,309317.48,0.088,3
+2021,China,Asia,UK,Europe,Export,Optoelectronics,5786.65,0.064,6
+2021,Canada,North America,France,Europe,Export,Memory ICs,19493.74,0.047,6
+2021,South Korea,Asia,USA,North America,Import,Sensors,175935.64,0.112,10
+2021,Taiwan,Asia,France,Europe,Export,Memory ICs,63640.49,0.047,1
+2021,South Korea,Asia,Germany,Europe,Export,Optoelectronics,624.96,0.012,6
+2021,India,Asia,Taiwan,Asia,Export,Memory ICs,763.32,0.086,6
+2021,UK,Europe,Malaysia,Asia,Import,Logic ICs,1459.91,0.015,3
+2021,Taiwan,Asia,France,Europe,Import,Microprocessors,34417.01,0.077,2
+2021,Malaysia,Asia,Canada,North America,Export,Logic ICs,32889.31,0.087,4
+2021,Japan,Asia,Canada,North America,Export,Optoelectronics,11633.69,0.009,7
+2021,Malaysia,Asia,Singapore,Asia,Import,Sensors,26674.72,0.123,1
+2021,Malaysia,Asia,France,Europe,Import,Optoelectronics,6723.41,0.004,3
+2021,USA,North America,India,Asia,Export,Microprocessors,156724.13,0.134,10
+2021,Japan,Asia,Malaysia,Asia,Import,Memory ICs,211774.27,0.019,9
+2021,Malaysia,Asia,South Korea,Asia,Import,Logic ICs,23149.7,0.051,3
+2021,Taiwan,Asia,Canada,North America,Export,Sensors,4283.27,0.117,10
+2021,Vietnam,Asia,China,Asia,Import,Memory ICs,21893.64,0.096,1
+2021,India,Asia,USA,North America,Import,Microprocessors,200040.78,0.143,9
+2021,France,Europe,Germany,Europe,Export,Analog ICs,66280.64,0.007,1
+2021,Singapore,Asia,France,Europe,Export,Analog ICs,1693.99,0.146,4
+2021,Singapore,Asia,India,Asia,Import,Analog ICs,6777.31,0.103,1
+2021,France,Europe,Vietnam,Asia,Import,Microprocessors,8801.9,0.067,3
+2021,Canada,North America,Vietnam,Asia,Import,Memory ICs,787.91,0.132,1
+2021,South Korea,Asia,France,Europe,Export,Logic ICs,12295.12,0.092,4
+2021,Japan,Asia,China,Asia,Import,Microprocessors,66305.99,0.07,3
+2021,UK,Europe,Taiwan,Asia,Export,Logic ICs,1401.2,0.086,10
+2021,Germany,Europe,USA,North America,Import,Analog ICs,44208.99,0.03,5
+2021,Japan,Asia,South Korea,Asia,Export,Memory ICs,10970.36,0.019,2
+2021,Taiwan,Asia,China,Asia,Import,Microprocessors,435422.59,0.04,6
+2021,Vietnam,Asia,South Korea,Asia,Import,Microprocessors,414216.17,0.085,9
+2021,France,Europe,UK,Europe,Import,Optoelectronics,1076459.52,0.034,10
+2021,France,Europe,Germany,Europe,Export,Memory ICs,11037.6,0.016,3
+2021,India,Asia,South Korea,Asia,Export,Microprocessors,2750.71,0.066,3
+2021,South Korea,Asia,USA,North America,Export,Memory ICs,1077754.37,0.067,1
+2021,South Korea,Asia,Canada,North America,Export,Logic ICs,8450.9,0.131,9
+2021,Canada,North America,China,Asia,Export,Logic ICs,2161735.68,0.039,8
+2021,Vietnam,Asia,Canada,North America,Import,Optoelectronics,10102.78,0.014,7
+2021,India,Asia,UK,Europe,Import,Analog ICs,546.06,0.13,10
+2021,Taiwan,Asia,Canada,North America,Export,Memory ICs,16223.75,0.102,4
+2021,South Korea,Asia,Singapore,Asia,Export,Memory ICs,4916.96,0.119,6
+2021,South Korea,Asia,France,Europe,Import,Logic ICs,25520.39,0.078,2
+2021,Mexico,North America,Canada,North America,Import,Memory ICs,16725.21,0.057,9
+2021,Vietnam,Asia,China,Asia,Export,Analog ICs,2092.42,0.025,3
+2021,Netherlands,Europe,Malaysia,Asia,Export,Optoelectronics,839941.74,0.022,2
+2021,China,Asia,Canada,North America,Export,Optoelectronics,768483.65,0.11,9
+2021,China,Asia,South Korea,Asia,Export,Sensors,8764.37,0.087,3
+2021,Canada,North America,Germany,Europe,Export,Logic ICs,12643.66,0.119,10
+2021,USA,North America,Vietnam,Asia,Export,Logic ICs,291427.83,0.107,7
+2021,China,Asia,Vietnam,Asia,Export,Optoelectronics,12049.71,0.097,5
+2021,India,Asia,UK,Europe,Export,Analog ICs,25907.43,0.11,8
+2021,China,Asia,Malaysia,Asia,Import,Logic ICs,75226.48,0.1,8
+2021,Germany,Europe,Netherlands,Europe,Import,Memory ICs,3872.33,0.065,3
+2021,China,Asia,Vietnam,Asia,Import,Microprocessors,8890.4,0.11,7
+2021,Netherlands,Europe,Vietnam,Asia,Export,Microprocessors,695546.46,0.053,10
+2021,Mexico,North America,South Korea,Asia,Import,Logic ICs,1002.37,0.13,1
+2021,India,Asia,Netherlands,Europe,Import,Analog ICs,7490.49,0.105,5
+2021,UK,Europe,Vietnam,Asia,Export,Optoelectronics,21714.87,0.073,6
+2021,China,Asia,USA,North America,Export,Sensors,31456.1,0.136,10
+2021,Singapore,Asia,China,Asia,Import,Logic ICs,3397.58,0.07,10
+2021,Taiwan,Asia,UK,Europe,Export,Sensors,20555.81,0.143,7
+2021,Mexico,North America,Germany,Europe,Export,Sensors,17966.66,0.022,9
+2021,Canada,North America,South Korea,Asia,Import,Memory ICs,427668.96,0.117,9
+2021,France,Europe,Japan,Asia,Export,Logic ICs,32705.5,0.063,6
+2021,Germany,Europe,France,Europe,Export,Analog ICs,49088.68,0.1,1
+2021,Germany,Europe,China,Asia,Import,Logic ICs,143891.06,0.037,4
+2021,South Korea,Asia,USA,North America,Import,Microprocessors,5339.74,0.092,2
+2021,Mexico,North America,Canada,North America,Import,Memory ICs,19205.38,0.033,6
+2021,Japan,Asia,India,Asia,Import,Memory ICs,10940.95,0.032,3
+2021,Taiwan,Asia,France,Europe,Export,Memory ICs,14652.32,0.016,3
+2021,China,Asia,Singapore,Asia,Import,Memory ICs,80353.97,0.102,3
+2021,Singapore,Asia,Vietnam,Asia,Import,Analog ICs,282147.72,0.005,5
+2021,Germany,Europe,Taiwan,Asia,Export,Memory ICs,321371.33,0.055,7
+2021,South Korea,Asia,Malaysia,Asia,Import,Optoelectronics,18860.75,0.078,4
+2021,Mexico,North America,Canada,North America,Import,Analog ICs,25541.47,0.013,4
+2021,Germany,Europe,Mexico,North America,Import,Microprocessors,34177.22,0.145,5
+2021,Malaysia,Asia,South Korea,Asia,Import,Optoelectronics,1144.64,0.007,1
+2021,China,Asia,Singapore,Asia,Import,Logic ICs,5664.16,0.147,7
+2021,Malaysia,Asia,China,Asia,Export,Logic ICs,1027.61,0.002,2
+2021,Netherlands,Europe,South Korea,Asia,Import,Memory ICs,69634.94,0.069,6
+2021,Japan,Asia,China,Asia,Import,Memory ICs,30006.28,0.115,10
+2021,Taiwan,Asia,Malaysia,Asia,Import,Analog ICs,2718.29,0.131,9
+2021,Malaysia,Asia,Germany,Europe,Import,Microprocessors,56772.93,0.114,2
+2021,Taiwan,Asia,Netherlands,Europe,Import,Logic ICs,62177.12,0.147,5
+2021,Singapore,Asia,Taiwan,Asia,Import,Memory ICs,178121.7,0.1,2
+2021,Japan,Asia,Mexico,North America,Import,Optoelectronics,27697.22,0.012,9
+2021,Singapore,Asia,China,Asia,Import,Memory ICs,79050.27,0.093,2
+2021,France,Europe,Japan,Asia,Import,Optoelectronics,105066.39,0.131,1
+2021,China,Asia,Netherlands,Europe,Export,Memory ICs,3188.26,0.007,7
+2021,Germany,Europe,Vietnam,Asia,Export,Optoelectronics,9813.45,0.076,9
+2021,South Korea,Asia,USA,North America,Import,Logic ICs,37456.12,0.054,10
+2021,UK,Europe,Canada,North America,Export,Sensors,20984.39,0.071,7
+2021,UK,Europe,USA,North America,Import,Memory ICs,243994.87,0.088,6
+2021,USA,North America,Germany,Europe,Import,Sensors,19268.33,0.05,4
+2021,Vietnam,Asia,Singapore,Asia,Import,Analog ICs,404057.7,0.046,10
+2021,Canada,North America,UK,Europe,Import,Logic ICs,19856.02,0.082,8
+2021,UK,Europe,Mexico,North America,Import,Logic ICs,16769.86,0.101,4
+2021,USA,North America,Malaysia,Asia,Export,Analog ICs,5023.8,0.106,6
+2021,Germany,Europe,Japan,Asia,Export,Logic ICs,81199.2,0.108,5
+2021,Taiwan,Asia,Canada,North America,Export,Optoelectronics,10826.55,0.131,10
+2021,France,Europe,Singapore,Asia,Import,Optoelectronics,50495.98,0.019,1
+2021,UK,Europe,Singapore,Asia,Export,Memory ICs,19432.53,0.138,2
+2021,UK,Europe,China,Asia,Import,Memory ICs,89212.03,0.074,3
+2021,Singapore,Asia,Japan,Asia,Export,Memory ICs,1269.84,0.017,1
+2021,Netherlands,Europe,Japan,Asia,Export,Analog ICs,28820.01,0.023,5
+2021,South Korea,Asia,France,Europe,Import,Memory ICs,6577.19,0.093,4
+2021,Japan,Asia,Taiwan,Asia,Export,Sensors,3052.23,0.096,10
+2021,Germany,Europe,India,Asia,Export,Memory ICs,7160.36,0.077,6
+2021,Vietnam,Asia,Germany,Europe,Import,Analog ICs,57452.97,0.026,3
+2021,South Korea,Asia,Netherlands,Europe,Export,Microprocessors,2794.23,0.112,3
+2021,Taiwan,Asia,South Korea,Asia,Export,Microprocessors,76925.78,0.045,2
+2021,Netherlands,Europe,Canada,North America,Import,Microprocessors,18765.87,0.031,3
+2021,South Korea,Asia,Vietnam,Asia,Export,Logic ICs,5397.86,0.069,1
+2021,USA,North America,India,Asia,Import,Memory ICs,31859.49,0.05,7
+2021,Canada,North America,USA,North America,Export,Sensors,157804.24,0.146,1
+2021,UK,Europe,Taiwan,Asia,Import,Sensors,10041.94,0.015,6
+2021,China,Asia,Singapore,Asia,Import,Analog ICs,13783.94,0.096,8
+2021,USA,North America,China,Asia,Export,Microprocessors,4705.35,0.198,3
+2021,Japan,Asia,Canada,North America,Export,Microprocessors,550752.79,0.073,2
+2021,Mexico,North America,Singapore,Asia,Export,Memory ICs,42998.48,0.037,4
+2021,South Korea,Asia,USA,North America,Import,Memory ICs,85031.88,0.023,7
+2021,France,Europe,Vietnam,Asia,Import,Optoelectronics,79940.43,0.029,7
+2021,Mexico,North America,France,Europe,Export,Optoelectronics,140996.65,0.018,4
+2021,Vietnam,Asia,China,Asia,Export,Logic ICs,115177.63,0.083,10
+2021,Vietnam,Asia,Japan,Asia,Import,Microprocessors,30210.61,0.098,3
+2021,Netherlands,Europe,Canada,North America,Import,Sensors,93830.6,0.075,3
+2021,China,Asia,Malaysia,Asia,Export,Optoelectronics,3775.93,0.12,4
+2021,UK,Europe,Mexico,North America,Import,Analog ICs,11547.53,0.049,10
+2021,France,Europe,Japan,Asia,Import,Analog ICs,72330.39,0.093,5
+2021,India,Asia,France,Europe,Export,Logic ICs,19057.29,0.078,5
+2021,Malaysia,Asia,China,Asia,Import,Memory ICs,428726.65,0.008,6
+2021,India,Asia,Singapore,Asia,Export,Optoelectronics,30997.32,0.1,1
+2021,Vietnam,Asia,China,Asia,Export,Optoelectronics,53187.03,0.093,1
+2021,France,Europe,Taiwan,Asia,Export,Optoelectronics,468765.53,0.107,1
+2021,UK,Europe,Singapore,Asia,Export,Optoelectronics,45740.61,0.015,8
+2021,Malaysia,Asia,Vietnam,Asia,Export,Logic ICs,11643.5,0.143,5
+2021,Taiwan,Asia,Japan,Asia,Export,Logic ICs,2808.42,0.044,7
+2021,UK,Europe,Singapore,Asia,Export,Sensors,24227.46,0.025,8
+2021,Taiwan,Asia,South Korea,Asia,Import,Microprocessors,15564.63,0.055,1
+2021,USA,North America,France,Europe,Export,Microprocessors,3528.13,0.051,1
+2021,Canada,North America,South Korea,Asia,Export,Optoelectronics,215189.78,0.013,6
+2021,Singapore,Asia,Germany,Europe,Import,Optoelectronics,330.73,0.012,10
+2021,Malaysia,Asia,USA,North America,Import,Analog ICs,86374.35,0.102,10
+2021,Malaysia,Asia,USA,North America,Import,Logic ICs,41163.28,0.076,10
+2021,UK,Europe,Netherlands,Europe,Export,Logic ICs,778331.99,0.028,4
+2021,Canada,North America,UK,Europe,Export,Analog ICs,324044.59,0.124,4
+2021,Japan,Asia,Netherlands,Europe,Export,Optoelectronics,292587.36,0.147,1
+2021,Vietnam,Asia,Canada,North America,Export,Analog ICs,50539.56,0.067,10
+2021,Singapore,Asia,Malaysia,Asia,Import,Memory ICs,7652.14,0.142,7
+2021,Netherlands,Europe,Japan,Asia,Import,Microprocessors,15186.33,0.068,8
+2021,France,Europe,USA,North America,Export,Memory ICs,898.93,0.1,9
+2021,Netherlands,Europe,Singapore,Asia,Export,Sensors,95035.07,0.145,6
+2021,South Korea,Asia,Canada,North America,Export,Analog ICs,64658.18,0.004,3
+2021,France,Europe,Netherlands,Europe,Import,Sensors,36718.48,0.04,7
+2021,China,Asia,Taiwan,Asia,Export,Logic ICs,22218.53,0.109,1
+2021,UK,Europe,USA,North America,Export,Microprocessors,42777.79,0.049,7
+2021,Mexico,North America,Vietnam,Asia,Import,Logic ICs,600.04,0.082,2
+2021,Japan,Asia,USA,North America,Export,Analog ICs,9246.28,0.062,9
+2021,Japan,Asia,Vietnam,Asia,Import,Microprocessors,22956.97,0.031,7
+2021,USA,North America,France,Europe,Import,Memory ICs,37723.73,0.11,6
+2021,Vietnam,Asia,Mexico,North America,Import,Microprocessors,46876.09,0.009,6
+2021,Singapore,Asia,Taiwan,Asia,Import,Sensors,5224.78,0.118,10
+2021,Japan,Asia,Taiwan,Asia,Import,Analog ICs,415255.08,0.038,9
+2021,Mexico,North America,South Korea,Asia,Export,Sensors,718378.72,0.017,6
+2021,UK,Europe,Taiwan,Asia,Export,Analog ICs,1341068.02,0.099,7
+2021,South Korea,Asia,China,Asia,Export,Analog ICs,2407.2,0.043,2
+2021,China,Asia,Netherlands,Europe,Export,Logic ICs,1116369.53,0.005,7
+2021,UK,Europe,Singapore,Asia,Import,Sensors,1361.15,0.006,2
+2021,USA,North America,Mexico,North America,Export,Microprocessors,665440.27,0.132,10
+2021,Germany,Europe,Japan,Asia,Export,Memory ICs,9992.8,0.039,1
+2021,Japan,Asia,France,Europe,Import,Memory ICs,153288.06,0.067,6
+2021,India,Asia,Malaysia,Asia,Export,Memory ICs,81911.0,0.081,5
+2021,Singapore,Asia,Germany,Europe,Import,Memory ICs,338314.32,0.054,3
+2021,France,Europe,Taiwan,Asia,Export,Memory ICs,815997.07,0.025,1
+2021,Mexico,North America,Canada,North America,Export,Sensors,20811.94,0.036,1
+2021,Japan,Asia,South Korea,Asia,Import,Microprocessors,13157.66,0.033,1
+2021,Canada,North America,UK,Europe,Import,Logic ICs,19162.93,0.148,8
+2021,India,Asia,Malaysia,Asia,Export,Analog ICs,71467.75,0.137,7
+2021,Germany,Europe,Vietnam,Asia,Import,Logic ICs,83595.48,0.127,7
+2021,India,Asia,France,Europe,Import,Sensors,57469.81,0.147,2
+2021,Netherlands,Europe,Japan,Asia,Import,Optoelectronics,94644.44,0.119,7
+2021,Canada,North America,South Korea,Asia,Import,Optoelectronics,174165.65,0.083,8
+2021,Taiwan,Asia,Canada,North America,Export,Logic ICs,9750.56,0.038,6
+2021,India,Asia,Canada,North America,Import,Memory ICs,1911.51,0.121,5
+2021,Canada,North America,Mexico,North America,Export,Logic ICs,50991.88,0.013,1
+2021,Germany,Europe,Taiwan,Asia,Export,Memory ICs,1389.79,0.078,4
+2021,USA,North America,Japan,Asia,Import,Memory ICs,5718.26,0.004,1
+2021,Netherlands,Europe,UK,Europe,Import,Microprocessors,3028.77,0.087,5
+2021,Japan,Asia,Taiwan,Asia,Export,Optoelectronics,7277.99,0.084,5
+2021,Netherlands,Europe,Malaysia,Asia,Export,Microprocessors,1781.42,0.096,8
+2021,Japan,Asia,Canada,North America,Export,Analog ICs,15329.44,0.132,1
+2021,China,Asia,France,Europe,Export,Microprocessors,68.83,0.051,1
+2021,South Korea,Asia,Vietnam,Asia,Import,Analog ICs,26066.39,0.053,8
+2021,Germany,Europe,France,Europe,Import,Logic ICs,4052.67,0.018,1
+2021,Singapore,Asia,USA,North America,Import,Logic ICs,140272.81,0.142,9
+2021,Malaysia,Asia,China,Asia,Export,Memory ICs,27291.75,0.14,7
+2021,Netherlands,Europe,India,Asia,Export,Logic ICs,2547.77,0.037,6
+2021,USA,North America,Taiwan,Asia,Export,Sensors,151282.23,0.063,8
+2021,Germany,Europe,Singapore,Asia,Export,Sensors,714005.74,0.061,6
+2021,Germany,Europe,Vietnam,Asia,Import,Microprocessors,14588.96,0.111,7
+2021,India,Asia,Japan,Asia,Export,Logic ICs,7010.68,0.139,9
+2021,Vietnam,Asia,Singapore,Asia,Export,Logic ICs,31565.77,0.013,2
+2021,Taiwan,Asia,France,Europe,Import,Analog ICs,117672.55,0.074,3
+2021,Singapore,Asia,France,Europe,Import,Optoelectronics,113407.92,0.013,2
+2021,China,Asia,Japan,Asia,Import,Memory ICs,51419.82,0.036,2
+2021,India,Asia,Vietnam,Asia,Import,Sensors,28220.61,0.084,8
+2021,USA,North America,Germany,Europe,Export,Optoelectronics,13776.94,0.112,7
+2021,South Korea,Asia,Singapore,Asia,Export,Microprocessors,5902.79,0.02,1
+2021,Singapore,Asia,UK,Europe,Export,Optoelectronics,55542.73,0.006,7
+2021,Canada,North America,Singapore,Asia,Import,Sensors,291127.57,0.098,1
+2021,India,Asia,Germany,Europe,Import,Analog ICs,3897391.13,0.078,1
+2021,Vietnam,Asia,Taiwan,Asia,Import,Memory ICs,223746.82,0.011,10
+2021,UK,Europe,Mexico,North America,Import,Memory ICs,344.03,0.12,10
+2021,Vietnam,Asia,Germany,Europe,Import,Optoelectronics,6566.18,0.086,7
+2021,Netherlands,Europe,Japan,Asia,Import,Logic ICs,136058.06,0.061,1
+2021,USA,North America,Malaysia,Asia,Export,Optoelectronics,4557.46,0.051,9
+2021,Malaysia,Asia,Taiwan,Asia,Export,Microprocessors,5034.17,0.02,7
+2021,Malaysia,Asia,Taiwan,Asia,Import,Sensors,14835.51,0.089,3
+2021,South Korea,Asia,Netherlands,Europe,Import,Sensors,874.0,0.064,1
+2021,Vietnam,Asia,Taiwan,Asia,Export,Optoelectronics,210935.8,0.071,2
+2021,India,Asia,Malaysia,Asia,Export,Microprocessors,30144.64,0.1,9
+2021,Canada,North America,China,Asia,Import,Analog ICs,5832.02,0.115,9
+2021,Mexico,North America,Germany,Europe,Import,Optoelectronics,15287.89,0.111,10
+2021,South Korea,Asia,Malaysia,Asia,Export,Analog ICs,880.91,0.084,9
+2021,Netherlands,Europe,Singapore,Asia,Import,Microprocessors,5460.97,0.067,9
+2021,Taiwan,Asia,Netherlands,Europe,Export,Logic ICs,2948.23,0.024,6
+2021,South Korea,Asia,France,Europe,Export,Logic ICs,3125.99,0.082,10
+2021,UK,Europe,Japan,Asia,Export,Optoelectronics,10999.74,0.017,4
+2021,UK,Europe,Taiwan,Asia,Export,Analog ICs,102909.42,0.043,10
+2021,South Korea,Asia,Canada,North America,Import,Memory ICs,2669.25,0.064,5
+2021,USA,North America,France,Europe,Export,Microprocessors,36837.7,0.109,10
+2021,Netherlands,Europe,Malaysia,Asia,Export,Microprocessors,32471.24,0.062,10
+2021,Taiwan,Asia,Japan,Asia,Import,Optoelectronics,195799.02,0.048,1
+2021,Mexico,North America,France,Europe,Import,Optoelectronics,24928.49,0.009,10
+2021,Germany,Europe,Canada,North America,Import,Logic ICs,3445.74,0.111,10
+2021,Singapore,Asia,South Korea,Asia,Import,Analog ICs,30130.92,0.121,2
+2021,South Korea,Asia,USA,North America,Export,Microprocessors,19053.22,0.14,9
+2021,Germany,Europe,Malaysia,Asia,Export,Microprocessors,53766.38,0.145,6
+2021,China,Asia,UK,Europe,Export,Memory ICs,22883.31,0.019,1
+2021,South Korea,Asia,Singapore,Asia,Export,Memory ICs,23146.46,0.138,5
+2021,China,Asia,Germany,Europe,Import,Sensors,3757.17,0.093,5
+2021,India,Asia,Japan,Asia,Export,Optoelectronics,532800.53,0.112,9
+2021,UK,Europe,Germany,Europe,Import,Memory ICs,83094.03,0.046,6
+2021,UK,Europe,Japan,Asia,Export,Logic ICs,125721.46,0.016,9
+2021,Singapore,Asia,India,Asia,Export,Memory ICs,555489.75,0.034,9
+2021,Germany,Europe,France,Europe,Export,Memory ICs,499.93,0.059,2
+2021,China,Asia,Malaysia,Asia,Export,Optoelectronics,41067.89,0.075,5
+2021,Taiwan,Asia,China,Asia,Export,Analog ICs,1527.94,0.029,8
+2021,Vietnam,Asia,Mexico,North America,Import,Logic ICs,12488.27,0.001,10
+2021,Netherlands,Europe,Japan,Asia,Import,Sensors,7040.06,0.022,2
+2021,India,Asia,Canada,North America,Import,Analog ICs,2083.46,0.072,4
+2021,France,Europe,UK,Europe,Export,Logic ICs,1195.88,0.03,8
+2021,France,Europe,Germany,Europe,Import,Microprocessors,9478.79,0.008,1
+2021,Japan,Asia,USA,North America,Export,Analog ICs,106940.66,0.01,4
+2021,Germany,Europe,South Korea,Asia,Import,Sensors,13614.08,0.026,8
+2021,Japan,Asia,India,Asia,Export,Sensors,85885.26,0.007,5
+2021,Japan,Asia,Mexico,North America,Export,Analog ICs,16716.93,0.006,9
+2021,Japan,Asia,Mexico,North America,Import,Optoelectronics,87479.38,0.098,7
+2021,Mexico,North America,Vietnam,Asia,Import,Analog ICs,51328.93,0.067,10
+2021,Mexico,North America,South Korea,Asia,Export,Memory ICs,13371.86,0.089,4
+2021,France,Europe,USA,North America,Import,Sensors,182457.68,0.022,2
+2021,USA,North America,India,Asia,Export,Microprocessors,76067.61,0.102,1
+2021,Germany,Europe,Taiwan,Asia,Import,Sensors,310.54,0.143,2
+2021,France,Europe,Mexico,North America,Export,Sensors,3373.9,0.011,6
+2021,UK,Europe,Singapore,Asia,Import,Sensors,14549.55,0.044,9
+2021,Japan,Asia,Taiwan,Asia,Export,Logic ICs,27117.09,0.108,9
+2021,UK,Europe,Malaysia,Asia,Export,Logic ICs,1357509.47,0.045,7
+2021,Canada,North America,Malaysia,Asia,Export,Sensors,4565.97,0.013,4
+2021,China,Asia,France,Europe,Import,Memory ICs,4587.12,0.137,1
+2021,Netherlands,Europe,France,Europe,Import,Analog ICs,2530.05,0.055,3
+2021,Malaysia,Asia,Singapore,Asia,Import,Analog ICs,558455.89,0.125,7
+2021,Mexico,North America,UK,Europe,Export,Optoelectronics,99393.19,0.042,2
+2021,Netherlands,Europe,India,Asia,Import,Logic ICs,6444.11,0.135,3
+2021,Japan,Asia,USA,North America,Export,Microprocessors,110857.05,0.074,4
+2021,USA,North America,Singapore,Asia,Export,Analog ICs,297117.52,0.1,10
+2021,Japan,Asia,UK,Europe,Import,Optoelectronics,254714.22,0.04,5
+2021,France,Europe,Japan,Asia,Import,Microprocessors,14835.22,0.089,9
+2021,UK,Europe,China,Asia,Export,Logic ICs,172922.44,0.119,1
+2021,Malaysia,Asia,India,Asia,Export,Optoelectronics,85889.95,0.079,3
+2021,Germany,Europe,Netherlands,Europe,Import,Sensors,161091.51,0.068,1
+2021,Vietnam,Asia,Malaysia,Asia,Export,Memory ICs,18269.85,0.043,8
+2021,France,Europe,Netherlands,Europe,Import,Analog ICs,1358.83,0.139,7
+2021,USA,North America,Singapore,Asia,Export,Microprocessors,6571.06,0.146,5
+2021,Vietnam,Asia,Canada,North America,Import,Microprocessors,985137.84,0.084,1
+2021,Netherlands,Europe,Japan,Asia,Import,Optoelectronics,170435.65,0.073,3
+2021,Singapore,Asia,Canada,North America,Export,Analog ICs,1053.07,0.013,9
+2021,Japan,Asia,Mexico,North America,Import,Logic ICs,146703.49,0.006,10
+2021,France,Europe,South Korea,Asia,Export,Optoelectronics,1227.69,0.01,10
+2021,Malaysia,Asia,Vietnam,Asia,Export,Optoelectronics,87007.57,0.062,5
+2021,Netherlands,Europe,Germany,Europe,Export,Analog ICs,25681.49,0.136,4
+2021,France,Europe,Malaysia,Asia,Import,Memory ICs,1381.82,0.105,7
+2021,France,Europe,Canada,North America,Import,Microprocessors,49959.04,0.012,1
+2021,Taiwan,Asia,USA,North America,Import,Sensors,352926.34,0.026,2
+2021,Netherlands,Europe,China,Asia,Export,Sensors,522875.06,0.001,9
+2021,Canada,North America,Malaysia,Asia,Import,Logic ICs,30507.27,0.019,3
+2021,Germany,Europe,USA,North America,Import,Microprocessors,57205.31,0.094,6
+2021,UK,Europe,Canada,North America,Import,Logic ICs,8467.64,0.046,3
+2021,USA,North America,Mexico,North America,Import,Optoelectronics,11626.24,0.123,6
+2021,Japan,Asia,Malaysia,Asia,Import,Microprocessors,65234.69,0.109,10
+2021,China,Asia,Mexico,North America,Import,Analog ICs,15487.29,0.129,6
+2021,UK,Europe,Mexico,North America,Export,Optoelectronics,26003.2,0.072,3
+2021,Germany,Europe,South Korea,Asia,Import,Memory ICs,59222.43,0.149,8
+2021,China,Asia,Mexico,North America,Export,Memory ICs,3481.35,0.049,4
+2021,Mexico,North America,Canada,North America,Import,Analog ICs,5142.82,0.138,2
+2021,Malaysia,Asia,USA,North America,Export,Memory ICs,93998.33,0.137,9
+2021,China,Asia,Taiwan,Asia,Import,Optoelectronics,29727.78,0.039,5
+2021,Germany,Europe,France,Europe,Export,Sensors,28007.86,0.142,8
+2021,France,Europe,Vietnam,Asia,Import,Memory ICs,18600.72,0.066,3
+2021,France,Europe,Japan,Asia,Export,Memory ICs,515.95,0.026,8
+2021,Taiwan,Asia,Malaysia,Asia,Export,Analog ICs,674723.07,0.141,9
+2021,France,Europe,UK,Europe,Import,Analog ICs,62813.23,0.081,10
+2021,Taiwan,Asia,Mexico,North America,Export,Optoelectronics,17855.46,0.001,7
+2021,Mexico,North America,Vietnam,Asia,Import,Analog ICs,75025.36,0.051,9
+2021,Germany,Europe,Taiwan,Asia,Import,Sensors,4689.53,0.123,7
+2021,Japan,Asia,China,Asia,Export,Analog ICs,982121.16,0.124,7
+2021,France,Europe,Vietnam,Asia,Import,Microprocessors,54230.1,0.048,1
+2021,Japan,Asia,Singapore,Asia,Import,Memory ICs,13049.22,0.108,9
+2021,India,Asia,Taiwan,Asia,Import,Sensors,715.31,0.112,5
+2021,France,Europe,India,Asia,Export,Microprocessors,3624.51,0.073,10
+2021,South Korea,Asia,Vietnam,Asia,Export,Memory ICs,33483.32,0.065,1
+2021,USA,North America,France,Europe,Import,Sensors,7173.06,0.008,1
+2021,South Korea,Asia,France,Europe,Import,Sensors,25636.75,0.051,8
+2021,Taiwan,Asia,Malaysia,Asia,Import,Logic ICs,76521.45,0.096,10
+2021,Vietnam,Asia,Germany,Europe,Import,Analog ICs,235.33,0.096,8
+2021,USA,North America,Mexico,North America,Export,Microprocessors,14492.21,0.056,1
+2021,Mexico,North America,Japan,Asia,Export,Analog ICs,15647.36,0.06,5
+2021,UK,Europe,Vietnam,Asia,Import,Logic ICs,856386.19,0.045,7
+2021,Japan,Asia,Taiwan,Asia,Export,Optoelectronics,25751.29,0.018,8
+2021,Singapore,Asia,Malaysia,Asia,Export,Microprocessors,43969.18,0.08,9
+2021,Mexico,North America,Canada,North America,Import,Sensors,71684.86,0.099,9
+2021,India,Asia,Canada,North America,Import,Optoelectronics,101012.14,0.012,5
+2021,Vietnam,Asia,Netherlands,Europe,Export,Analog ICs,23362.12,0.124,7
+2021,France,Europe,USA,North America,Import,Analog ICs,2172.36,0.04,9
+2021,Taiwan,Asia,South Korea,Asia,Import,Analog ICs,1225784.76,0.002,5
+2021,Vietnam,Asia,Malaysia,Asia,Export,Analog ICs,105126.72,0.148,10
+2021,Taiwan,Asia,Netherlands,Europe,Export,Microprocessors,1009992.74,0.127,1
+2021,Singapore,Asia,Taiwan,Asia,Import,Optoelectronics,284.99,0.128,2
+2021,Vietnam,Asia,Mexico,North America,Export,Analog ICs,720.07,0.039,8
+2021,Germany,Europe,UK,Europe,Export,Optoelectronics,5919.99,0.088,9
+2021,Germany,Europe,Canada,North America,Export,Sensors,23563.12,0.103,1
+2021,UK,Europe,India,Asia,Import,Sensors,37691.4,0.064,5
+2021,India,Asia,Germany,Europe,Import,Analog ICs,141596.65,0.023,6
+2021,Taiwan,Asia,UK,Europe,Import,Analog ICs,1172.19,0.033,4
+2021,Germany,Europe,Vietnam,Asia,Export,Logic ICs,1196.1,0.067,1
+2021,South Korea,Asia,Germany,Europe,Import,Microprocessors,919595.43,0.082,4
+2021,Germany,Europe,Canada,North America,Import,Microprocessors,37969.76,0.067,4
+2021,Vietnam,Asia,Mexico,North America,Import,Microprocessors,3648.79,0.07,4
+2021,France,Europe,USA,North America,Export,Analog ICs,3130.37,0.028,10
+2021,France,Europe,India,Asia,Export,Logic ICs,88892.36,0.135,5
+2021,Germany,Europe,Canada,North America,Import,Logic ICs,12871.18,0.113,1
+2021,Taiwan,Asia,Germany,Europe,Import,Optoelectronics,442785.56,0.114,4
+2021,South Korea,Asia,India,Asia,Import,Optoelectronics,17968.04,0.102,9
+2021,Canada,North America,France,Europe,Import,Microprocessors,152301.77,0.148,4
+2021,Canada,North America,Taiwan,Asia,Import,Sensors,236.96,0.137,1
+2021,Canada,North America,Taiwan,Asia,Import,Microprocessors,10921.01,0.098,6
+2021,Netherlands,Europe,USA,North America,Import,Optoelectronics,1779.85,0.003,1
+2021,Canada,North America,Japan,Asia,Export,Memory ICs,2560.61,0.082,3
+2021,India,Asia,China,Asia,Export,Memory ICs,10045.47,0.107,1
+2021,China,Asia,USA,North America,Export,Optoelectronics,33609.41,0.144,7
+2021,Singapore,Asia,France,Europe,Export,Optoelectronics,108629.84,0.129,8
+2021,South Korea,Asia,Netherlands,Europe,Import,Optoelectronics,519.63,0.13,8
+2021,France,Europe,Japan,Asia,Export,Memory ICs,6093.62,0.102,7
+2021,Taiwan,Asia,Vietnam,Asia,Import,Logic ICs,86461.82,0.028,5
+2021,Canada,North America,Netherlands,Europe,Export,Memory ICs,233743.54,0.043,1
+2021,Vietnam,Asia,Malaysia,Asia,Import,Microprocessors,49342.9,0.055,9
+2021,Vietnam,Asia,Germany,Europe,Export,Memory ICs,256291.1,0.088,8
+2021,Malaysia,Asia,Canada,North America,Export,Optoelectronics,933.36,0.018,6
+2021,India,Asia,USA,North America,Export,Optoelectronics,6619.31,0.061,9
+2021,Malaysia,Asia,USA,North America,Export,Analog ICs,226802.08,0.089,10
+2021,Malaysia,Asia,Vietnam,Asia,Import,Sensors,943.12,0.141,4
+2021,Germany,Europe,Netherlands,Europe,Import,Memory ICs,13436.96,0.061,4
+2021,Singapore,Asia,USA,North America,Import,Optoelectronics,1510.03,0.076,6
+2021,Vietnam,Asia,Singapore,Asia,Export,Analog ICs,14273.64,0.095,7
+2021,USA,North America,France,Europe,Import,Optoelectronics,17723.11,0.081,1
+2021,Vietnam,Asia,UK,Europe,Export,Analog ICs,10336.61,0.14,4
+2021,USA,North America,Germany,Europe,Import,Sensors,1182026.43,0.063,2
+2021,Canada,North America,India,Asia,Import,Logic ICs,48330.93,0.067,9
+2021,Netherlands,Europe,South Korea,Asia,Import,Memory ICs,25548.06,0.035,10
+2021,South Korea,Asia,Netherlands,Europe,Export,Analog ICs,230273.2,0.027,5
+2021,France,Europe,USA,North America,Import,Memory ICs,35206.34,0.116,6
+2021,Malaysia,Asia,Netherlands,Europe,Export,Analog ICs,34875.08,0.044,9
+2021,Taiwan,Asia,India,Asia,Export,Microprocessors,8549.72,0.139,9
+2021,Canada,North America,Singapore,Asia,Export,Optoelectronics,29488.13,0.014,3
+2021,Germany,Europe,USA,North America,Import,Sensors,107091.84,0.066,2
+2021,Canada,North America,Netherlands,Europe,Import,Microprocessors,40586.72,0.006,8
+2021,China,Asia,UK,Europe,Import,Optoelectronics,11666.52,0.049,7
+2021,India,Asia,Taiwan,Asia,Export,Logic ICs,27810.17,0.146,9
+2021,China,Asia,Netherlands,Europe,Export,Optoelectronics,60174.23,0.077,4
+2021,USA,North America,Malaysia,Asia,Export,Memory ICs,3708.94,0.117,2
+2021,South Korea,Asia,India,Asia,Export,Analog ICs,71487.0,0.113,4
+2021,South Korea,Asia,Canada,North America,Import,Optoelectronics,94531.69,0.023,7
+2021,Netherlands,Europe,Singapore,Asia,Import,Optoelectronics,2688.71,0.101,3
+2021,South Korea,Asia,China,Asia,Export,Optoelectronics,2197.67,0.051,8
+2021,India,Asia,China,Asia,Export,Microprocessors,477663.07,0.145,1
+2021,Netherlands,Europe,Singapore,Asia,Import,Analog ICs,57586.15,0.079,3
+2021,France,Europe,Singapore,Asia,Import,Optoelectronics,634.35,0.025,6
+2021,Singapore,Asia,USA,North America,Import,Memory ICs,21768.21,0.111,3
+2021,Germany,Europe,Japan,Asia,Import,Logic ICs,4151.16,0.103,4
+2021,USA,North America,Japan,Asia,Import,Logic ICs,710614.87,0.015,7
+2021,UK,Europe,Singapore,Asia,Export,Microprocessors,10858.02,0.014,7
+2021,Mexico,North America,UK,Europe,Export,Memory ICs,21377.14,0.011,5
+2021,Netherlands,Europe,India,Asia,Export,Memory ICs,46490.1,0.008,3
+2021,USA,North America,Singapore,Asia,Export,Sensors,3253.57,0.085,2
+2021,Singapore,Asia,Taiwan,Asia,Export,Analog ICs,11410.82,0.121,6
+2021,Japan,Asia,India,Asia,Export,Logic ICs,854371.7,0.122,6
+2021,South Korea,Asia,Vietnam,Asia,Import,Analog ICs,6797.35,0.091,5
+2021,Singapore,Asia,Vietnam,Asia,Import,Analog ICs,34934.2,0.07,9
+2021,China,Asia,Malaysia,Asia,Export,Microprocessors,16163.32,0.122,6
+2021,USA,North America,Vietnam,Asia,Import,Sensors,2644.27,0.039,2
+2021,Taiwan,Asia,China,Asia,Export,Optoelectronics,470085.15,0.099,1
+2021,China,Asia,Taiwan,Asia,Import,Analog ICs,4646.23,0.015,7
+2021,UK,Europe,Taiwan,Asia,Import,Sensors,4427.55,0.05,7
+2021,Vietnam,Asia,Germany,Europe,Import,Sensors,2220.93,0.135,10
+2021,China,Asia,Taiwan,Asia,Export,Microprocessors,21308.54,0.051,6
+2021,Canada,North America,South Korea,Asia,Import,Analog ICs,86391.88,0.082,1
+2021,Japan,Asia,Vietnam,Asia,Import,Analog ICs,4693.53,0.006,8
+2021,South Korea,Asia,Malaysia,Asia,Export,Optoelectronics,3860.47,0.048,5
+2021,South Korea,Asia,France,Europe,Export,Microprocessors,9143.87,0.003,9
+2021,Netherlands,Europe,USA,North America,Import,Microprocessors,158848.34,0.072,9
+2021,Singapore,Asia,France,Europe,Import,Analog ICs,29344.29,0.053,1
+2021,China,Asia,Netherlands,Europe,Import,Memory ICs,125875.52,0.084,3
+2021,UK,Europe,Mexico,North America,Import,Analog ICs,91343.73,0.014,4
+2021,China,Asia,France,Europe,Export,Sensors,471.24,0.131,1
+2021,Germany,Europe,South Korea,Asia,Export,Sensors,17826.19,0.062,3
+2021,Vietnam,Asia,Canada,North America,Import,Analog ICs,262266.38,0.07,3
+2021,Taiwan,Asia,China,Asia,Import,Optoelectronics,392016.31,0.044,5
+2021,China,Asia,Vietnam,Asia,Export,Optoelectronics,84021.87,0.099,7
+2021,Vietnam,Asia,France,Europe,Export,Memory ICs,7298.89,0.054,7
+2021,China,Asia,Singapore,Asia,Export,Analog ICs,2454.58,0.112,8
+2021,Germany,Europe,USA,North America,Export,Sensors,20349.82,0.034,9
+2021,Japan,Asia,Taiwan,Asia,Export,Memory ICs,36376.01,0.069,1
+2021,Singapore,Asia,Mexico,North America,Import,Optoelectronics,8041.1,0.059,5
+2021,UK,Europe,USA,North America,Import,Analog ICs,67596.06,0.12,4
+2021,Canada,North America,Taiwan,Asia,Import,Microprocessors,1132.01,0.061,1
+2021,Germany,Europe,Netherlands,Europe,Import,Optoelectronics,638.13,0.072,1
+2021,Germany,Europe,Canada,North America,Export,Logic ICs,70244.25,0.11,1
+2021,Netherlands,Europe,USA,North America,Import,Logic ICs,179040.64,0.102,7
+2021,Canada,North America,India,Asia,Import,Microprocessors,16182.12,0.146,6
+2021,Japan,Asia,Netherlands,Europe,Import,Logic ICs,3309.54,0.039,1
+2021,China,Asia,India,Asia,Import,Logic ICs,37409.89,0.049,8
+2021,France,Europe,Taiwan,Asia,Import,Analog ICs,8602.01,0.076,6
+2021,France,Europe,Singapore,Asia,Import,Memory ICs,2138.52,0.022,8
+2021,Mexico,North America,Canada,North America,Export,Microprocessors,72175.63,0.109,7
+2021,Germany,Europe,Canada,North America,Export,Microprocessors,166492.18,0.124,2
+2021,France,Europe,Mexico,North America,Import,Sensors,86960.09,0.037,7
+2021,Japan,Asia,Canada,North America,Export,Microprocessors,130237.6,0.14,5
+2021,India,Asia,UK,Europe,Import,Optoelectronics,548034.42,0.024,10
+2021,India,Asia,Netherlands,Europe,Import,Logic ICs,27637.04,0.11,6
+2021,France,Europe,South Korea,Asia,Import,Analog ICs,31941.94,0.103,8
+2021,Japan,Asia,Vietnam,Asia,Import,Optoelectronics,384894.9,0.126,9
+2021,UK,Europe,Taiwan,Asia,Import,Microprocessors,13938.4,0.091,2
+2021,Malaysia,Asia,China,Asia,Export,Analog ICs,14140.53,0.136,4
+2021,Malaysia,Asia,UK,Europe,Export,Memory ICs,1234.03,0.052,1
+2021,Vietnam,Asia,Singapore,Asia,Import,Microprocessors,4354.4,0.104,2
+2021,Malaysia,Asia,UK,Europe,Export,Logic ICs,122265.61,0.096,3
+2021,Mexico,North America,Taiwan,Asia,Export,Memory ICs,18691.52,0.108,10
+2021,Vietnam,Asia,Netherlands,Europe,Import,Microprocessors,118143.55,0.088,9
+2021,Japan,Asia,Germany,Europe,Export,Memory ICs,7834.61,0.079,6
+2021,India,Asia,Mexico,North America,Export,Analog ICs,75967.88,0.037,9
+2021,France,Europe,South Korea,Asia,Export,Analog ICs,87712.69,0.052,7
+2021,USA,North America,Vietnam,Asia,Export,Memory ICs,9048.79,0.106,1
+2021,UK,Europe,South Korea,Asia,Import,Analog ICs,858644.39,0.066,3
+2021,Malaysia,Asia,France,Europe,Export,Optoelectronics,13454.6,0.116,3
+2021,Taiwan,Asia,Singapore,Asia,Export,Optoelectronics,5722562.48,0.095,4
+2021,Japan,Asia,UK,Europe,Import,Analog ICs,2762.85,0.141,8
+2021,Malaysia,Asia,China,Asia,Import,Logic ICs,19785.13,0.036,2
+2021,USA,North America,Vietnam,Asia,Export,Optoelectronics,68038.9,0.05,9
+2021,Taiwan,Asia,Vietnam,Asia,Export,Microprocessors,592.08,0.073,7
+2021,India,Asia,USA,North America,Export,Logic ICs,234494.81,0.111,9
+2021,Japan,Asia,Germany,Europe,Import,Sensors,15625.39,0.088,6
+2021,Vietnam,Asia,India,Asia,Export,Optoelectronics,198187.68,0.137,10
+2022,Canada,North America,Mexico,North America,Export,Logic ICs,96634.59,0.114,9
+2022,Singapore,Asia,India,Asia,Export,Microprocessors,6538.68,0.091,3
+2022,Malaysia,Asia,Vietnam,Asia,Export,Memory ICs,423487.56,0.019,6
+2022,India,Asia,Vietnam,Asia,Import,Sensors,167121.4,0.061,3
+2022,China,Asia,Netherlands,Europe,Import,Microprocessors,44012.59,0.119,7
+2022,South Korea,Asia,India,Asia,Import,Logic ICs,238587.79,0.004,10
+2022,Malaysia,Asia,Canada,North America,Export,Analog ICs,4729417.86,0.084,5
+2022,Japan,Asia,Taiwan,Asia,Import,Analog ICs,110673.43,0.059,9
+2022,Canada,North America,Taiwan,Asia,Import,Memory ICs,42148.52,0.06,10
+2022,Taiwan,Asia,UK,Europe,Import,Optoelectronics,162322.48,0.003,8
+2022,India,Asia,France,Europe,Import,Logic ICs,101823.54,0.03,8
+2022,Germany,Europe,Japan,Asia,Import,Memory ICs,2214.2,0.13,6
+2022,India,Asia,UK,Europe,Export,Analog ICs,6264.53,0.056,7
+2022,Taiwan,Asia,Netherlands,Europe,Import,Analog ICs,117.18,0.016,1
+2022,Japan,Asia,Mexico,North America,Export,Memory ICs,493.07,0.096,6
+2022,USA,North America,Singapore,Asia,Import,Analog ICs,17042.63,0.02,8
+2022,Malaysia,Asia,France,Europe,Import,Logic ICs,1230.33,0.05,10
+2022,France,Europe,Mexico,North America,Export,Logic ICs,27722.59,0.104,2
+2022,UK,Europe,Vietnam,Asia,Import,Sensors,215715.99,0.043,8
+2022,India,Asia,Taiwan,Asia,Import,Analog ICs,2081.65,0.14,5
+2022,Canada,North America,Vietnam,Asia,Import,Memory ICs,7127.89,0.009,2
+2022,Netherlands,Europe,Vietnam,Asia,Export,Microprocessors,10500.04,0.147,5
+2022,Canada,North America,Mexico,North America,Export,Logic ICs,4323.35,0.103,5
+2022,Vietnam,Asia,Canada,North America,Export,Optoelectronics,12710.6,0.029,7
+2022,Canada,North America,Germany,Europe,Import,Logic ICs,39734.36,0.146,6
+2022,India,Asia,Taiwan,Asia,Export,Optoelectronics,2004.23,0.079,5
+2022,India,Asia,UK,Europe,Import,Sensors,2829.45,0.107,2
+2022,Singapore,Asia,China,Asia,Import,Sensors,118082.87,0.05,5
+2022,Germany,Europe,South Korea,Asia,Import,Optoelectronics,17654.16,0.119,2
+2022,Vietnam,Asia,Japan,Asia,Export,Logic ICs,8686.33,0.149,8
+2022,USA,North America,Singapore,Asia,Import,Logic ICs,2545.56,0.075,10
+2022,Mexico,North America,France,Europe,Export,Analog ICs,6104.61,0.002,7
+2022,Mexico,North America,Japan,Asia,Import,Logic ICs,2759.73,0.016,7
+2022,Canada,North America,Vietnam,Asia,Import,Logic ICs,292102.12,0.097,10
+2022,Germany,Europe,Singapore,Asia,Import,Logic ICs,10978.4,0.05,9
+2022,Netherlands,Europe,Germany,Europe,Import,Sensors,18961.14,0.088,10
+2022,Vietnam,Asia,Canada,North America,Export,Optoelectronics,70112.56,0.093,8
+2022,Taiwan,Asia,China,Asia,Export,Logic ICs,55275.48,0.003,10
+2022,Malaysia,Asia,UK,Europe,Export,Sensors,7647.66,0.051,3
+2022,Germany,Europe,Netherlands,Europe,Export,Analog ICs,8235.77,0.041,10
+2022,China,Asia,Germany,Europe,Export,Microprocessors,96646.86,0.112,4
+2022,Netherlands,Europe,Malaysia,Asia,Export,Logic ICs,9785.17,0.066,5
+2022,Germany,Europe,South Korea,Asia,Export,Microprocessors,131476.92,0.017,6
+2022,South Korea,Asia,UK,Europe,Import,Optoelectronics,28552.16,0.085,4
+2022,Singapore,Asia,India,Asia,Import,Memory ICs,312679.37,0.025,7
+2022,Vietnam,Asia,South Korea,Asia,Import,Sensors,964360.06,0.005,7
+2022,China,Asia,Mexico,North America,Import,Sensors,543519.28,0.125,3
+2022,India,Asia,Malaysia,Asia,Import,Optoelectronics,19424.55,0.008,9
+2022,Malaysia,Asia,Singapore,Asia,Import,Microprocessors,156300.3,0.145,1
+2022,UK,Europe,Netherlands,Europe,Export,Analog ICs,311656.48,0.023,4
+2022,France,Europe,UK,Europe,Import,Memory ICs,555.28,0.026,8
+2022,Germany,Europe,Netherlands,Europe,Export,Analog ICs,313743.83,0.077,8
+2022,Germany,Europe,Netherlands,Europe,Export,Logic ICs,19549.23,0.146,9
+2022,Mexico,North America,Germany,Europe,Export,Optoelectronics,732.65,0.013,3
+2022,Germany,Europe,Japan,Asia,Import,Logic ICs,28165.15,0.054,8
+2022,France,Europe,South Korea,Asia,Import,Sensors,5549.81,0.14,10
+2022,UK,Europe,Netherlands,Europe,Import,Microprocessors,13520.04,0.01,6
+2022,India,Asia,USA,North America,Export,Analog ICs,209115.63,0.15,3
+2022,Netherlands,Europe,India,Asia,Export,Memory ICs,455626.75,0.022,5
+2022,Japan,Asia,UK,Europe,Export,Memory ICs,50078.61,0.002,10
+2022,Japan,Asia,Singapore,Asia,Import,Analog ICs,12682.49,0.088,8
+2022,Malaysia,Asia,Singapore,Asia,Export,Microprocessors,11179.57,0.037,3
+2022,Japan,Asia,France,Europe,Import,Microprocessors,935.19,0.031,9
+2022,Mexico,North America,Malaysia,Asia,Export,Optoelectronics,6750.67,0.088,1
+2022,UK,Europe,Singapore,Asia,Export,Sensors,4369.67,0.134,1
+2022,France,Europe,Germany,Europe,Import,Optoelectronics,3347.27,0.142,8
+2022,France,Europe,Malaysia,Asia,Export,Analog ICs,9736.0,0.111,8
+2022,USA,North America,Taiwan,Asia,Import,Sensors,56747.17,0.149,5
+2022,Netherlands,Europe,France,Europe,Import,Analog ICs,9005.26,0.026,8
+2022,India,Asia,Canada,North America,Export,Memory ICs,693.53,0.078,10
+2022,South Korea,Asia,Netherlands,Europe,Import,Optoelectronics,143216.44,0.014,5
+2022,Malaysia,Asia,UK,Europe,Export,Microprocessors,104179.79,0.013,8
+2022,USA,North America,Singapore,Asia,Import,Optoelectronics,9796.83,0.05,8
+2022,South Korea,Asia,USA,North America,Import,Logic ICs,89445.73,0.047,3
+2022,France,Europe,Taiwan,Asia,Export,Memory ICs,806051.55,0.118,1
+2022,South Korea,Asia,Mexico,North America,Export,Optoelectronics,191766.64,0.138,3
+2022,China,Asia,India,Asia,Export,Memory ICs,8098.57,0.04,5
+2022,Canada,North America,Germany,Europe,Export,Sensors,123.58,0.119,5
+2022,Taiwan,Asia,Netherlands,Europe,Export,Memory ICs,20087.99,0.117,5
+2022,Singapore,Asia,Malaysia,Asia,Import,Optoelectronics,10025.7,0.059,9
+2022,South Korea,Asia,Malaysia,Asia,Export,Microprocessors,179297.15,0.088,5
+2022,Taiwan,Asia,UK,Europe,Export,Analog ICs,18729.7,0.089,4
+2022,Taiwan,Asia,Japan,Asia,Import,Sensors,7037.81,0.025,10
+2022,Mexico,North America,France,Europe,Export,Microprocessors,15144.48,0.116,9
+2022,South Korea,Asia,Japan,Asia,Import,Logic ICs,111682.04,0.073,7
+2022,South Korea,Asia,Vietnam,Asia,Export,Optoelectronics,42780.47,0.047,9
+2022,Mexico,North America,Malaysia,Asia,Export,Sensors,2973.13,0.129,5
+2022,Taiwan,Asia,India,Asia,Import,Memory ICs,3482.91,0.099,9
+2022,Japan,Asia,Mexico,North America,Export,Memory ICs,50278.36,0.033,1
+2022,USA,North America,France,Europe,Import,Memory ICs,39159.38,0.114,5
+2022,France,Europe,Germany,Europe,Import,Microprocessors,21925.12,0.136,5
+2022,USA,North America,Malaysia,Asia,Import,Sensors,21519.37,0.06,10
+2022,South Korea,Asia,France,Europe,Export,Sensors,15777.25,0.061,9
+2022,Singapore,Asia,Malaysia,Asia,Export,Microprocessors,2042.55,0.055,7
+2022,South Korea,Asia,USA,North America,Export,Memory ICs,14281.16,0.147,10
+2022,India,Asia,Canada,North America,Import,Sensors,115200.6,0.024,1
+2022,Mexico,North America,India,Asia,Export,Logic ICs,52960.92,0.052,10
+2022,Netherlands,Europe,Singapore,Asia,Import,Sensors,58561.79,0.101,6
+2022,Canada,North America,USA,North America,Export,Optoelectronics,130628.86,0.12,10
+2022,India,Asia,France,Europe,Import,Memory ICs,6538.59,0.124,5
+2022,Japan,Asia,Canada,North America,Import,Logic ICs,449.88,0.139,1
+2022,Mexico,North America,Vietnam,Asia,Export,Optoelectronics,20491.66,0.03,3
+2022,Vietnam,Asia,Mexico,North America,Export,Sensors,16362.67,0.072,4
+2022,Netherlands,Europe,Vietnam,Asia,Export,Memory ICs,3144.71,0.132,3
+2022,Germany,Europe,Taiwan,Asia,Import,Analog ICs,57642.33,0.004,3
+2022,Mexico,North America,Vietnam,Asia,Export,Microprocessors,2824.34,0.082,3
+2022,Netherlands,Europe,France,Europe,Export,Analog ICs,39604.07,0.022,4
+2022,Canada,North America,India,Asia,Import,Logic ICs,849152.8,0.051,3
+2022,Japan,Asia,Taiwan,Asia,Export,Optoelectronics,64753.02,0.004,1
+2022,Mexico,North America,China,Asia,Import,Microprocessors,6827927.72,0.078,1
+2022,Vietnam,Asia,Germany,Europe,Import,Microprocessors,15849.76,0.069,9
+2022,Vietnam,Asia,Taiwan,Asia,Export,Sensors,110621.21,0.036,6
+2022,Mexico,North America,South Korea,Asia,Import,Analog ICs,49113.05,0.032,5
+2022,China,Asia,Mexico,North America,Export,Memory ICs,117576.42,0.1,5
+2022,Germany,Europe,Vietnam,Asia,Import,Logic ICs,222316.12,0.109,3
+2022,Malaysia,Asia,USA,North America,Export,Memory ICs,180631.38,0.043,8
+2022,Vietnam,Asia,Singapore,Asia,Export,Microprocessors,32015.66,0.059,9
+2022,India,Asia,Singapore,Asia,Import,Optoelectronics,20159.95,0.043,3
+2022,Netherlands,Europe,UK,Europe,Export,Memory ICs,336537.59,0.072,9
+2022,France,Europe,Germany,Europe,Export,Microprocessors,75254.93,0.029,6
+2022,USA,North America,UK,Europe,Export,Analog ICs,1961.86,0.058,9
+2022,Taiwan,Asia,Netherlands,Europe,Import,Sensors,6832.91,0.101,9
+2022,Japan,Asia,Vietnam,Asia,Import,Sensors,37649.09,0.136,7
+2022,India,Asia,Taiwan,Asia,Export,Microprocessors,761.15,0.08,6
+2022,South Korea,Asia,Vietnam,Asia,Import,Logic ICs,139859.49,0.053,4
+2022,Japan,Asia,Vietnam,Asia,Import,Optoelectronics,4880.32,0.065,8
+2022,Netherlands,Europe,South Korea,Asia,Export,Analog ICs,18674.78,0.051,1
+2022,Taiwan,Asia,Vietnam,Asia,Export,Microprocessors,19252.65,0.049,8
+2022,China,Asia,Japan,Asia,Import,Memory ICs,19253.44,0.115,8
+2022,Taiwan,Asia,Mexico,North America,Import,Memory ICs,2567.47,0.083,8
+2022,Singapore,Asia,Japan,Asia,Export,Sensors,13353.42,0.06,1
+2022,USA,North America,Mexico,North America,Export,Optoelectronics,11665.83,0.114,7
+2022,Germany,Europe,Netherlands,Europe,Import,Sensors,4932.54,0.063,6
+2022,Singapore,Asia,USA,North America,Import,Analog ICs,50816.14,0.062,6
+2022,UK,Europe,China,Asia,Import,Optoelectronics,55504.16,0.088,5
+2022,USA,North America,Malaysia,Asia,Export,Optoelectronics,6748.75,0.128,9
+2022,China,Asia,Japan,Asia,Export,Optoelectronics,32537.67,0.066,5
+2022,Vietnam,Asia,South Korea,Asia,Import,Sensors,64534.64,0.074,1
+2022,Malaysia,Asia,Singapore,Asia,Export,Sensors,12312.51,0.01,9
+2022,UK,Europe,Netherlands,Europe,Import,Memory ICs,10252.9,0.125,6
+2022,Mexico,North America,UK,Europe,Import,Sensors,9031.02,0.068,7
+2022,China,Asia,Germany,Europe,Import,Optoelectronics,59364.45,0.034,2
+2022,South Korea,Asia,Netherlands,Europe,Import,Memory ICs,2316.41,0.032,1
+2022,Canada,North America,Vietnam,Asia,Import,Logic ICs,1124.71,0.137,10
+2022,Singapore,Asia,Taiwan,Asia,Export,Microprocessors,461.74,0.028,2
+2022,India,Asia,France,Europe,Export,Microprocessors,1433.74,0.001,9
+2022,France,Europe,Malaysia,Asia,Export,Sensors,23991.53,0.049,2
+2022,Canada,North America,UK,Europe,Import,Microprocessors,88262.69,0.113,3
+2022,India,Asia,UK,Europe,Export,Optoelectronics,125605.13,0.148,2
+2022,Netherlands,Europe,Singapore,Asia,Export,Sensors,1426623.82,0.121,8
+2022,UK,Europe,France,Europe,Import,Logic ICs,25452.39,0.11,9
+2022,France,Europe,India,Asia,Import,Logic ICs,42643.33,0.124,6
+2022,India,Asia,USA,North America,Export,Sensors,19692.06,0.034,2
+2022,Taiwan,Asia,France,Europe,Export,Memory ICs,36534.67,0.097,8
+2022,Singapore,Asia,Canada,North America,Export,Logic ICs,10127.08,0.059,3
+2022,UK,Europe,Taiwan,Asia,Import,Optoelectronics,467.36,0.13,6
+2022,South Korea,Asia,France,Europe,Import,Microprocessors,718.47,0.06,7
+2022,Singapore,Asia,China,Asia,Import,Sensors,132387.38,0.051,4
+2022,China,Asia,Vietnam,Asia,Export,Optoelectronics,6199.0,0.118,9
+2022,India,Asia,Vietnam,Asia,Import,Logic ICs,2260.1,0.116,1
+2022,South Korea,Asia,Malaysia,Asia,Import,Sensors,402651.74,0.102,1
+2022,Taiwan,Asia,UK,Europe,Import,Microprocessors,278.49,0.025,4
+2022,Mexico,North America,Taiwan,Asia,Import,Microprocessors,126560.23,0.116,10
+2022,India,Asia,France,Europe,Export,Microprocessors,4449.3,0.104,3
+2022,Mexico,North America,China,Asia,Import,Logic ICs,3806185.0,0.102,4
+2022,Netherlands,Europe,Mexico,North America,Export,Microprocessors,6435.21,0.143,1
+2022,Singapore,Asia,Canada,North America,Export,Memory ICs,115509.78,0.128,6
+2022,USA,North America,Malaysia,Asia,Export,Logic ICs,2497.73,0.075,7
+2022,USA,North America,Taiwan,Asia,Export,Sensors,1298419.05,0.137,6
+2022,India,Asia,Taiwan,Asia,Import,Sensors,7580.98,0.006,7
+2022,Vietnam,Asia,Germany,Europe,Import,Analog ICs,26192.95,0.015,9
+2022,China,Asia,Japan,Asia,Export,Sensors,2978.5,0.055,7
+2022,China,Asia,Japan,Asia,Export,Memory ICs,183967.16,0.068,2
+2022,Taiwan,Asia,USA,North America,Export,Optoelectronics,9257.79,0.095,1
+2022,UK,Europe,Singapore,Asia,Import,Sensors,586.37,0.1,6
+2022,Vietnam,Asia,South Korea,Asia,Export,Microprocessors,823.82,0.143,2
+2022,Singapore,Asia,Vietnam,Asia,Export,Analog ICs,18983.19,0.086,1
+2022,South Korea,Asia,China,Asia,Export,Sensors,15228.09,0.107,7
+2022,Germany,Europe,Netherlands,Europe,Import,Optoelectronics,72601.07,0.111,8
+2022,Netherlands,Europe,Taiwan,Asia,Export,Sensors,102527.15,0.076,9
+2022,France,Europe,China,Asia,Import,Analog ICs,7775.65,0.099,8
+2022,Netherlands,Europe,China,Asia,Export,Microprocessors,23678.86,0.114,1
+2022,Malaysia,Asia,Canada,North America,Import,Sensors,376.39,0.113,10
+2022,Canada,North America,South Korea,Asia,Import,Optoelectronics,10665.76,0.128,3
+2022,South Korea,Asia,Singapore,Asia,Export,Microprocessors,21074.68,0.105,5
+2022,Malaysia,Asia,Japan,Asia,Export,Logic ICs,4614.65,0.013,7
+2022,Taiwan,Asia,Japan,Asia,Export,Sensors,6143.66,0.107,6
+2022,China,Asia,Singapore,Asia,Import,Optoelectronics,183904.75,0.122,5
+2022,Malaysia,Asia,Canada,North America,Export,Memory ICs,3318390.64,0.069,1
+2022,India,Asia,Singapore,Asia,Export,Microprocessors,714540.4,0.148,8
+2022,Netherlands,Europe,Mexico,North America,Import,Memory ICs,1468.16,0.132,1
+2022,Taiwan,Asia,Canada,North America,Import,Memory ICs,467.34,0.088,10
+2022,Singapore,Asia,Netherlands,Europe,Export,Logic ICs,112034.35,0.078,4
+2022,Vietnam,Asia,UK,Europe,Export,Logic ICs,4073.64,0.119,7
+2022,China,Asia,Canada,North America,Import,Memory ICs,24592.41,0.089,10
+2022,China,Asia,South Korea,Asia,Export,Sensors,91583.62,0.062,9
+2022,South Korea,Asia,Canada,North America,Export,Memory ICs,6614.35,0.095,4
+2022,USA,North America,Japan,Asia,Import,Microprocessors,65366.56,0.019,10
+2022,France,Europe,South Korea,Asia,Import,Logic ICs,43461.29,0.016,3
+2022,UK,Europe,Singapore,Asia,Import,Microprocessors,989.01,0.074,10
+2022,USA,North America,India,Asia,Import,Logic ICs,9956.26,0.066,8
+2022,Mexico,North America,UK,Europe,Import,Logic ICs,6323.53,0.041,3
+2022,South Korea,Asia,Vietnam,Asia,Import,Analog ICs,9987.67,0.101,9
+2022,UK,Europe,Singapore,Asia,Import,Optoelectronics,9649.3,0.0,1
+2022,Malaysia,Asia,France,Europe,Export,Microprocessors,238677.84,0.072,6
+2022,India,Asia,Singapore,Asia,Export,Sensors,32179.85,0.144,3
+2022,UK,Europe,USA,North America,Export,Microprocessors,13688.96,0.14,5
+2022,UK,Europe,China,Asia,Import,Sensors,7429956.47,0.139,3
+2022,Mexico,North America,Taiwan,Asia,Import,Memory ICs,34503.73,0.049,8
+2022,Germany,Europe,Taiwan,Asia,Export,Sensors,19281.03,0.019,10
+2022,Germany,Europe,Japan,Asia,Import,Optoelectronics,57565.0,0.139,6
+2022,Mexico,North America,India,Asia,Import,Logic ICs,12558.42,0.071,3
+2022,Japan,Asia,Mexico,North America,Import,Analog ICs,4675.42,0.003,5
+2022,Mexico,North America,China,Asia,Import,Sensors,849564.55,0.105,6
+2022,Mexico,North America,South Korea,Asia,Export,Memory ICs,4541.73,0.04,9
+2022,India,Asia,Singapore,Asia,Export,Microprocessors,14076.77,0.108,3
+2022,Vietnam,Asia,Japan,Asia,Export,Analog ICs,115529.22,0.065,10
+2022,France,Europe,Singapore,Asia,Export,Logic ICs,4951.54,0.007,5
+2022,South Korea,Asia,Vietnam,Asia,Export,Memory ICs,34470.31,0.1,7
+2022,UK,Europe,South Korea,Asia,Export,Logic ICs,448.97,0.146,8
+2022,USA,North America,France,Europe,Export,Sensors,23542.71,0.124,9
+2022,Vietnam,Asia,Malaysia,Asia,Export,Optoelectronics,155840.44,0.092,8
+2022,Vietnam,Asia,France,Europe,Export,Memory ICs,7929469.32,0.081,5
+2022,France,Europe,Taiwan,Asia,Import,Optoelectronics,93805.81,0.131,6
+2022,Germany,Europe,Mexico,North America,Export,Logic ICs,20472.54,0.127,8
+2022,Singapore,Asia,South Korea,Asia,Export,Memory ICs,2044.69,0.074,6
+2022,USA,North America,Netherlands,Europe,Import,Microprocessors,4254.23,0.106,9
+2022,Vietnam,Asia,Japan,Asia,Export,Optoelectronics,1677.05,0.074,1
+2022,Singapore,Asia,India,Asia,Import,Analog ICs,80824.73,0.075,5
+2022,China,Asia,Germany,Europe,Import,Sensors,1342.18,0.141,6
+2022,Germany,Europe,Netherlands,Europe,Export,Sensors,12738.26,0.057,1
+2022,India,Asia,Canada,North America,Export,Logic ICs,88490.03,0.055,5
+2022,Taiwan,Asia,China,Asia,Export,Sensors,297028.63,0.133,9
+2022,Singapore,Asia,Germany,Europe,Export,Analog ICs,2710.13,0.091,1
+2022,Malaysia,Asia,South Korea,Asia,Export,Analog ICs,11785.74,0.131,1
+2022,Vietnam,Asia,Mexico,North America,Import,Memory ICs,4482.89,0.077,6
+2022,Singapore,Asia,Vietnam,Asia,Import,Memory ICs,286527.54,0.063,8
+2022,Singapore,Asia,Mexico,North America,Export,Analog ICs,25745.49,0.12,2
+2022,UK,Europe,South Korea,Asia,Export,Memory ICs,1102633.21,0.029,8
+2022,Canada,North America,Mexico,North America,Export,Memory ICs,49792.52,0.085,3
+2022,UK,Europe,India,Asia,Export,Optoelectronics,84413.7,0.056,10
+2022,Netherlands,Europe,Japan,Asia,Import,Analog ICs,713.2,0.1,2
+2022,Netherlands,Europe,South Korea,Asia,Import,Sensors,4714.63,0.001,6
+2022,USA,North America,Japan,Asia,Export,Analog ICs,388021.52,0.103,3
+2022,Mexico,North America,France,Europe,Import,Memory ICs,13039.83,0.089,9
+2022,Taiwan,Asia,Malaysia,Asia,Export,Logic ICs,17350.18,0.009,7
+2022,Canada,North America,Germany,Europe,Export,Sensors,751500.84,0.139,7
+2022,China,Asia,France,Europe,Export,Logic ICs,5864441.07,0.148,9
+2022,South Korea,Asia,Mexico,North America,Import,Optoelectronics,13919.7,0.124,2
+2022,Mexico,North America,Netherlands,Europe,Import,Logic ICs,227915.28,0.099,6
+2022,USA,North America,Canada,North America,Export,Optoelectronics,3896.2,0.022,6
+2022,China,Asia,France,Europe,Export,Sensors,60756.28,0.071,9
+2022,Vietnam,Asia,China,Asia,Import,Sensors,18722.75,0.094,6
+2022,India,Asia,Singapore,Asia,Export,Optoelectronics,492.27,0.038,9
+2022,France,Europe,South Korea,Asia,Import,Logic ICs,6206.49,0.067,10
+2022,Japan,Asia,USA,North America,Import,Sensors,1153552.08,0.139,4
+2022,South Korea,Asia,Canada,North America,Import,Sensors,6497.52,0.025,6
+2022,India,Asia,South Korea,Asia,Export,Analog ICs,45481.6,0.012,2
+2022,Canada,North America,Vietnam,Asia,Import,Analog ICs,115138.03,0.121,3
+2022,Taiwan,Asia,Netherlands,Europe,Import,Logic ICs,1070.61,0.0,4
+2022,South Korea,Asia,Singapore,Asia,Export,Microprocessors,17199.12,0.027,5
+2022,USA,North America,Netherlands,Europe,Export,Memory ICs,10451.65,0.011,6
+2022,South Korea,Asia,Singapore,Asia,Import,Analog ICs,48831.18,0.139,5
+2022,UK,Europe,Taiwan,Asia,Import,Sensors,600488.88,0.091,6
+2022,Germany,Europe,South Korea,Asia,Export,Analog ICs,4430.54,0.105,1
+2022,Canada,North America,India,Asia,Export,Memory ICs,24888.78,0.096,2
+2022,USA,North America,Taiwan,Asia,Export,Microprocessors,158070.98,0.141,6
+2022,South Korea,Asia,Vietnam,Asia,Export,Optoelectronics,923.63,0.134,2
+2022,South Korea,Asia,Malaysia,Asia,Import,Memory ICs,168026.07,0.063,3
+2022,India,Asia,Malaysia,Asia,Export,Logic ICs,9830.46,0.005,3
+2022,Canada,North America,Germany,Europe,Export,Microprocessors,365.62,0.016,7
+2022,Netherlands,Europe,Taiwan,Asia,Export,Memory ICs,30764.23,0.124,3
+2022,France,Europe,USA,North America,Import,Analog ICs,107995.65,0.097,1
+2022,Vietnam,Asia,Japan,Asia,Export,Memory ICs,327181.46,0.105,5
+2022,Vietnam,Asia,France,Europe,Export,Logic ICs,43661.07,0.057,10
+2022,USA,North America,Vietnam,Asia,Export,Microprocessors,1019189.54,0.074,2
+2022,USA,North America,India,Asia,Import,Memory ICs,80358.9,0.053,10
+2022,China,Asia,France,Europe,Import,Sensors,2899.51,0.008,10
+2022,UK,Europe,South Korea,Asia,Export,Sensors,13115.53,0.01,6
+2022,Japan,Asia,Taiwan,Asia,Export,Optoelectronics,2256.54,0.077,8
+2022,Taiwan,Asia,China,Asia,Import,Sensors,12665.9,0.075,10
+2022,Singapore,Asia,India,Asia,Import,Microprocessors,1341.5,0.003,7
+2022,Singapore,Asia,Canada,North America,Export,Memory ICs,250.49,0.124,4
+2022,Germany,Europe,Japan,Asia,Export,Memory ICs,16173.29,0.129,8
+2022,South Korea,Asia,Mexico,North America,Import,Analog ICs,2762.5,0.025,8
+2022,Netherlands,Europe,Mexico,North America,Import,Sensors,170224.23,0.011,9
+2022,Canada,North America,South Korea,Asia,Import,Analog ICs,11577.07,0.035,4
+2022,Canada,North America,Singapore,Asia,Import,Optoelectronics,319449.45,0.103,2
+2022,India,Asia,Canada,North America,Import,Memory ICs,20170.75,0.003,8
+2022,Singapore,Asia,USA,North America,Export,Memory ICs,11147.56,0.014,7
+2022,Taiwan,Asia,China,Asia,Import,Analog ICs,7231840.64,0.03,7
+2022,USA,North America,Singapore,Asia,Export,Sensors,116968.16,0.072,5
+2022,Singapore,Asia,Vietnam,Asia,Import,Memory ICs,16432.47,0.06,4
+2022,India,Asia,Germany,Europe,Import,Sensors,38164.67,0.018,10
+2022,Canada,North America,Mexico,North America,Import,Logic ICs,151850.74,0.068,3
+2022,Canada,North America,India,Asia,Export,Sensors,90099.73,0.06,8
+2022,China,Asia,France,Europe,Export,Sensors,5638.8,0.049,1
+2022,Japan,Asia,Malaysia,Asia,Export,Microprocessors,3445323.49,0.003,3
+2022,Vietnam,Asia,China,Asia,Export,Sensors,7227.23,0.099,2
+2022,UK,Europe,South Korea,Asia,Export,Analog ICs,11585.07,0.135,4
+2022,Japan,Asia,Germany,Europe,Import,Logic ICs,69013.88,0.032,4
+2022,Singapore,Asia,India,Asia,Import,Optoelectronics,77435.37,0.075,1
+2022,UK,Europe,Vietnam,Asia,Export,Optoelectronics,10465.55,0.097,8
+2022,Vietnam,Asia,Canada,North America,Export,Optoelectronics,8541.74,0.003,3
+2022,Japan,Asia,Netherlands,Europe,Export,Logic ICs,143893.81,0.069,2
+2022,South Korea,Asia,Singapore,Asia,Export,Optoelectronics,100515.31,0.145,8
+2022,Singapore,Asia,Malaysia,Asia,Export,Sensors,17172.99,0.04,5
+2022,Taiwan,Asia,Germany,Europe,Export,Analog ICs,2526.7,0.003,3
+2022,UK,Europe,France,Europe,Export,Sensors,2292.02,0.103,6
+2022,UK,Europe,France,Europe,Import,Optoelectronics,129931.77,0.14,5
+2022,China,Asia,Japan,Asia,Export,Analog ICs,47480.95,0.148,3
+2022,Vietnam,Asia,UK,Europe,Import,Logic ICs,382791.63,0.03,9
+2022,South Korea,Asia,Malaysia,Asia,Import,Logic ICs,13431.1,0.095,6
+2022,South Korea,Asia,Japan,Asia,Import,Analog ICs,42892.88,0.072,1
+2022,India,Asia,China,Asia,Import,Optoelectronics,839381.55,0.07,8
+2022,UK,Europe,Netherlands,Europe,Export,Optoelectronics,10626.35,0.062,4
+2022,USA,North America,South Korea,Asia,Export,Logic ICs,46411.21,0.081,4
+2022,Malaysia,Asia,Japan,Asia,Import,Analog ICs,30729.74,0.005,1
+2022,USA,North America,Malaysia,Asia,Import,Microprocessors,11055.43,0.04,4
+2022,Taiwan,Asia,Mexico,North America,Import,Microprocessors,22577.98,0.097,3
+2022,Japan,Asia,USA,North America,Export,Logic ICs,11012.99,0.101,4
+2022,Malaysia,Asia,Vietnam,Asia,Import,Memory ICs,12540.33,0.089,2
+2022,India,Asia,Malaysia,Asia,Export,Sensors,85525.83,0.115,9
+2022,Germany,Europe,Vietnam,Asia,Export,Memory ICs,10489.74,0.053,10
+2022,South Korea,Asia,UK,Europe,Export,Analog ICs,502.73,0.055,2
+2022,Singapore,Asia,France,Europe,Import,Microprocessors,353169.97,0.024,10
+2022,Taiwan,Asia,South Korea,Asia,Export,Sensors,50746.17,0.054,3
+2022,France,Europe,Vietnam,Asia,Export,Microprocessors,8146.36,0.124,1
+2022,South Korea,Asia,USA,North America,Import,Analog ICs,24960.54,0.11,6
+2022,South Korea,Asia,UK,Europe,Export,Optoelectronics,137692.98,0.023,5
+2022,South Korea,Asia,Malaysia,Asia,Import,Logic ICs,117391.7,0.05,7
+2022,Canada,North America,Singapore,Asia,Import,Microprocessors,314417.34,0.031,9
+2022,Germany,Europe,Taiwan,Asia,Export,Sensors,4483.05,0.009,10
+2022,India,Asia,USA,North America,Export,Memory ICs,32330.91,0.086,8
+2022,China,Asia,Taiwan,Asia,Import,Sensors,93175.4,0.121,7
+2022,Canada,North America,Mexico,North America,Export,Memory ICs,41735.53,0.12,2
+2022,Japan,Asia,Canada,North America,Export,Optoelectronics,143045.03,0.006,4
+2022,Malaysia,Asia,France,Europe,Export,Analog ICs,60877.93,0.062,10
+2022,Malaysia,Asia,Taiwan,Asia,Import,Memory ICs,105621.45,0.087,8
+2022,Netherlands,Europe,USA,North America,Export,Sensors,96205.19,0.113,9
+2022,Vietnam,Asia,China,Asia,Export,Sensors,16371.89,0.136,5
+2022,USA,North America,Singapore,Asia,Import,Optoelectronics,59872.59,0.096,3
+2022,Mexico,North America,China,Asia,Import,Logic ICs,14987.59,0.071,7
+2022,Canada,North America,UK,Europe,Import,Microprocessors,11461.0,0.008,8
+2022,Singapore,Asia,Japan,Asia,Import,Microprocessors,4346.11,0.04,2
+2022,China,Asia,Malaysia,Asia,Import,Sensors,2068.07,0.101,10
+2022,Japan,Asia,Vietnam,Asia,Export,Microprocessors,221236.4,0.12,9
+2022,Japan,Asia,Germany,Europe,Import,Memory ICs,3374.34,0.086,6
+2022,Vietnam,Asia,China,Asia,Export,Sensors,321312.18,0.09,2
+2022,Canada,North America,UK,Europe,Import,Memory ICs,4666.77,0.01,2
+2022,France,Europe,Netherlands,Europe,Import,Optoelectronics,17813.68,0.058,6
+2022,France,Europe,Netherlands,Europe,Import,Microprocessors,251319.74,0.087,7
+2022,Mexico,North America,Taiwan,Asia,Import,Logic ICs,30738.64,0.049,7
+2022,Malaysia,Asia,Germany,Europe,Export,Logic ICs,183487.23,0.071,6
+2022,Mexico,North America,USA,North America,Import,Sensors,1509.83,0.056,4
+2022,China,Asia,South Korea,Asia,Export,Sensors,8338.53,0.113,3
+2022,France,Europe,UK,Europe,Import,Sensors,271091.27,0.114,6
+2022,Japan,Asia,USA,North America,Export,Sensors,86978.69,0.05,8
+2022,Taiwan,Asia,Singapore,Asia,Export,Optoelectronics,12717.22,0.027,8
+2022,Netherlands,Europe,Singapore,Asia,Export,Memory ICs,8826.93,0.005,9
+2022,Canada,North America,Netherlands,Europe,Export,Analog ICs,5977.44,0.076,2
+2022,Canada,North America,USA,North America,Export,Microprocessors,8127.69,0.031,5
+2022,USA,North America,Japan,Asia,Export,Optoelectronics,10212.31,0.084,8
+2022,India,Asia,UK,Europe,Export,Optoelectronics,8073.13,0.0,3
+2022,Japan,Asia,Malaysia,Asia,Export,Optoelectronics,135885.34,0.061,8
+2022,Japan,Asia,China,Asia,Export,Optoelectronics,18410.42,0.028,6
+2022,China,Asia,Germany,Europe,Import,Optoelectronics,1226.78,0.022,6
+2022,Japan,Asia,Canada,North America,Export,Memory ICs,53621.59,0.135,7
+2022,Germany,Europe,Canada,North America,Import,Memory ICs,1298.48,0.147,7
+2022,Netherlands,Europe,Japan,Asia,Export,Analog ICs,155709.06,0.087,1
+2022,China,Asia,Vietnam,Asia,Export,Logic ICs,298395.94,0.115,6
+2022,UK,Europe,Taiwan,Asia,Export,Logic ICs,3609.21,0.063,3
+2022,UK,Europe,USA,North America,Export,Microprocessors,30218.49,0.147,4
+2022,USA,North America,France,Europe,Export,Logic ICs,286.58,0.045,4
+2022,USA,North America,China,Asia,Export,Memory ICs,127.14,0.172,4
+2022,Netherlands,Europe,Malaysia,Asia,Import,Analog ICs,11747.04,0.095,1
+2022,Canada,North America,Germany,Europe,Export,Analog ICs,1419.71,0.1,6
+2022,India,Asia,South Korea,Asia,Export,Microprocessors,88022.18,0.003,1
+2022,Netherlands,Europe,Taiwan,Asia,Export,Analog ICs,247325.68,0.09,7
+2022,China,Asia,Singapore,Asia,Import,Microprocessors,20982.14,0.018,4
+2022,Malaysia,Asia,UK,Europe,Export,Microprocessors,8784.93,0.046,6
+2022,Singapore,Asia,Netherlands,Europe,Import,Microprocessors,32134.36,0.056,4
+2022,UK,Europe,Mexico,North America,Export,Analog ICs,29214.01,0.072,7
+2022,France,Europe,South Korea,Asia,Export,Microprocessors,29445.98,0.073,5
+2022,Mexico,North America,Taiwan,Asia,Export,Analog ICs,1531850.64,0.071,6
+2022,India,Asia,Singapore,Asia,Import,Logic ICs,155701.37,0.063,1
+2022,China,Asia,Singapore,Asia,Export,Logic ICs,2244.23,0.077,6
+2022,UK,Europe,France,Europe,Import,Optoelectronics,24830.07,0.081,7
+2022,Vietnam,Asia,India,Asia,Export,Sensors,137107.3,0.071,1
+2022,Netherlands,Europe,Taiwan,Asia,Export,Microprocessors,224314.34,0.022,4
+2022,France,Europe,Malaysia,Asia,Import,Optoelectronics,1231.74,0.003,8
+2022,Japan,Asia,South Korea,Asia,Import,Microprocessors,146072.62,0.108,5
+2022,India,Asia,Germany,Europe,Import,Analog ICs,91253.08,0.032,3
+2022,Vietnam,Asia,South Korea,Asia,Export,Logic ICs,510505.9,0.108,7
+2022,France,Europe,Singapore,Asia,Import,Optoelectronics,237208.44,0.102,7
+2022,China,Asia,UK,Europe,Import,Sensors,22819.45,0.118,6
+2022,Canada,North America,South Korea,Asia,Export,Logic ICs,2736.8,0.042,5
+2022,Singapore,Asia,Canada,North America,Import,Sensors,171960.69,0.095,2
+2022,Malaysia,Asia,USA,North America,Import,Memory ICs,6394.99,0.077,5
+2022,Singapore,Asia,India,Asia,Import,Analog ICs,4492.72,0.068,3
+2022,Canada,North America,China,Asia,Export,Logic ICs,24220.36,0.05,3
+2022,Taiwan,Asia,Malaysia,Asia,Import,Logic ICs,626.73,0.024,5
+2022,India,Asia,Canada,North America,Import,Memory ICs,2694.92,0.006,10
+2022,China,Asia,Mexico,North America,Import,Memory ICs,119639.33,0.035,6
+2022,UK,Europe,India,Asia,Import,Analog ICs,3461.5,0.077,1
+2022,India,Asia,Taiwan,Asia,Export,Analog ICs,2529.46,0.143,5
+2022,Malaysia,Asia,Vietnam,Asia,Export,Microprocessors,288.82,0.065,5
+2022,Vietnam,Asia,South Korea,Asia,Import,Analog ICs,3564.27,0.006,4
+2022,USA,North America,Vietnam,Asia,Import,Logic ICs,46503.99,0.15,7
+2022,USA,North America,Vietnam,Asia,Export,Logic ICs,309085.92,0.016,9
+2022,Singapore,Asia,South Korea,Asia,Export,Microprocessors,2897.7,0.078,6
+2022,India,Asia,Canada,North America,Import,Microprocessors,43388.59,0.053,5
+2022,Germany,Europe,Netherlands,Europe,Export,Logic ICs,9415.65,0.127,8
+2022,France,Europe,Germany,Europe,Export,Sensors,16923.93,0.012,9
+2022,China,Asia,Germany,Europe,Export,Optoelectronics,26918.78,0.08,2
+2022,Singapore,Asia,Mexico,North America,Import,Logic ICs,14358.38,0.029,6
+2022,South Korea,Asia,USA,North America,Export,Sensors,357912.99,0.146,10
+2022,Vietnam,Asia,USA,North America,Export,Logic ICs,10360.32,0.074,5
+2022,China,Asia,UK,Europe,Export,Memory ICs,1463.5,0.006,9
+2022,China,Asia,UK,Europe,Export,Microprocessors,2033.62,0.053,6
+2022,Vietnam,Asia,UK,Europe,Import,Sensors,276985.62,0.146,8
+2022,UK,Europe,Vietnam,Asia,Export,Sensors,15644.66,0.074,4
+2022,USA,North America,Netherlands,Europe,Export,Analog ICs,15485.8,0.048,5
+2022,Taiwan,Asia,Vietnam,Asia,Export,Sensors,514235.09,0.024,7
+2022,UK,Europe,Singapore,Asia,Import,Analog ICs,224676.16,0.055,6
+2022,Mexico,North America,South Korea,Asia,Export,Logic ICs,9199.16,0.083,3
+2022,India,Asia,France,Europe,Import,Sensors,49841.39,0.065,5
+2022,France,Europe,Germany,Europe,Export,Sensors,137770.01,0.021,5
+2022,Mexico,North America,Netherlands,Europe,Import,Logic ICs,16957.15,0.142,2
+2022,Vietnam,Asia,Germany,Europe,Import,Logic ICs,343261.49,0.097,8
+2022,Singapore,Asia,USA,North America,Export,Microprocessors,2199.51,0.097,2
+2022,Netherlands,Europe,Mexico,North America,Export,Analog ICs,561329.38,0.092,9
+2022,France,Europe,Netherlands,Europe,Export,Optoelectronics,4563.88,0.141,4
+2022,Canada,North America,China,Asia,Export,Memory ICs,3113.39,0.024,4
+2022,India,Asia,Taiwan,Asia,Import,Sensors,629014.17,0.031,6
+2022,Canada,North America,Japan,Asia,Import,Analog ICs,16715.27,0.127,4
+2022,South Korea,Asia,Japan,Asia,Export,Analog ICs,34828.44,0.071,2
+2022,Taiwan,Asia,UK,Europe,Export,Analog ICs,5722.18,0.075,4
+2022,Netherlands,Europe,Canada,North America,Export,Memory ICs,71045.55,0.146,8
+2022,UK,Europe,India,Asia,Import,Analog ICs,52111.18,0.092,9
+2022,France,Europe,Malaysia,Asia,Export,Memory ICs,966.92,0.132,10
+2022,UK,Europe,Vietnam,Asia,Export,Sensors,93920.81,0.038,6
+2022,Malaysia,Asia,Canada,North America,Import,Optoelectronics,10069.44,0.003,8
+2022,Taiwan,Asia,Germany,Europe,Import,Logic ICs,20666.96,0.015,3
+2022,China,Asia,UK,Europe,Export,Sensors,43613.37,0.02,3
+2022,Taiwan,Asia,India,Asia,Export,Logic ICs,48448.55,0.049,3
+2022,India,Asia,Japan,Asia,Import,Analog ICs,4077.0,0.062,5
+2022,UK,Europe,USA,North America,Import,Memory ICs,119060.71,0.125,10
+2022,Canada,North America,Vietnam,Asia,Export,Memory ICs,515627.31,0.046,10
+2022,China,Asia,Canada,North America,Export,Analog ICs,98417.85,0.118,4
+2022,Germany,Europe,Taiwan,Asia,Import,Logic ICs,171800.93,0.065,9
+2022,UK,Europe,Netherlands,Europe,Import,Logic ICs,6237.65,0.083,9
+2022,France,Europe,Netherlands,Europe,Import,Logic ICs,75168.88,0.129,10
+2022,Mexico,North America,Singapore,Asia,Import,Sensors,505.89,0.149,4
+2022,India,Asia,South Korea,Asia,Export,Sensors,55111.29,0.011,5
+2022,UK,Europe,South Korea,Asia,Export,Optoelectronics,414806.16,0.086,8
+2022,France,Europe,China,Asia,Export,Optoelectronics,1276.23,0.05,3
+2022,China,Asia,Malaysia,Asia,Import,Optoelectronics,1007731.31,0.123,4
+2022,USA,North America,Japan,Asia,Import,Logic ICs,214306.4,0.093,9
+2022,Taiwan,Asia,Germany,Europe,Import,Sensors,1687.32,0.06,7
+2022,India,Asia,Netherlands,Europe,Export,Microprocessors,417051.11,0.003,2
+2022,Japan,Asia,Singapore,Asia,Import,Memory ICs,4001.42,0.141,6
+2022,Canada,North America,Malaysia,Asia,Import,Microprocessors,14322.79,0.139,2
+2022,Vietnam,Asia,UK,Europe,Import,Sensors,216814.24,0.029,4
+2022,South Korea,Asia,Singapore,Asia,Export,Analog ICs,29660.2,0.061,7
+2022,Singapore,Asia,Malaysia,Asia,Export,Logic ICs,15638.44,0.102,5
+2022,Vietnam,Asia,Mexico,North America,Import,Optoelectronics,25540.18,0.021,6
+2022,Japan,Asia,Germany,Europe,Import,Analog ICs,26728.16,0.096,9
+2022,Taiwan,Asia,Canada,North America,Import,Sensors,1770724.07,0.014,4
+2022,Singapore,Asia,Canada,North America,Export,Memory ICs,148956.25,0.142,1
+2022,Canada,North America,China,Asia,Import,Memory ICs,146193.49,0.004,7
+2022,Canada,North America,France,Europe,Import,Analog ICs,18502.25,0.021,5
+2022,South Korea,Asia,India,Asia,Export,Microprocessors,1567.25,0.137,2
+2022,Malaysia,Asia,Germany,Europe,Export,Sensors,8570.65,0.044,8
+2022,Singapore,Asia,Japan,Asia,Import,Memory ICs,192815.39,0.008,2
+2022,Singapore,Asia,UK,Europe,Import,Optoelectronics,3010.45,0.046,2
+2022,Japan,Asia,Mexico,North America,Import,Logic ICs,30566.2,0.115,1
+2022,China,Asia,Canada,North America,Import,Logic ICs,42262.01,0.142,6
+2022,China,Asia,Taiwan,Asia,Import,Microprocessors,53454.27,0.124,9
+2022,Netherlands,Europe,Mexico,North America,Import,Microprocessors,31704.44,0.027,10
+2022,Singapore,Asia,Vietnam,Asia,Import,Memory ICs,62869.99,0.11,2
+2022,Canada,North America,India,Asia,Import,Memory ICs,111701.64,0.037,9
+2022,Taiwan,Asia,Netherlands,Europe,Import,Logic ICs,6131.46,0.027,8
+2022,Netherlands,Europe,Mexico,North America,Import,Microprocessors,6414.62,0.085,8
+2022,Netherlands,Europe,Taiwan,Asia,Import,Logic ICs,9245.9,0.045,8
+2022,USA,North America,Canada,North America,Export,Microprocessors,609780.12,0.109,10
+2022,China,Asia,India,Asia,Export,Optoelectronics,746641.53,0.056,10
+2022,Japan,Asia,China,Asia,Import,Logic ICs,39093.99,0.04,5
+2022,Germany,Europe,Netherlands,Europe,Export,Memory ICs,8683.19,0.099,7
+2022,India,Asia,Malaysia,Asia,Export,Memory ICs,37132.6,0.114,10
+2022,Singapore,Asia,UK,Europe,Export,Sensors,27067.29,0.055,2
+2022,UK,Europe,Vietnam,Asia,Import,Memory ICs,71832.87,0.076,10
+2022,Vietnam,Asia,India,Asia,Export,Memory ICs,61961.65,0.079,1
+2022,Japan,Asia,Netherlands,Europe,Import,Optoelectronics,4938.4,0.091,7
+2022,India,Asia,China,Asia,Import,Logic ICs,201896.33,0.073,3
+2022,USA,North America,South Korea,Asia,Import,Sensors,5626.87,0.092,1
+2022,Vietnam,Asia,Singapore,Asia,Export,Optoelectronics,10328.55,0.077,6
+2022,Vietnam,Asia,Japan,Asia,Import,Logic ICs,47699.18,0.113,10
+2022,South Korea,Asia,Canada,North America,Export,Analog ICs,277429.61,0.007,5
+2022,Malaysia,Asia,Singapore,Asia,Export,Optoelectronics,3158.57,0.038,7
+2023,USA,North America,South Korea,Asia,Import,Sensors,3304837.33,0.071,6
+2023,South Korea,Asia,France,Europe,Export,Analog ICs,8925.95,0.032,6
+2023,France,Europe,Canada,North America,Export,Microprocessors,6629.75,0.144,3
+2023,Malaysia,Asia,India,Asia,Import,Logic ICs,72191.59,0.1,10
+2023,UK,Europe,Malaysia,Asia,Export,Analog ICs,3446.98,0.118,5
+2023,Singapore,Asia,India,Asia,Import,Optoelectronics,289777.09,0.029,10
+2023,UK,Europe,Taiwan,Asia,Import,Microprocessors,11523.94,0.053,6
+2023,India,Asia,Vietnam,Asia,Import,Memory ICs,33649.66,0.01,3
+2023,Mexico,North America,Taiwan,Asia,Import,Memory ICs,16246.36,0.053,3
+2023,Taiwan,Asia,South Korea,Asia,Export,Analog ICs,193072.14,0.095,5
+2023,Singapore,Asia,Japan,Asia,Export,Memory ICs,13096.15,0.016,9
+2023,Vietnam,Asia,Taiwan,Asia,Import,Microprocessors,2795.76,0.051,9
+2023,Taiwan,Asia,South Korea,Asia,Import,Sensors,24707.65,0.119,9
+2023,France,Europe,Netherlands,Europe,Export,Sensors,65077.1,0.098,4
+2023,Singapore,Asia,China,Asia,Export,Logic ICs,27347.79,0.083,6
+2023,Japan,Asia,Netherlands,Europe,Import,Memory ICs,381285.61,0.101,2
+2023,Canada,North America,Malaysia,Asia,Export,Optoelectronics,17293.4,0.043,5
+2023,USA,North America,Taiwan,Asia,Export,Microprocessors,3337.11,0.122,6
+2023,China,Asia,Singapore,Asia,Import,Microprocessors,22759.74,0.013,9
+2023,China,Asia,Germany,Europe,Export,Optoelectronics,3059.83,0.097,8
+2023,China,Asia,Vietnam,Asia,Export,Logic ICs,3841.16,0.125,3
+2023,Taiwan,Asia,UK,Europe,Export,Optoelectronics,115604.62,0.056,3
+2023,Japan,Asia,Taiwan,Asia,Export,Microprocessors,1057821.38,0.008,4
+2023,USA,North America,China,Asia,Import,Sensors,72258.3,0.126,2
+2023,UK,Europe,Germany,Europe,Export,Microprocessors,9745.35,0.047,8
+2023,France,Europe,Malaysia,Asia,Export,Microprocessors,11820.12,0.098,6
+2023,Japan,Asia,South Korea,Asia,Import,Microprocessors,71261.91,0.023,7
+2023,India,Asia,Canada,North America,Export,Microprocessors,32975.56,0.03,2
+2023,Germany,Europe,Mexico,North America,Export,Memory ICs,7723.59,0.146,2
+2023,France,Europe,Mexico,North America,Export,Optoelectronics,1618889.62,0.062,2
+2023,Germany,Europe,Netherlands,Europe,Export,Logic ICs,170063.22,0.13,7
+2023,Germany,Europe,Singapore,Asia,Export,Analog ICs,33604.62,0.063,7
+2023,China,Asia,South Korea,Asia,Export,Microprocessors,19464.36,0.0,5
+2023,UK,Europe,Malaysia,Asia,Import,Memory ICs,219839.64,0.137,2
+2023,Germany,Europe,India,Asia,Export,Analog ICs,5217.19,0.012,3
+2023,Mexico,North America,USA,North America,Import,Optoelectronics,90584.19,0.105,2
+2023,Japan,Asia,China,Asia,Export,Optoelectronics,617.93,0.053,10
+2023,China,Asia,UK,Europe,Export,Microprocessors,7154967.2,0.029,7
+2023,USA,North America,Taiwan,Asia,Import,Analog ICs,11015.99,0.106,4
+2023,Taiwan,Asia,UK,Europe,Import,Optoelectronics,94184.62,0.132,10
+2023,UK,Europe,France,Europe,Export,Microprocessors,33024.2,0.038,6
+2023,South Korea,Asia,Germany,Europe,Import,Logic ICs,2709.03,0.026,9
+2023,Malaysia,Asia,Netherlands,Europe,Export,Analog ICs,2660.92,0.085,3
+2023,Malaysia,Asia,Mexico,North America,Import,Memory ICs,124137.36,0.076,10
+2023,India,Asia,Netherlands,Europe,Import,Sensors,2339.59,0.077,6
+2023,China,Asia,Malaysia,Asia,Import,Memory ICs,348111.42,0.129,4
+2023,Canada,North America,Vietnam,Asia,Import,Memory ICs,29322.62,0.011,3
+2023,South Korea,Asia,China,Asia,Export,Logic ICs,10143.43,0.07,1
+2023,Taiwan,Asia,Netherlands,Europe,Import,Microprocessors,531814.38,0.12,6
+2023,UK,Europe,Mexico,North America,Export,Microprocessors,6798.95,0.116,10
+2023,Japan,Asia,France,Europe,Import,Logic ICs,373129.69,0.006,1
+2023,Taiwan,Asia,France,Europe,Export,Logic ICs,3833.76,0.003,1
+2023,South Korea,Asia,China,Asia,Export,Memory ICs,194502.05,0.141,5
+2023,China,Asia,Singapore,Asia,Import,Logic ICs,759.45,0.041,6
+2023,France,Europe,South Korea,Asia,Import,Memory ICs,8825.98,0.083,5
+2023,Japan,Asia,Mexico,North America,Import,Memory ICs,5138.81,0.007,4
+2023,China,Asia,Japan,Asia,Import,Logic ICs,4271.91,0.009,3
+2023,Canada,North America,France,Europe,Export,Logic ICs,90201.9,0.057,6
+2023,Japan,Asia,South Korea,Asia,Export,Analog ICs,681.4,0.097,7
+2023,Malaysia,Asia,Mexico,North America,Import,Sensors,1474883.43,0.05,3
+2023,France,Europe,Germany,Europe,Export,Microprocessors,16150.42,0.009,4
+2023,UK,Europe,Japan,Asia,Export,Sensors,23299.33,0.053,6
+2023,Germany,Europe,France,Europe,Import,Analog ICs,14646.34,0.135,10
+2023,USA,North America,Japan,Asia,Import,Optoelectronics,24710.05,0.064,8
+2023,Mexico,North America,Malaysia,Asia,Export,Optoelectronics,540973.2,0.031,3
+2023,South Korea,Asia,Mexico,North America,Import,Optoelectronics,10000.95,0.133,5
+2023,Taiwan,Asia,Malaysia,Asia,Import,Microprocessors,222902.36,0.116,8
+2023,India,Asia,Germany,Europe,Export,Sensors,15630.96,0.141,4
+2023,South Korea,Asia,China,Asia,Export,Memory ICs,85698.25,0.003,1
+2023,China,Asia,Malaysia,Asia,Export,Analog ICs,5322.65,0.129,7
+2023,Malaysia,Asia,South Korea,Asia,Export,Microprocessors,9009.26,0.036,5
+2023,India,Asia,France,Europe,Import,Memory ICs,552511.74,0.099,1
+2023,Japan,Asia,Netherlands,Europe,Import,Sensors,59472.5,0.049,6
+2023,UK,Europe,France,Europe,Import,Optoelectronics,78448.69,0.01,10
+2023,France,Europe,USA,North America,Export,Microprocessors,90538.44,0.083,6
+2023,Canada,North America,Malaysia,Asia,Import,Sensors,30226.12,0.109,9
+2023,Japan,Asia,South Korea,Asia,Import,Sensors,1003.45,0.036,10
+2023,Taiwan,Asia,Netherlands,Europe,Import,Memory ICs,2745.68,0.091,4
+2023,South Korea,Asia,Singapore,Asia,Import,Microprocessors,95390.59,0.049,2
+2023,Singapore,Asia,France,Europe,Export,Microprocessors,7889.92,0.093,5
+2023,UK,Europe,USA,North America,Export,Memory ICs,5359.69,0.004,6
+2023,South Korea,Asia,Mexico,North America,Export,Memory ICs,92892.57,0.099,5
+2023,Netherlands,Europe,Canada,North America,Import,Logic ICs,925540.35,0.064,3
+2023,USA,North America,Canada,North America,Export,Memory ICs,4872.7,0.115,6
+2023,Mexico,North America,Singapore,Asia,Import,Sensors,113986.99,0.002,7
+2023,France,Europe,Vietnam,Asia,Import,Logic ICs,8290.05,0.099,3
+2023,Germany,Europe,France,Europe,Import,Analog ICs,1148828.22,0.003,5
+2023,Malaysia,Asia,Mexico,North America,Export,Analog ICs,60660.77,0.1,6
+2023,India,Asia,South Korea,Asia,Import,Analog ICs,156733.07,0.083,9
+2023,South Korea,Asia,USA,North America,Export,Sensors,10159.26,0.086,9
+2023,India,Asia,Malaysia,Asia,Export,Optoelectronics,396.77,0.038,4
+2023,Netherlands,Europe,Mexico,North America,Import,Optoelectronics,68737.63,0.031,6
+2023,UK,Europe,Netherlands,Europe,Import,Optoelectronics,28679.56,0.017,7
+2023,India,Asia,Canada,North America,Import,Analog ICs,3994.04,0.091,3
+2023,Netherlands,Europe,UK,Europe,Export,Sensors,54086.13,0.134,8
+2023,Vietnam,Asia,Netherlands,Europe,Export,Memory ICs,4311.32,0.007,4
+2023,Taiwan,Asia,Germany,Europe,Export,Optoelectronics,67243.75,0.11,7
+2023,Canada,North America,France,Europe,Import,Logic ICs,505.39,0.02,9
+2023,Taiwan,Asia,USA,North America,Export,Microprocessors,245523.03,0.042,9
+2023,Vietnam,Asia,USA,North America,Export,Microprocessors,628475.12,0.106,5
+2023,Netherlands,Europe,Singapore,Asia,Import,Optoelectronics,77169.08,0.142,2
+2023,Germany,Europe,USA,North America,Export,Optoelectronics,19979.63,0.096,8
+2023,China,Asia,USA,North America,Export,Optoelectronics,138654.41,0.022,1
+2023,UK,Europe,Taiwan,Asia,Import,Logic ICs,364501.19,0.021,4
+2023,Canada,North America,USA,North America,Import,Microprocessors,1172.1,0.027,10
+2023,Vietnam,Asia,Singapore,Asia,Export,Sensors,78755.52,0.108,4
+2023,Germany,Europe,USA,North America,Import,Analog ICs,235359.52,0.089,5
+2023,USA,North America,Vietnam,Asia,Import,Microprocessors,14338.11,0.041,3
+2023,India,Asia,Singapore,Asia,Export,Microprocessors,41236.03,0.145,8
+2023,UK,Europe,Vietnam,Asia,Import,Memory ICs,9618.0,0.064,6
+2023,Germany,Europe,France,Europe,Import,Sensors,40703.87,0.052,10
+2023,Singapore,Asia,China,Asia,Export,Sensors,19881.17,0.01,5
+2023,Vietnam,Asia,Mexico,North America,Export,Microprocessors,579026.42,0.07,4
+2023,China,Asia,Mexico,North America,Export,Memory ICs,11300.45,0.047,10
+2023,China,Asia,Taiwan,Asia,Import,Memory ICs,48499.7,0.007,4
+2023,UK,Europe,France,Europe,Import,Memory ICs,586.05,0.002,10
+2023,France,Europe,Canada,North America,Import,Sensors,5597.22,0.115,3
+2023,Netherlands,Europe,Japan,Asia,Import,Optoelectronics,109355.96,0.132,7
+2023,Singapore,Asia,China,Asia,Import,Sensors,36789.76,0.133,9
+2023,Japan,Asia,Vietnam,Asia,Export,Memory ICs,2246679.29,0.063,8
+2023,UK,Europe,Malaysia,Asia,Import,Logic ICs,37112.02,0.087,3
+2023,Vietnam,Asia,Mexico,North America,Import,Analog ICs,6806.3,0.106,10
+2023,USA,North America,UK,Europe,Import,Microprocessors,8088.61,0.089,4
+2023,India,Asia,Japan,Asia,Import,Optoelectronics,35037.99,0.067,4
+2023,Malaysia,Asia,Netherlands,Europe,Import,Memory ICs,27255.77,0.133,2
+2023,Japan,Asia,Taiwan,Asia,Import,Analog ICs,45770.59,0.018,5
+2023,China,Asia,Netherlands,Europe,Import,Logic ICs,283952.4,0.134,9
+2023,Singapore,Asia,Germany,Europe,Import,Optoelectronics,19502.56,0.124,10
+2023,Netherlands,Europe,Malaysia,Asia,Import,Microprocessors,672.45,0.136,1
+2023,Japan,Asia,Netherlands,Europe,Export,Logic ICs,5538.33,0.059,10
+2023,France,Europe,USA,North America,Import,Optoelectronics,2799.09,0.129,10
+2023,Japan,Asia,Germany,Europe,Export,Optoelectronics,83843.56,0.123,10
+2023,Japan,Asia,Singapore,Asia,Import,Logic ICs,3435.88,0.124,4
+2023,Mexico,North America,France,Europe,Export,Optoelectronics,212011.62,0.087,4
+2023,Germany,Europe,China,Asia,Export,Analog ICs,382290.02,0.072,5
+2023,Canada,North America,Netherlands,Europe,Import,Memory ICs,7456.7,0.12,10
+2023,Malaysia,Asia,Mexico,North America,Export,Optoelectronics,2955.6,0.069,5
+2023,USA,North America,India,Asia,Export,Microprocessors,20884.41,0.077,6
+2023,Taiwan,Asia,Vietnam,Asia,Export,Sensors,8831.94,0.05,7
+2023,China,Asia,Taiwan,Asia,Import,Analog ICs,3182.55,0.06,3
+2023,Netherlands,Europe,Japan,Asia,Import,Optoelectronics,52872.88,0.003,2
+2023,China,Asia,USA,North America,Export,Memory ICs,117069.04,0.051,8
+2023,Singapore,Asia,France,Europe,Export,Logic ICs,38098.4,0.053,3
+2023,Taiwan,Asia,Vietnam,Asia,Export,Microprocessors,10544.54,0.076,4
+2023,Singapore,Asia,Netherlands,Europe,Export,Logic ICs,31989.05,0.072,1
+2023,Japan,Asia,China,Asia,Import,Optoelectronics,34919.59,0.142,6
+2023,Vietnam,Asia,USA,North America,Import,Logic ICs,68938.64,0.091,5
+2023,China,Asia,France,Europe,Import,Microprocessors,160946.78,0.018,5
+2023,Malaysia,Asia,Germany,Europe,Import,Memory ICs,11781.1,0.089,7
+2023,France,Europe,South Korea,Asia,Export,Memory ICs,13918.9,0.078,1
+2023,Singapore,Asia,Germany,Europe,Import,Microprocessors,7848.19,0.097,2
+2023,UK,Europe,Japan,Asia,Export,Sensors,50703.29,0.074,10
+2023,UK,Europe,Vietnam,Asia,Import,Optoelectronics,360659.15,0.062,4
+2023,India,Asia,Singapore,Asia,Export,Optoelectronics,238552.83,0.144,6
+2023,Singapore,Asia,France,Europe,Import,Optoelectronics,37997.17,0.077,1
+2023,UK,Europe,France,Europe,Export,Optoelectronics,43671.51,0.058,8
+2023,Malaysia,Asia,India,Asia,Import,Memory ICs,77538.37,0.095,3
+2023,Taiwan,Asia,France,Europe,Import,Sensors,42359.5,0.058,6
+2023,Mexico,North America,Vietnam,Asia,Import,Sensors,5816.19,0.006,2
+2023,France,Europe,Netherlands,Europe,Export,Logic ICs,185417.69,0.041,4
+2023,Singapore,Asia,France,Europe,Export,Sensors,305.52,0.063,2
+2023,Singapore,Asia,Vietnam,Asia,Export,Analog ICs,14868.11,0.105,9
+2023,Taiwan,Asia,Mexico,North America,Import,Memory ICs,30981.04,0.123,8
+2023,France,Europe,India,Asia,Export,Memory ICs,20543.42,0.015,7
+2023,Vietnam,Asia,Japan,Asia,Import,Microprocessors,3067.74,0.057,2
+2023,Canada,North America,Japan,Asia,Import,Memory ICs,4021.71,0.008,1
+2023,Vietnam,Asia,India,Asia,Import,Logic ICs,103203.69,0.15,10
+2023,Malaysia,Asia,UK,Europe,Import,Microprocessors,9254.56,0.053,3
+2023,Japan,Asia,USA,North America,Import,Analog ICs,9672.89,0.136,2
+2023,China,Asia,UK,Europe,Export,Analog ICs,7363.99,0.093,2
+2023,Singapore,Asia,Malaysia,Asia,Import,Memory ICs,15714.37,0.112,5
+2023,Canada,North America,India,Asia,Import,Sensors,33969.07,0.009,9
+2023,Malaysia,Asia,Netherlands,Europe,Export,Microprocessors,4819.21,0.043,8
+2023,Vietnam,Asia,Japan,Asia,Import,Optoelectronics,65394.43,0.07,4
+2023,Netherlands,Europe,India,Asia,Import,Sensors,1042.02,0.148,10
+2023,France,Europe,Netherlands,Europe,Import,Sensors,3086332.62,0.095,4
+2023,China,Asia,Singapore,Asia,Import,Logic ICs,182946.59,0.018,2
+2023,India,Asia,Malaysia,Asia,Import,Logic ICs,39669.39,0.098,2
+2023,China,Asia,South Korea,Asia,Import,Optoelectronics,5106.4,0.13,3
+2023,Japan,Asia,Vietnam,Asia,Export,Memory ICs,10640.92,0.146,5
+2023,South Korea,Asia,India,Asia,Import,Analog ICs,3407.59,0.046,5
+2023,China,Asia,South Korea,Asia,Import,Microprocessors,84706.33,0.041,4
+2023,Canada,North America,Malaysia,Asia,Export,Optoelectronics,2910.6,0.066,1
+2023,Taiwan,Asia,Germany,Europe,Export,Logic ICs,2074.67,0.006,5
+2023,Taiwan,Asia,France,Europe,Export,Logic ICs,216887.07,0.111,1
+2023,USA,North America,Netherlands,Europe,Import,Logic ICs,27254.88,0.13,6
+2023,France,Europe,Taiwan,Asia,Export,Logic ICs,4446.75,0.122,3
+2023,Singapore,Asia,Netherlands,Europe,Import,Analog ICs,23505.52,0.039,1
+2023,India,Asia,South Korea,Asia,Export,Memory ICs,14458.07,0.148,10
+2023,UK,Europe,South Korea,Asia,Export,Optoelectronics,5323.94,0.129,7
+2023,UK,Europe,Canada,North America,Import,Logic ICs,161189.4,0.1,8
+2023,Mexico,North America,USA,North America,Export,Microprocessors,287185.04,0.099,9
+2023,Canada,North America,USA,North America,Import,Microprocessors,380559.56,0.034,10
+2023,China,Asia,Vietnam,Asia,Import,Microprocessors,18537.77,0.117,8
+2023,Netherlands,Europe,UK,Europe,Export,Optoelectronics,8974.87,0.036,2
+2023,Canada,North America,Singapore,Asia,Import,Optoelectronics,9776.92,0.116,4
+2023,Canada,North America,Japan,Asia,Export,Analog ICs,370046.75,0.123,5
+2023,France,Europe,Vietnam,Asia,Export,Sensors,11855.87,0.025,7
+2023,Netherlands,Europe,Vietnam,Asia,Export,Memory ICs,59575.71,0.131,5
+2023,USA,North America,UK,Europe,Export,Optoelectronics,89999.77,0.026,8
+2023,Vietnam,Asia,USA,North America,Export,Logic ICs,74494.28,0.132,10
+2023,Japan,Asia,France,Europe,Export,Optoelectronics,11342.03,0.061,6
+2023,UK,Europe,Singapore,Asia,Import,Optoelectronics,64645.03,0.072,1
+2023,Singapore,Asia,India,Asia,Export,Optoelectronics,120806.03,0.094,10
+2023,Japan,Asia,Germany,Europe,Import,Optoelectronics,7873.42,0.036,1
+2023,USA,North America,France,Europe,Export,Logic ICs,20520.23,0.021,4
+2023,Vietnam,Asia,Malaysia,Asia,Export,Microprocessors,6769.41,0.037,4
+2023,USA,North America,Taiwan,Asia,Export,Memory ICs,128115.83,0.09,8
+2023,France,Europe,Germany,Europe,Export,Logic ICs,319.15,0.044,3
+2023,Japan,Asia,India,Asia,Export,Memory ICs,21579.98,0.104,10
+2023,South Korea,Asia,Canada,North America,Import,Microprocessors,60522.89,0.149,4
+2023,Taiwan,Asia,France,Europe,Import,Sensors,17737.14,0.062,5
+2023,India,Asia,Mexico,North America,Import,Sensors,78732.88,0.123,7
+2023,South Korea,Asia,Malaysia,Asia,Export,Microprocessors,8516.4,0.015,10
+2023,France,Europe,USA,North America,Export,Memory ICs,76653.58,0.012,7
+2023,Canada,North America,UK,Europe,Import,Optoelectronics,814910.6,0.119,10
+2023,Canada,North America,France,Europe,Export,Sensors,13957.55,0.028,5
+2023,UK,Europe,Japan,Asia,Export,Logic ICs,51719.4,0.05,8
+2023,South Korea,Asia,Taiwan,Asia,Export,Optoelectronics,34624.88,0.049,10
+2023,Japan,Asia,Canada,North America,Export,Memory ICs,34599.98,0.007,5
+2023,South Korea,Asia,India,Asia,Import,Logic ICs,34071.86,0.068,8
+2023,USA,North America,South Korea,Asia,Export,Logic ICs,1402.59,0.014,2
+2023,France,Europe,Malaysia,Asia,Export,Analog ICs,27693.48,0.067,5
+2023,Japan,Asia,Canada,North America,Import,Logic ICs,17728.78,0.1,7
+2023,Singapore,Asia,France,Europe,Export,Analog ICs,13619.66,0.088,6
+2023,Germany,Europe,South Korea,Asia,Import,Microprocessors,3849.78,0.142,5
+2023,India,Asia,Canada,North America,Import,Memory ICs,46993.64,0.048,6
+2023,Japan,Asia,Netherlands,Europe,Import,Optoelectronics,15789.62,0.108,10
+2023,Germany,Europe,Singapore,Asia,Import,Logic ICs,178246.1,0.067,3
+2023,Canada,North America,India,Asia,Import,Sensors,14722.91,0.123,10
+2023,China,Asia,Malaysia,Asia,Import,Analog ICs,5851.15,0.136,2
+2023,UK,Europe,Taiwan,Asia,Export,Memory ICs,12604.39,0.101,5
+2023,Canada,North America,Mexico,North America,Import,Sensors,778.7,0.046,1
+2023,UK,Europe,Singapore,Asia,Import,Microprocessors,1440311.04,0.082,6
+2023,India,Asia,Mexico,North America,Export,Analog ICs,4711.09,0.03,5
+2023,Netherlands,Europe,India,Asia,Import,Sensors,83887.53,0.109,4
+2023,USA,North America,Germany,Europe,Import,Memory ICs,8125.84,0.049,7
+2023,UK,Europe,Vietnam,Asia,Export,Logic ICs,4789.2,0.076,1
+2023,Japan,Asia,Vietnam,Asia,Import,Sensors,1350.18,0.031,3
+2023,Malaysia,Asia,Germany,Europe,Import,Logic ICs,45581.92,0.064,3
+2023,China,Asia,Singapore,Asia,Export,Logic ICs,1080.77,0.072,7
+2023,Mexico,North America,Japan,Asia,Export,Sensors,8318.24,0.082,9
+2023,Canada,North America,Singapore,Asia,Export,Memory ICs,318559.11,0.052,8
+2023,China,Asia,Germany,Europe,Import,Microprocessors,1597973.69,0.094,5
+2023,South Korea,Asia,Vietnam,Asia,Import,Sensors,95059.03,0.116,10
+2023,Netherlands,Europe,Germany,Europe,Export,Optoelectronics,319548.95,0.028,9
+2023,India,Asia,Vietnam,Asia,Import,Microprocessors,16497.02,0.018,2
+2023,USA,North America,UK,Europe,Export,Memory ICs,9240.06,0.045,2
+2023,Japan,Asia,UK,Europe,Import,Analog ICs,1670.7,0.017,4
+2023,Netherlands,Europe,UK,Europe,Import,Sensors,12050.25,0.149,10
+2023,Singapore,Asia,India,Asia,Export,Sensors,130341.57,0.023,7
+2023,Singapore,Asia,China,Asia,Import,Microprocessors,18314.76,0.04,5
+2023,Germany,Europe,South Korea,Asia,Export,Sensors,1158.98,0.041,8
+2023,USA,North America,India,Asia,Export,Analog ICs,95597.41,0.034,10
+2023,Canada,North America,USA,North America,Export,Analog ICs,32349.36,0.068,10
+2023,South Korea,Asia,USA,North America,Import,Optoelectronics,3804.74,0.023,1
+2023,Singapore,Asia,USA,North America,Import,Sensors,8276.47,0.021,7
+2023,Taiwan,Asia,India,Asia,Export,Logic ICs,90.87,0.049,2
+2023,Netherlands,Europe,France,Europe,Export,Sensors,10456.52,0.094,3
+2023,UK,Europe,Mexico,North America,Export,Optoelectronics,2716.69,0.092,6
+2023,South Korea,Asia,Japan,Asia,Import,Sensors,1432.29,0.132,8
+2023,Malaysia,Asia,Vietnam,Asia,Import,Optoelectronics,1354.47,0.064,10
+2023,France,Europe,Netherlands,Europe,Import,Logic ICs,11843.28,0.134,3
+2023,South Korea,Asia,Vietnam,Asia,Import,Logic ICs,7321.35,0.123,1
+2023,Canada,North America,Netherlands,Europe,Import,Microprocessors,6655.58,0.008,4
+2023,UK,Europe,Singapore,Asia,Export,Optoelectronics,4774.08,0.024,10
+2023,India,Asia,Singapore,Asia,Export,Logic ICs,60025.59,0.146,1
+2023,Netherlands,Europe,Canada,North America,Import,Memory ICs,2835.24,0.134,3
+2023,Japan,Asia,USA,North America,Import,Sensors,50286.37,0.129,10
+2023,Canada,North America,UK,Europe,Export,Memory ICs,2329813.14,0.102,1
+2023,UK,Europe,Malaysia,Asia,Export,Sensors,17061.52,0.015,8
+2023,Germany,Europe,USA,North America,Import,Microprocessors,3473.49,0.012,1
+2023,Malaysia,Asia,UK,Europe,Import,Microprocessors,6225.66,0.048,9
+2023,Canada,North America,India,Asia,Export,Microprocessors,7677.41,0.116,6
+2023,Canada,North America,USA,North America,Export,Microprocessors,416649.97,0.116,1
+2023,Taiwan,Asia,UK,Europe,Export,Sensors,85304.99,0.144,7
+2023,Mexico,North America,Malaysia,Asia,Export,Logic ICs,401680.29,0.015,4
+2023,Canada,North America,Mexico,North America,Import,Logic ICs,8261.84,0.025,2
+2023,USA,North America,Singapore,Asia,Export,Sensors,42637.6,0.144,6
+2023,Singapore,Asia,UK,Europe,Import,Logic ICs,11499.14,0.101,7
+2023,Germany,Europe,China,Asia,Import,Analog ICs,24864.42,0.044,4
+2023,Vietnam,Asia,Taiwan,Asia,Import,Sensors,1381.55,0.012,3
+2023,USA,North America,India,Asia,Export,Memory ICs,121792.02,0.031,8
+2023,Vietnam,Asia,France,Europe,Import,Analog ICs,38101.1,0.09,3
+2023,Mexico,North America,Singapore,Asia,Import,Analog ICs,658.79,0.094,2
+2023,India,Asia,Japan,Asia,Export,Logic ICs,166065.58,0.063,5
+2023,South Korea,Asia,Vietnam,Asia,Export,Sensors,2374.42,0.047,5
+2023,France,Europe,South Korea,Asia,Import,Optoelectronics,324498.86,0.069,7
+2023,France,Europe,China,Asia,Import,Optoelectronics,92416.96,0.03,4
+2023,UK,Europe,Germany,Europe,Export,Memory ICs,2613.37,0.098,7
+2023,USA,North America,Japan,Asia,Import,Memory ICs,135135.86,0.061,2
+2023,Netherlands,Europe,Germany,Europe,Import,Optoelectronics,61914.52,0.099,5
+2023,Netherlands,Europe,Germany,Europe,Import,Logic ICs,4140.02,0.001,9
+2023,China,Asia,Netherlands,Europe,Import,Logic ICs,42673.29,0.034,9
+2023,Vietnam,Asia,China,Asia,Import,Microprocessors,25481.91,0.119,8
+2023,Vietnam,Asia,UK,Europe,Import,Logic ICs,164.77,0.038,4
+2023,France,Europe,Malaysia,Asia,Export,Microprocessors,38716.22,0.053,8
+2023,India,Asia,South Korea,Asia,Import,Optoelectronics,12177.99,0.143,4
+2023,USA,North America,Malaysia,Asia,Import,Memory ICs,29646.39,0.079,7
+2023,China,Asia,Vietnam,Asia,Import,Microprocessors,12046.55,0.039,2
+2023,Singapore,Asia,USA,North America,Export,Logic ICs,26086.06,0.102,1
+2023,Vietnam,Asia,Germany,Europe,Import,Logic ICs,25455.27,0.1,9
+2023,Netherlands,Europe,Canada,North America,Export,Logic ICs,1146638.48,0.096,2
+2023,China,Asia,Japan,Asia,Import,Microprocessors,2175494.37,0.028,10
+2023,South Korea,Asia,Germany,Europe,Import,Optoelectronics,31338.46,0.041,2
+2023,USA,North America,Germany,Europe,Export,Analog ICs,2873.42,0.128,1
+2023,USA,North America,China,Asia,Import,Optoelectronics,49675.76,0.17,6
+2023,USA,North America,Vietnam,Asia,Import,Microprocessors,46663.59,0.089,10
+2023,UK,Europe,India,Asia,Export,Memory ICs,17391.26,0.002,4
+2023,France,Europe,Mexico,North America,Export,Memory ICs,5624.71,0.046,5
+2023,China,Asia,Mexico,North America,Export,Microprocessors,16872.54,0.018,10
+2023,Mexico,North America,USA,North America,Import,Microprocessors,66444.35,0.006,8
+2023,China,Asia,Japan,Asia,Export,Microprocessors,7001.91,0.022,1
+2023,France,Europe,UK,Europe,Export,Sensors,136012.68,0.043,5
+2023,India,Asia,Singapore,Asia,Import,Sensors,11009.26,0.089,1
+2023,Germany,Europe,Netherlands,Europe,Export,Microprocessors,390058.42,0.091,9
+2023,UK,Europe,India,Asia,Import,Optoelectronics,50745.79,0.082,1
+2023,Malaysia,Asia,India,Asia,Import,Sensors,118932.44,0.041,2
+2023,Netherlands,Europe,Taiwan,Asia,Export,Memory ICs,77735.19,0.032,7
+2023,China,Asia,Germany,Europe,Export,Logic ICs,16382.3,0.087,2
+2023,Germany,Europe,Singapore,Asia,Export,Sensors,3962.12,0.011,2
+2023,Malaysia,Asia,Japan,Asia,Import,Optoelectronics,10202.78,0.123,7
+2023,Mexico,North America,South Korea,Asia,Import,Memory ICs,83266.85,0.1,6
+2023,Canada,North America,UK,Europe,Import,Memory ICs,20753.43,0.048,5
+2023,Malaysia,Asia,India,Asia,Import,Analog ICs,2073.6,0.148,7
+2023,Netherlands,Europe,Japan,Asia,Import,Sensors,150.36,0.051,3
+2023,India,Asia,South Korea,Asia,Export,Optoelectronics,15410.42,0.0,7
+2023,Malaysia,Asia,Japan,Asia,Import,Logic ICs,23557.26,0.05,4
+2023,South Korea,Asia,Canada,North America,Import,Optoelectronics,10653.55,0.012,5
+2023,Taiwan,Asia,Mexico,North America,Export,Sensors,14287.82,0.039,5
+2023,Canada,North America,South Korea,Asia,Import,Optoelectronics,142815.58,0.073,9
+2023,South Korea,Asia,Germany,Europe,Import,Optoelectronics,46159.18,0.149,10
+2023,Taiwan,Asia,Vietnam,Asia,Import,Optoelectronics,123527.71,0.088,2
+2023,Taiwan,Asia,Canada,North America,Import,Optoelectronics,40996.19,0.101,3
+2023,Mexico,North America,UK,Europe,Export,Sensors,15151.96,0.087,9
+2023,India,Asia,USA,North America,Export,Analog ICs,26660.12,0.076,9
+2023,India,Asia,Canada,North America,Import,Analog ICs,3834.16,0.024,9
+2023,France,Europe,Mexico,North America,Export,Microprocessors,30053.52,0.136,3
+2023,South Korea,Asia,Singapore,Asia,Export,Analog ICs,24830.29,0.132,10
+2023,France,Europe,Canada,North America,Import,Memory ICs,28212.19,0.094,2
+2023,Malaysia,Asia,Netherlands,Europe,Export,Sensors,724744.73,0.084,8
+2023,Germany,Europe,Taiwan,Asia,Export,Microprocessors,357.97,0.019,9
+2023,Singapore,Asia,Germany,Europe,Import,Logic ICs,11649.71,0.005,8
+2023,Taiwan,Asia,Malaysia,Asia,Export,Memory ICs,64942.75,0.148,8
+2023,Taiwan,Asia,USA,North America,Export,Optoelectronics,48231.25,0.11,10
+2023,Malaysia,Asia,Japan,Asia,Export,Analog ICs,2781.66,0.063,4
+2023,Taiwan,Asia,France,Europe,Import,Sensors,29578.97,0.111,8
+2023,Vietnam,Asia,India,Asia,Export,Optoelectronics,112147.74,0.042,5
+2023,UK,Europe,Vietnam,Asia,Import,Logic ICs,10704.15,0.112,10
+2023,Vietnam,Asia,China,Asia,Export,Optoelectronics,280559.4,0.008,5
+2023,Singapore,Asia,China,Asia,Export,Optoelectronics,63062.06,0.059,9
+2023,Netherlands,Europe,Singapore,Asia,Import,Logic ICs,35874.5,0.141,2
+2023,Germany,Europe,Mexico,North America,Import,Logic ICs,22828.02,0.119,3
+2023,Germany,Europe,UK,Europe,Import,Optoelectronics,14066.92,0.098,6
+2023,Japan,Asia,Taiwan,Asia,Import,Analog ICs,4672.02,0.015,5
+2023,China,Asia,France,Europe,Export,Logic ICs,207332.39,0.008,2
+2023,Mexico,North America,Germany,Europe,Export,Sensors,9153.25,0.066,6
+2023,France,Europe,USA,North America,Export,Sensors,11447.36,0.096,6
+2023,India,Asia,UK,Europe,Import,Microprocessors,3342.39,0.148,9
+2023,Malaysia,Asia,China,Asia,Export,Logic ICs,98578.12,0.038,4
+2023,Singapore,Asia,Vietnam,Asia,Export,Analog ICs,7700.26,0.113,1
+2023,Vietnam,Asia,UK,Europe,Export,Analog ICs,41176.34,0.132,2
+2023,Germany,Europe,Singapore,Asia,Import,Analog ICs,1228.09,0.047,7
+2023,Vietnam,Asia,France,Europe,Import,Optoelectronics,660720.61,0.018,1
+2023,India,Asia,Germany,Europe,Import,Logic ICs,4036.31,0.126,9
+2023,South Korea,Asia,Japan,Asia,Export,Logic ICs,24393.84,0.105,3
+2023,South Korea,Asia,Germany,Europe,Export,Memory ICs,5604.48,0.033,8
+2023,Germany,Europe,Netherlands,Europe,Export,Memory ICs,2420.28,0.145,2
+2023,Mexico,North America,Germany,Europe,Export,Optoelectronics,29133.46,0.1,6
+2023,UK,Europe,Canada,North America,Import,Memory ICs,35489.7,0.055,10
+2023,UK,Europe,Singapore,Asia,Export,Sensors,24893.84,0.124,3
+2023,Netherlands,Europe,South Korea,Asia,Import,Microprocessors,18906.06,0.126,4
+2023,UK,Europe,Vietnam,Asia,Import,Memory ICs,3718.28,0.093,5
+2023,South Korea,Asia,Mexico,North America,Export,Analog ICs,9050.9,0.094,1
+2023,Netherlands,Europe,USA,North America,Import,Memory ICs,42488.46,0.092,6
+2023,Taiwan,Asia,India,Asia,Import,Memory ICs,255398.57,0.03,10
+2023,South Korea,Asia,UK,Europe,Import,Optoelectronics,19995.74,0.104,3
+2023,China,Asia,Mexico,North America,Export,Sensors,14445.84,0.147,6
+2023,South Korea,Asia,Taiwan,Asia,Import,Logic ICs,75455.62,0.041,7
+2023,Japan,Asia,Germany,Europe,Export,Logic ICs,4890.88,0.065,1
+2023,Canada,North America,UK,Europe,Import,Memory ICs,53593.55,0.036,6
+2023,India,Asia,Taiwan,Asia,Import,Sensors,52452.88,0.113,2
+2023,Netherlands,Europe,France,Europe,Export,Logic ICs,31665.77,0.027,4
+2023,USA,North America,Taiwan,Asia,Import,Memory ICs,66430.53,0.022,7
+2023,USA,North America,UK,Europe,Export,Microprocessors,3979.99,0.053,3
+2023,Taiwan,Asia,Canada,North America,Import,Microprocessors,12743.09,0.083,3
+2023,UK,Europe,China,Asia,Import,Analog ICs,1069901.9,0.036,3
+2023,Malaysia,Asia,Japan,Asia,Import,Analog ICs,102.27,0.067,1
+2023,South Korea,Asia,USA,North America,Import,Optoelectronics,5026822.51,0.074,7
+2023,Mexico,North America,USA,North America,Import,Analog ICs,986.4,0.05,6
+2023,France,Europe,Netherlands,Europe,Import,Sensors,1111.67,0.05,8
+2023,Canada,North America,South Korea,Asia,Export,Analog ICs,15715.94,0.021,8
+2023,Japan,Asia,Singapore,Asia,Import,Optoelectronics,42335.4,0.1,9
+2023,Malaysia,Asia,USA,North America,Import,Memory ICs,1860.16,0.145,5
+2023,USA,North America,Japan,Asia,Export,Logic ICs,1288.5,0.113,2
+2023,UK,Europe,Malaysia,Asia,Import,Microprocessors,34475.01,0.144,1
+2023,Vietnam,Asia,France,Europe,Export,Logic ICs,35707.28,0.118,1
+2023,Vietnam,Asia,China,Asia,Import,Microprocessors,45019.73,0.147,2
+2023,Japan,Asia,China,Asia,Import,Microprocessors,2093.79,0.051,7
+2023,UK,Europe,France,Europe,Export,Logic ICs,2818.1,0.13,5
+2023,Malaysia,Asia,Singapore,Asia,Export,Logic ICs,773519.57,0.049,9
+2023,Vietnam,Asia,Malaysia,Asia,Export,Memory ICs,123211.62,0.075,3
+2023,India,Asia,Taiwan,Asia,Export,Optoelectronics,11826.02,0.064,2
+2023,UK,Europe,Netherlands,Europe,Export,Microprocessors,49268.12,0.06,8
+2023,Japan,Asia,France,Europe,Import,Microprocessors,14141.27,0.123,2
+2023,India,Asia,Mexico,North America,Export,Analog ICs,355752.17,0.093,10
+2023,Singapore,Asia,Canada,North America,Export,Microprocessors,143800.58,0.102,9
+2023,Germany,Europe,South Korea,Asia,Export,Microprocessors,80612.27,0.086,8
+2023,India,Asia,Canada,North America,Export,Sensors,44201.61,0.044,7
+2023,Vietnam,Asia,France,Europe,Export,Logic ICs,180036.8,0.134,4
+2023,Taiwan,Asia,Malaysia,Asia,Import,Optoelectronics,9489.48,0.11,7
+2023,France,Europe,USA,North America,Import,Logic ICs,1102.02,0.139,5
+2023,Canada,North America,Taiwan,Asia,Export,Logic ICs,8059.02,0.044,2
+2023,Germany,Europe,Japan,Asia,Import,Sensors,29674.27,0.067,9
+2023,France,Europe,Taiwan,Asia,Import,Microprocessors,176303.82,0.081,6
+2023,UK,Europe,Germany,Europe,Import,Microprocessors,5353.92,0.14,3
+2023,Singapore,Asia,Vietnam,Asia,Export,Microprocessors,9384.37,0.146,2
+2023,Germany,Europe,Japan,Asia,Export,Memory ICs,17163.9,0.029,10
+2023,Taiwan,Asia,Germany,Europe,Import,Logic ICs,10571.9,0.085,5
+2023,Germany,Europe,Japan,Asia,Export,Optoelectronics,10088.8,0.005,9
+2023,Malaysia,Asia,UK,Europe,Import,Sensors,43969.03,0.087,10
+2023,China,Asia,India,Asia,Import,Sensors,19454.28,0.095,6
+2023,India,Asia,Mexico,North America,Export,Memory ICs,6813.16,0.046,1
+2023,Taiwan,Asia,Netherlands,Europe,Import,Logic ICs,4903.31,0.006,1
+2023,Germany,Europe,South Korea,Asia,Export,Memory ICs,580457.89,0.064,4
+2023,Malaysia,Asia,UK,Europe,Export,Optoelectronics,53718.87,0.137,1
+2023,France,Europe,Malaysia,Asia,Export,Sensors,22683.39,0.139,8
+2023,India,Asia,Germany,Europe,Export,Sensors,47683.13,0.006,7
+2023,India,Asia,Japan,Asia,Import,Logic ICs,2050.89,0.023,8
+2023,Malaysia,Asia,Vietnam,Asia,Import,Memory ICs,12286.31,0.116,6
+2023,India,Asia,France,Europe,Export,Optoelectronics,34313.11,0.132,10
+2023,Mexico,North America,China,Asia,Export,Optoelectronics,688.34,0.094,2
+2023,China,Asia,Vietnam,Asia,Import,Sensors,4875.22,0.029,10
+2023,Mexico,North America,UK,Europe,Import,Sensors,1654.75,0.034,3
+2023,China,Asia,Canada,North America,Export,Sensors,989.1,0.038,4
+2023,Canada,North America,India,Asia,Export,Analog ICs,82996.07,0.136,8
+2023,China,Asia,Malaysia,Asia,Import,Optoelectronics,1265.56,0.045,6
+2023,South Korea,Asia,France,Europe,Import,Optoelectronics,15198.3,0.095,6
+2023,Germany,Europe,Netherlands,Europe,Import,Optoelectronics,5818.34,0.072,10
+2023,Canada,North America,Japan,Asia,Import,Sensors,13331.48,0.081,8
+2023,Netherlands,Europe,Germany,Europe,Import,Memory ICs,67751.12,0.075,7
+2023,Japan,Asia,China,Asia,Import,Memory ICs,93111.73,0.059,7
+2023,South Korea,Asia,UK,Europe,Export,Memory ICs,9631.77,0.039,1
+2023,Taiwan,Asia,Japan,Asia,Export,Optoelectronics,25067.02,0.121,8
+2023,Netherlands,Europe,Canada,North America,Import,Sensors,4681.9,0.017,2
+2023,Vietnam,Asia,Malaysia,Asia,Export,Logic ICs,14082.2,0.139,3
+2023,Japan,Asia,Mexico,North America,Import,Logic ICs,1831.64,0.009,10
+2023,Taiwan,Asia,Singapore,Asia,Export,Microprocessors,5235.9,0.096,9
+2023,Taiwan,Asia,Singapore,Asia,Export,Analog ICs,12221.55,0.008,10
+2023,Vietnam,Asia,France,Europe,Export,Microprocessors,5982.69,0.088,2
+2023,UK,Europe,Netherlands,Europe,Import,Optoelectronics,194708.54,0.033,8
+2023,Taiwan,Asia,South Korea,Asia,Import,Analog ICs,10736.77,0.083,5
+2023,Mexico,North America,UK,Europe,Export,Sensors,22846.66,0.127,6
+2023,USA,North America,Germany,Europe,Export,Sensors,1424.46,0.148,9
+2023,Taiwan,Asia,France,Europe,Export,Optoelectronics,221902.89,0.149,2
+2023,USA,North America,Germany,Europe,Import,Optoelectronics,32445.71,0.053,1
+2023,Japan,Asia,Taiwan,Asia,Import,Logic ICs,938.3,0.081,6
+2023,UK,Europe,India,Asia,Import,Sensors,22251.71,0.128,10
+2023,India,Asia,Malaysia,Asia,Import,Logic ICs,5717.86,0.073,4
+2023,Malaysia,Asia,Germany,Europe,Export,Memory ICs,33561.43,0.114,5
+2023,Singapore,Asia,Vietnam,Asia,Export,Memory ICs,16566.84,0.035,4
+2023,Singapore,Asia,Germany,Europe,Export,Microprocessors,139742.36,0.047,4
+2023,Taiwan,Asia,South Korea,Asia,Export,Memory ICs,174921.97,0.036,4
+2023,China,Asia,Mexico,North America,Import,Logic ICs,32683.54,0.035,3
+2023,UK,Europe,USA,North America,Export,Optoelectronics,2093.66,0.025,1
+2023,Taiwan,Asia,India,Asia,Import,Microprocessors,268717.58,0.047,7
+2023,India,Asia,France,Europe,Export,Sensors,1638.2,0.028,4
+2023,France,Europe,Taiwan,Asia,Import,Analog ICs,10628.46,0.003,10
+2023,Mexico,North America,UK,Europe,Export,Sensors,8151.35,0.026,8
+2023,France,Europe,Vietnam,Asia,Import,Analog ICs,3273.73,0.081,4
+2023,Mexico,North America,Canada,North America,Export,Optoelectronics,8475.43,0.056,4
+2023,South Korea,Asia,Japan,Asia,Export,Optoelectronics,2661.39,0.144,8
+2023,France,Europe,Germany,Europe,Import,Sensors,81670.61,0.124,7
+2023,Vietnam,Asia,UK,Europe,Export,Logic ICs,18711.76,0.033,1
+2023,Netherlands,Europe,Singapore,Asia,Export,Memory ICs,23732.2,0.032,6
+2023,USA,North America,Canada,North America,Export,Sensors,3613.35,0.095,4
+2023,UK,Europe,China,Asia,Import,Analog ICs,536661.91,0.017,1
+2023,UK,Europe,Vietnam,Asia,Export,Analog ICs,114178.84,0.03,7
+2023,Malaysia,Asia,Canada,North America,Export,Logic ICs,145857.58,0.139,10
+2023,Japan,Asia,Vietnam,Asia,Import,Sensors,2021.51,0.074,9
+2023,Germany,Europe,China,Asia,Export,Sensors,1087948.96,0.098,10
+2023,USA,North America,Canada,North America,Import,Memory ICs,9101.48,0.141,9
+2023,Vietnam,Asia,Taiwan,Asia,Import,Memory ICs,593375.22,0.085,3
+2023,Canada,North America,Germany,Europe,Export,Logic ICs,2113.57,0.065,2
+2023,UK,Europe,China,Asia,Import,Analog ICs,111849.5,0.003,9
+2023,UK,Europe,Japan,Asia,Import,Memory ICs,134193.94,0.131,2
+2023,India,Asia,Vietnam,Asia,Import,Optoelectronics,1643.43,0.048,8
+2023,Canada,North America,Taiwan,Asia,Export,Optoelectronics,1182.96,0.088,10
+2023,Japan,Asia,China,Asia,Import,Logic ICs,11552.55,0.085,1
+2023,Netherlands,Europe,China,Asia,Export,Optoelectronics,1835462.68,0.141,1
+2023,China,Asia,Vietnam,Asia,Export,Sensors,241.1,0.131,10
+2023,India,Asia,South Korea,Asia,Export,Memory ICs,54552.76,0.055,7
+2023,Taiwan,Asia,USA,North America,Export,Optoelectronics,48191.56,0.116,8
+2023,Netherlands,Europe,Malaysia,Asia,Export,Microprocessors,686605.49,0.148,4
+2023,Japan,Asia,Netherlands,Europe,Import,Memory ICs,790470.51,0.115,6
+2023,Mexico,North America,Germany,Europe,Import,Microprocessors,73750.48,0.018,4
+2023,South Korea,Asia,USA,North America,Import,Optoelectronics,18724.98,0.012,5
+2023,Vietnam,Asia,Malaysia,Asia,Import,Optoelectronics,117086.34,0.14,5
+2023,China,Asia,India,Asia,Export,Analog ICs,39194.83,0.052,2
+2023,Vietnam,Asia,France,Europe,Export,Logic ICs,45147.77,0.084,8
