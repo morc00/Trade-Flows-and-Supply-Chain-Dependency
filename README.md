@@ -1,6 +1,6 @@
 # Trade Flows and Supply Chain Dependency
 
-This repository contains the project notebook for **DSC3132 theme CNT-12**. It studies India's trade in electronic integrated circuits (HS 8542) using annual bilateral records from the United Nations Comtrade Database.
+This repository contains the project notebook for **DSC3132 theme CNT-12**. It studies India's trade in electronic integrated circuits (HS 8542) using annual bilateral records from the United Nations Comtrade Database. The notebook contains descriptive analysis followed by a diagnostic decomposition at the HS six-digit level.
 
 ## First analytics stage
 
@@ -9,6 +9,12 @@ This repository contains the project notebook for **DSC3132 theme CNT-12**. It s
 - **Source:** [UN Comtrade](https://comtrade.un.org/)
 - **Measures:** Annual import and export value, trade balance, supplier shares, HHI, effective supplier count, and top-supplier concentration ratios
 
+## Diagnostic stage
+
+- **Question:** Which changes in supplier economies and HS six-digit product categories account for the growth and changing concentration of India's integrated-circuit imports between 2019 and 2025?
+- **Additional data:** Five HS six-digit product categories within HS 8542
+- **Methods:** Product growth contribution, supplier-share change, annual HHI, HHI contribution change, and partner-product decomposition
+
 The source choice, data requirements, access plan, quality checks, analysis, interpretation, and limitations are recorded in `notebooks/Project_Notebook.Rmd`.
 
 ## Repository structure
@@ -16,8 +22,8 @@ The source choice, data requirements, access plan, quality checks, analysis, int
 ```text
 .
 ├── data/
-│   ├── raw/                    # API download and query metadata
-│   └── processed/              # Cleaned analysis dataset
+│   ├── raw/                    # HS4 and HS6 API downloads and query metadata
+│   └── processed/              # Validated analysis datasets
 ├── notebooks/
 │   └── Project_Notebook.Rmd    # R Markdown notebook with Python analysis
 ├── reports/
@@ -48,9 +54,9 @@ Open `notebooks/Project_Notebook.Rmd` in RStudio and knit it to HTML. The notebo
 
 ## Data source and scope
 
-The acquisition script calls the official public preview endpoint documented in the [UN Comtrade API guide](https://uncomtrade.org/docs/un-comtrade-api/). It makes one query per year, rejects a response that reaches the 500-record preview limit, joins official partner names, and saves exact query URLs in `data/raw/un_comtrade_metadata.json`.
+The acquisition script calls the official public preview endpoint documented in the [UN Comtrade API guide](https://uncomtrade.org/docs/un-comtrade-api/). It makes one query per year and product, rejects a response that reaches the 500-record preview limit, joins official partner names, and saves exact query URLs in the raw-data metadata files.
 
-The raw dataset contains India-reported annual import and export values for HS 8542 from 2019 through 2025. Partner code `0` is the World aggregate; it is used for national totals but excluded from supplier concentration calculations.
+The raw datasets contain India-reported annual import and export values for HS 8542 and six-digit import detail from 2019 through 2025. Partner code `0` is the World aggregate; it is used for national totals but excluded from supplier concentration calculations. The five detailed categories reconcile to the published HS 8542 total in every year.
 
 ## Limitations
 

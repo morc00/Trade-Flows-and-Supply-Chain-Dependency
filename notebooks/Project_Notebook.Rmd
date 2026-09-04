@@ -78,6 +78,7 @@ import pandas as pd
 import seaborn as sns
 
 DATA_PATH = Path("data/raw/india_hs8542_trade_2019_2025.csv")
+DETAIL_PATH = Path("data/raw/india_hs8542_hs6_imports_2019_2025.csv")
 PROCESSED_DIR = Path("data/processed")
 FIGURE_DIR = Path("reports/figures")
 TABLE_DIR = Path("reports/tables")
@@ -310,19 +311,282 @@ The World aggregate is used for national totals, while concentration measures us
 
 These findings establish the descriptive baseline required for CNT-12. They do not by themselves establish the probability of disruption, the financial exposure of a particular firm, or the best alternative supplier.
 
-# 6. Limitations and next analytics stages
+# 6. Diagnostic extension
+
+## Diagnostic question
+
+The second stage uses **diagnostic analytics through accounting decomposition**. It asks:
+
+> Which changes in supplier economies and HS six-digit product categories account for the growth and changing concentration of India's electronic-integrated-circuit imports between 2019 and 2025?
+
+This stage decomposes the observed change but does not claim that the data establish economic causality. It uses five HS six-digit categories within HS 8542: processors and controllers (854231), memories (854232), amplifiers (854233), other integrated circuits (854239), and parts (854290).
+
+## 6.1 Detailed data validation
+
+The acquisition script requests each year-product combination separately. The five World totals are summed and reconciled to the HS 8542 World import total already used in the descriptive stage.
+
+```{python diagnostic-load}
+detail = pd.read_csv(DETAIL_PATH)
+for column in numeric_columns:
+    detail[column] = pd.to_numeric(detail[column], errors="coerce")
+
+detail["year"] = detail["year"].astype("Int64")
+detail["hs_code"] = detail["hs_code"].astype(str)
+detail["trade_value_usd"] = detail["trade_value_usd"].fillna(0.0)
+detail["partner_iso3"] = detail["partner_iso3"].fillna("")
+
+expected_codes = {"854231", "854232", "854233", "854239", "854290"}
+assert set(detail["hs_code"]) == expected_codes
+assert set(detail["year"].dropna().astype(int)) == expected_years
+assert set(detail["flow_code"]) == {"M"}
+assert int(detail.duplicated(["year", "hs_code", "partner_code"]).sum()) == 0
+
+detail_world = detail.loc[detail["partner_code"] == 0].copy()
+detail_bilateral = detail.loc[
+    (detail["partner_code"] != 0) & (~detail["partner_is_group"].astype(bool))
+].copy()
+
+detail_world_totals = detail_world.groupby("year")["trade_value_usd"].sum()
+heading_import_totals = world.loc[world["flow_code"] == "M"].set_index("year")["trade_value_usd"]
+detail_reconciliation = pd.DataFrame(
+    {
+        "hs6_sum_usd": detail_world_totals,
+        "hs8542_total_usd": heading_import_totals,
+    }
+)
+detail_reconciliation["difference_percent"] = (
+    (detail_reconciliation["hs6_sum_usd"] - detail_reconciliation["hs8542_total_usd"])
+    / detail_reconciliation["hs8542_total_usd"] * 100
+)
+assert detail_reconciliation["difference_percent"].abs().max() < 0.001
+
+detail.to_csv(PROCESSED_DIR / "india_hs8542_hs6_imports_clean.csv", index=False)
+print(f"Detailed rows: {len(detail):,}")
+print(detail_reconciliation.to_string())
+```
+
+## 6.2 Product contribution to import growth
+
+```{python product-decomposition}
+product_year = (
+    detail_world.groupby(["year", "hs_code", "commodity"], as_index=False)
+    ["trade_value_usd"].sum()
+)
+product_pivot = product_year.pivot(
+    index=["hs_code", "commodity"], columns="year", values="trade_value_usd"
+).fillna(0)
+
+product_drivers = product_pivot[[2019, 2025]].copy()
+product_drivers.columns = ["value_2019_usd", "value_2025_usd"]
+product_drivers["value_change_usd"] = (
+    product_drivers["value_2025_usd"] - product_drivers["value_2019_usd"]
+)
+product_drivers["growth_contribution_percent"] = (
+    product_drivers["value_change_usd"] / product_drivers["value_change_usd"].sum() * 100
+)
+product_drivers["share_2019_percent"] = (
+    product_drivers["value_2019_usd"] / product_drivers["value_2019_usd"].sum() * 100
+)
+product_drivers["share_2025_percent"] = (
+    product_drivers["value_2025_usd"] / product_drivers["value_2025_usd"].sum() * 100
+)
+product_drivers = product_drivers.reset_index().sort_values(
+    "value_change_usd", ascending=False
+)
+product_drivers.to_csv(
+    TABLE_DIR / "product_growth_drivers_2019_2025.csv", index=False
+)
+print(product_drivers.to_string(index=False))
+```
+
+```{python product-growth-chart, fig.width=10, fig.height=5}
+product_plot = product_drivers.sort_values("growth_contribution_percent")
+product_colors = np.where(
+    product_plot["growth_contribution_percent"] >= 0, "#2a6fbb", "#c44e52"
+)
+
+fig, ax = plt.subplots(figsize=(10, 5))
+bars = ax.barh(
+    product_plot["commodity"], product_plot["growth_contribution_percent"],
+    color=product_colors
+)
+ax.axvline(0, color="black", linewidth=0.8)
+ax.set_xlim(-10, 66)
+for bar, value in zip(bars, product_plot["growth_contribution_percent"]):
+    offset = 0.5 if value >= 0 else -0.5
+    ax.text(
+        value + offset, bar.get_y() + bar.get_height() / 2, f"{value:.1f}%",
+        va="center", ha="left" if value >= 0 else "right"
+    )
+ax.set(
+    title="HS6 contribution to India's HS 8542 import growth, 2019-2025",
+    xlabel="Contribution to change in import value (%)", ylabel="Product category"
+)
+fig.tight_layout()
+fig.savefig(FIGURE_DIR / "product_growth_contribution.png", dpi=180, bbox_inches="tight")
+plt.show()
+```
+
+## 6.3 Supplier concentration and share shifts
+
+```{python diagnostic-supplier-drivers}
+supplier_year = (
+    detail_bilateral.groupby(
+        ["year", "partner_code", "partner_iso3", "partner_name"], as_index=False
+    )["trade_value_usd"].sum()
+)
+supplier_year["supplier_share_percent"] = supplier_year.groupby("year")[
+    "trade_value_usd"
+].transform(lambda values: values / values.sum() * 100)
+
+hhi_by_year = (
+    supplier_year.groupby("year")["supplier_share_percent"]
+    .apply(lambda values: float((values**2).sum()))
+    .reset_index(name="hhi")
+)
+hhi_by_year.to_csv(TABLE_DIR / "supplier_hhi_by_year.csv", index=False)
+
+supplier_values = supplier_year.pivot(
+    index=["partner_code", "partner_iso3", "partner_name"],
+    columns="year", values="trade_value_usd"
+).fillna(0)
+supplier_shares = supplier_year.pivot(
+    index=["partner_code", "partner_iso3", "partner_name"],
+    columns="year", values="supplier_share_percent"
+).fillna(0)
+
+supplier_drivers = pd.DataFrame(
+    {
+        "value_2019_usd": supplier_values.get(2019, 0),
+        "value_2025_usd": supplier_values.get(2025, 0),
+        "share_2019_percent": supplier_shares.get(2019, 0),
+        "share_2025_percent": supplier_shares.get(2025, 0),
+    }
+).reset_index()
+supplier_drivers["value_change_usd"] = (
+    supplier_drivers["value_2025_usd"] - supplier_drivers["value_2019_usd"]
+)
+supplier_drivers["share_change_points"] = (
+    supplier_drivers["share_2025_percent"] - supplier_drivers["share_2019_percent"]
+)
+supplier_drivers["hhi_contribution_change"] = (
+    supplier_drivers["share_2025_percent"] ** 2
+    - supplier_drivers["share_2019_percent"] ** 2
+)
+supplier_drivers["absolute_share_change"] = supplier_drivers[
+    "share_change_points"
+].abs()
+supplier_drivers = supplier_drivers.sort_values(
+    "hhi_contribution_change", ascending=False
+)
+supplier_drivers.to_csv(
+    TABLE_DIR / "supplier_concentration_drivers_2019_2025.csv", index=False
+)
+
+print(hhi_by_year.to_string(index=False))
+print("\nLargest positive HHI contributions:")
+print(supplier_drivers.head(8).to_string(index=False))
+print("\nLargest offsetting HHI contributions:")
+print(supplier_drivers.tail(8).sort_values("hhi_contribution_change").to_string(index=False))
+```
+
+```{python hhi-trend-chart, fig.width=9, fig.height=4.5}
+fig, ax = plt.subplots(figsize=(9, 4.5))
+sns.lineplot(data=hhi_by_year, x="year", y="hhi", marker="o", linewidth=2.3, ax=ax)
+for row in hhi_by_year.itertuples(index=False):
+    ax.annotate(f"{row.hhi:,.0f}", (row.year, row.hhi), xytext=(0, 8),
+                textcoords="offset points", ha="center", fontsize=9)
+ax.set(
+    title="Supplier concentration of India's HS 8542 imports",
+    xlabel="Year", ylabel="HHI"
+)
+fig.tight_layout()
+fig.savefig(FIGURE_DIR / "supplier_hhi_trend.png", dpi=180, bbox_inches="tight")
+plt.show()
+```
+
+```{python supplier-shift-chart, fig.width=10, fig.height=6}
+largest_shifts = (
+    supplier_drivers.nlargest(10, "absolute_share_change")
+    .sort_values("share_change_points")
+)
+shift_colors = np.where(
+    largest_shifts["share_change_points"] >= 0, "#2a6fbb", "#c44e52"
+)
+
+fig, ax = plt.subplots(figsize=(10, 6))
+bars = ax.barh(
+    largest_shifts["partner_name"], largest_shifts["share_change_points"],
+    color=shift_colors
+)
+ax.axvline(0, color="black", linewidth=0.8)
+ax.set_xlim(-40, 32)
+for bar, value in zip(bars, largest_shifts["share_change_points"]):
+    offset = 0.4 if value >= 0 else -0.4
+    ax.text(
+        value + offset, bar.get_y() + bar.get_height() / 2, f"{value:+.1f} pp",
+        va="center", ha="left" if value >= 0 else "right"
+    )
+ax.set(
+    title="Largest changes in supplier share, 2019-2025",
+    xlabel="Change in import share (percentage points)", ylabel="Partner"
+)
+fig.tight_layout()
+fig.savefig(FIGURE_DIR / "supplier_share_changes.png", dpi=180, bbox_inches="tight")
+plt.show()
+```
+
+## 6.4 Partner-product growth drivers
+
+```{python partner-product-drivers}
+partner_product_year = (
+    detail_bilateral.groupby(["year", "hs_code", "commodity", "partner_name"], as_index=False)
+    ["trade_value_usd"].sum()
+)
+partner_product_pivot = partner_product_year.pivot(
+    index=["hs_code", "commodity", "partner_name"],
+    columns="year", values="trade_value_usd"
+).fillna(0)
+partner_product_drivers = partner_product_pivot[[2019, 2025]].copy()
+partner_product_drivers.columns = ["value_2019_usd", "value_2025_usd"]
+partner_product_drivers["value_change_usd"] = (
+    partner_product_drivers["value_2025_usd"]
+    - partner_product_drivers["value_2019_usd"]
+)
+partner_product_drivers = (
+    partner_product_drivers.reset_index()
+    .sort_values("value_change_usd", ascending=False)
+)
+partner_product_drivers.to_csv(
+    TABLE_DIR / "partner_product_growth_drivers_2019_2025.csv", index=False
+)
+print(partner_product_drivers.head(15).to_string(index=False))
+```
+
+## Diagnostic findings
+
+The detailed decomposition shows that the **USD 18.44 billion** increase in imports was led by processors and controllers, which contributed **61.1%** of the increase. Memories contributed **24.7%**, other integrated circuits **16.0%**, and amplifiers **3.0%**. Imports of parts declined, offsetting **4.8%** of growth elsewhere.
+
+The overall supplier HHI was almost unchanged between 2019 (**2,753.1**) and 2025 (**2,752.8**), but this endpoint comparison hides a major change in composition. HHI fell to **1,949.5** in 2022, rose to **3,334.0** in 2023, and then declined in the following two years. Between 2019 and 2025, the share of `Other Asia, nes` increased by **27.2 percentage points** and China's share increased by **5.6 points**. These increases were largely offset by a **34.2-point** fall for China, Hong Kong SAR and a **6.4-point** fall for Singapore.
+
+The offsetting movement between China, Hong Kong SAR and `Other Asia, nes` may partly reflect changes in trade routing or partner attribution. It should not be interpreted as proof that semiconductor fabrication physically relocated between these economies.
+
+At the partner-product level, the largest increases were processors and controllers from `Other Asia, nes` (**USD 5.88 billion**), other integrated circuits from China (**USD 3.03 billion**), processors and controllers from China (**USD 2.99 billion**), memories from China (**USD 2.55 billion**), and processors and controllers from the Republic of Korea (**USD 2.54 billion**). The diagnostic result is therefore a shift in both product mix and declared sourcing location, rather than a simple uniform increase across all semiconductor imports.
+
+# 7. Limitations and next analytics stages
 
 - Trade value is measured in current US dollars; changes can reflect prices and exchange rates as well as physical volume.
-- HS 8542 is a product group. More detailed HS six-digit analysis would distinguish processors, memories, amplifiers, and other integrated-circuit categories.
+- HS six-digit categories remain broad and do not identify individual chip models, manufacturers, fabrication locations, or technology nodes.
 - Bilateral trade data identify the declared partner, not every upstream country involved in production.
 - `Other Asia, nes` is retained exactly as supplied by Comtrade and is not re-labelled as a specific economy.
+- India's original Comtrade classification changes from HS 2017 to HS 2022 in 2022. The five selected codes reconcile to the HS 8542 total in every year, but classification revisions should still be noted.
 - Net-weight observations may be estimated or unavailable, so trade value is the primary measure.
 - The public API output can be revised by the data provider after retrieval. The metadata file records the retrieval time and query URLs.
 - No causal claim is made from descriptive results.
 
-A diagnostic extension can investigate which products and suppliers caused changes in concentration. A predictive extension can forecast import demand by HS six-digit category. A prescriptive extension can combine trade data with tariff rates, logistics cost, supplier capacity, and disruption indicators to compare diversification scenarios for a named importing firm.
+A predictive extension can forecast import demand by HS six-digit category. A prescriptive extension can combine trade data with tariff rates, logistics cost, supplier capacity, and disruption indicators to compare diversification scenarios for a named importing firm.
 
-# 7. Reproducibility
+# 8. Reproducibility
 
 Run the following commands from the repository root:
 

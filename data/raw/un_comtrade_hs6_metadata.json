@@ -1,0 +1,240 @@
+{
+  "source": "United Nations Comtrade Database",
+  "source_documentation": "https://uncomtrade.org/docs/un-comtrade-api/",
+  "retrieved_at_utc": "2026-09-04T14:31:08+00:00",
+  "scope": {
+    "reporter": "India",
+    "reporter_code": 699,
+    "parent_hs_code": "8542",
+    "hs6_products": {
+      "854231": "Processors and controllers",
+      "854232": "Memories",
+      "854233": "Amplifiers",
+      "854239": "Other electronic integrated circuits",
+      "854290": "Parts of electronic integrated circuits"
+    },
+    "years": [
+      2019,
+      2025
+    ],
+    "flow": "Import"
+  },
+  "record_count": 1749,
+  "queries": [
+    {
+      "year": 2019,
+      "hs_code": "854231",
+      "record_count": 65,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=699&flowCode=M&cmdCode=854231&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2019,
+      "hs_code": "854232",
+      "record_count": 40,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=699&flowCode=M&cmdCode=854232&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2019,
+      "hs_code": "854233",
+      "record_count": 32,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=699&flowCode=M&cmdCode=854233&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2019,
+      "hs_code": "854239",
+      "record_count": 53,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=699&flowCode=M&cmdCode=854239&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2019,
+      "hs_code": "854290",
+      "record_count": 33,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=699&flowCode=M&cmdCode=854290&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2020,
+      "hs_code": "854231",
+      "record_count": 62,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=699&flowCode=M&cmdCode=854231&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2020,
+      "hs_code": "854232",
+      "record_count": 38,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=699&flowCode=M&cmdCode=854232&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2020,
+      "hs_code": "854233",
+      "record_count": 37,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=699&flowCode=M&cmdCode=854233&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2020,
+      "hs_code": "854239",
+      "record_count": 57,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=699&flowCode=M&cmdCode=854239&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2020,
+      "hs_code": "854290",
+      "record_count": 37,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=699&flowCode=M&cmdCode=854290&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2021,
+      "hs_code": "854231",
+      "record_count": 69,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2021&reporterCode=699&flowCode=M&cmdCode=854231&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2021,
+      "hs_code": "854232",
+      "record_count": 40,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2021&reporterCode=699&flowCode=M&cmdCode=854232&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2021,
+      "hs_code": "854233",
+      "record_count": 37,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2021&reporterCode=699&flowCode=M&cmdCode=854233&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2021,
+      "hs_code": "854239",
+      "record_count": 59,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2021&reporterCode=699&flowCode=M&cmdCode=854239&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2021,
+      "hs_code": "854290",
+      "record_count": 35,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2021&reporterCode=699&flowCode=M&cmdCode=854290&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2022,
+      "hs_code": "854231",
+      "record_count": 81,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2022&reporterCode=699&flowCode=M&cmdCode=854231&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2022,
+      "hs_code": "854232",
+      "record_count": 37,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2022&reporterCode=699&flowCode=M&cmdCode=854232&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2022,
+      "hs_code": "854233",
+      "record_count": 42,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2022&reporterCode=699&flowCode=M&cmdCode=854233&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2022,
+      "hs_code": "854239",
+      "record_count": 61,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2022&reporterCode=699&flowCode=M&cmdCode=854239&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2022,
+      "hs_code": "854290",
+      "record_count": 30,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2022&reporterCode=699&flowCode=M&cmdCode=854290&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2023,
+      "hs_code": "854231",
+      "record_count": 75,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2023&reporterCode=699&flowCode=M&cmdCode=854231&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2023,
+      "hs_code": "854232",
+      "record_count": 48,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2023&reporterCode=699&flowCode=M&cmdCode=854232&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2023,
+      "hs_code": "854233",
+      "record_count": 45,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2023&reporterCode=699&flowCode=M&cmdCode=854233&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2023,
+      "hs_code": "854239",
+      "record_count": 66,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2023&reporterCode=699&flowCode=M&cmdCode=854239&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2023,
+      "hs_code": "854290",
+      "record_count": 33,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2023&reporterCode=699&flowCode=M&cmdCode=854290&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2024,
+      "hs_code": "854231",
+      "record_count": 76,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&reporterCode=699&flowCode=M&cmdCode=854231&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2024,
+      "hs_code": "854232",
+      "record_count": 51,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&reporterCode=699&flowCode=M&cmdCode=854232&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2024,
+      "hs_code": "854233",
+      "record_count": 45,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&reporterCode=699&flowCode=M&cmdCode=854233&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2024,
+      "hs_code": "854239",
+      "record_count": 70,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&reporterCode=699&flowCode=M&cmdCode=854239&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2024,
+      "hs_code": "854290",
+      "record_count": 31,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&reporterCode=699&flowCode=M&cmdCode=854290&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2025,
+      "hs_code": "854231",
+      "record_count": 73,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&reporterCode=699&flowCode=M&cmdCode=854231&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2025,
+      "hs_code": "854232",
+      "record_count": 45,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&reporterCode=699&flowCode=M&cmdCode=854232&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2025,
+      "hs_code": "854233",
+      "record_count": 49,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&reporterCode=699&flowCode=M&cmdCode=854233&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2025,
+      "hs_code": "854239",
+      "record_count": 65,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&reporterCode=699&flowCode=M&cmdCode=854239&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2025,
+      "hs_code": "854290",
+      "record_count": 32,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&reporterCode=699&flowCode=M&cmdCode=854290&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    }
+  ],
+  "notes": [
+    "The five six-digit codes exhaust HS heading 8542 in the classifications used.",
+    "World totals are retained so the six-digit sum can be reconciled to HS 8542.",
+    "Partner code 0 and group partners are excluded from supplier calculations."
+  ]
+}

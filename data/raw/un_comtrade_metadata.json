@@ -3,7 +3,7 @@
   "source_documentation": "https://uncomtrade.org/docs/un-comtrade-api/",
   "api_endpoint": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
   "partner_reference_endpoint": "https://comtradeapi.un.org/files/v1/app/reference/partnerAreas.json",
-  "retrieved_at_utc": "2026-09-04T14:00:10+00:00",
+  "retrieved_at_utc": "2026-09-04T14:29:17+00:00",
   "scope": {
     "reporter": "India",
     "reporter_code": 699,
