@@ -1,0 +1,1444 @@
+year,reporter_code,reporter_iso3,reporter_name,flow_code,flow_name,partner_code,partner_iso3,partner_name,partner_is_group,hs_code,commodity,classification,trade_value_usd,net_weight_kg,net_weight_estimated,comtrade_is_aggregate,comtrade_is_reported
+2019,699,IND,India,M,Import,0,W00,World,True,8542,Electronic integrated circuits,H5,10172390321.804,0.0,True,True,False
+2019,699,IND,India,M,Import,32,ARG,Argentina,False,8542,Electronic integrated circuits,H5,11252.025,700.0,False,True,False
+2019,699,IND,India,M,Import,36,AUS,Australia,False,8542,Electronic integrated circuits,H5,111192.557,97.966,True,True,False
+2019,699,IND,India,M,Import,40,AUT,Austria,False,8542,Electronic integrated circuits,H5,559159.91,474.139,True,True,False
+2019,699,IND,India,M,Import,48,BHR,Bahrain,False,8542,Electronic integrated circuits,H5,16938.522,0.0,True,True,False
+2019,699,IND,India,M,Import,56,BEL,Belgium,False,8542,Electronic integrated circuits,H5,2430297.264,2127.684,True,True,False
+2019,699,IND,India,M,Import,60,BMU,Bermuda,False,8542,Electronic integrated circuits,H5,326.051,0.0,True,True,False
+2019,699,IND,India,M,Import,76,BRA,Brazil,False,8542,Electronic integrated circuits,H5,204142.417,172.46,True,True,False
+2019,699,IND,India,M,Import,92,VGB,Br. Virgin Isds,False,8542,Electronic integrated circuits,H5,1090467.232,837.675,True,True,False
+2019,699,IND,India,M,Import,96,BRN,Brunei Darussalam,False,8542,Electronic integrated circuits,H5,4972.035,0.0,True,True,False
+2019,699,IND,India,M,Import,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H5,148575.201,0.0,True,True,False
+2019,699,IND,India,M,Import,112,BLR,Belarus,False,8542,Electronic integrated circuits,H5,672033.573,723.365,True,True,False
+2019,699,IND,India,M,Import,124,CAN,Canada,False,8542,Electronic integrated circuits,H5,1491477.299,1326.054,True,True,False
+2019,699,IND,India,M,Import,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H5,9045.91,0.0,True,True,False
+2019,699,IND,India,M,Import,152,CHL,Chile,False,8542,Electronic integrated circuits,H5,3580485.536,3339.528,True,True,False
+2019,699,IND,India,M,Import,156,CHN,China,False,8542,Electronic integrated circuits,H5,3593456939.616,2836679.111,True,True,False
+2019,699,IND,India,M,Import,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H5,35082.499,31.424,True,True,False
+2019,699,IND,India,M,Import,191,HRV,Croatia,False,8542,Electronic integrated circuits,H5,58419.721,0.0,True,True,False
+2019,699,IND,India,M,Import,203,CZE,Czechia,False,8542,Electronic integrated circuits,H5,130552.036,117.944,True,True,False
+2019,699,IND,India,M,Import,204,BEN,Benin,False,8542,Electronic integrated circuits,H5,52.102,0.0,True,True,False
+2019,699,IND,India,M,Import,208,DNK,Denmark,False,8542,Electronic integrated circuits,H5,127254.245,105.16,True,True,False
+2019,699,IND,India,M,Import,233,EST,Estonia,False,8542,Electronic integrated circuits,H5,47000.905,713.125,True,True,False
+2019,699,IND,India,M,Import,246,FIN,Finland,False,8542,Electronic integrated circuits,H5,39266899.799,35344.503,True,True,False
+2019,699,IND,India,M,Import,251,FRA,France,False,8542,Electronic integrated circuits,H5,14966580.008,12930.732,True,True,False
+2019,699,IND,India,M,Import,276,DEU,Germany,False,8542,Electronic integrated circuits,H5,28770000.038,26155.53,True,True,False
+2019,699,IND,India,M,Import,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H5,3547558392.24,3155525.58,True,True,False
+2019,699,IND,India,M,Import,348,HUN,Hungary,False,8542,Electronic integrated circuits,H5,464860.323,490.624,True,True,False
+2019,699,IND,India,M,Import,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H5,2867979.123,2435.725,True,True,False
+2019,699,IND,India,M,Import,364,IRN,Iran,False,8542,Electronic integrated circuits,H5,174967.296,0.0,True,True,False
+2019,699,IND,India,M,Import,372,IRL,Ireland,False,8542,Electronic integrated circuits,H5,486603.492,434.752,True,True,False
+2019,699,IND,India,M,Import,376,ISR,Israel,False,8542,Electronic integrated circuits,H5,31982148.585,28437.172,True,True,False
+2019,699,IND,India,M,Import,380,ITA,Italy,False,8542,Electronic integrated circuits,H5,5907922.728,5243.486,True,True,False
+2019,699,IND,India,M,Import,392,JPN,Japan,False,8542,Electronic integrated circuits,H5,97753566.034,86517.711,True,True,False
+2019,699,IND,India,M,Import,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H5,1465748220.748,1239064.619,True,True,False
+2019,699,IND,India,M,Import,422,LBN,Lebanon,False,8542,Electronic integrated circuits,H5,27164.796,0.0,True,True,False
+2019,699,IND,India,M,Import,428,LVA,Latvia,False,8542,Electronic integrated circuits,H5,8276.135,0.0,True,True,False
+2019,699,IND,India,M,Import,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H5,3980.072,0.0,True,True,False
+2019,699,IND,India,M,Import,442,LUX,Luxembourg,False,8542,Electronic integrated circuits,H5,16932.938,13.444,True,True,False
+2019,699,IND,India,M,Import,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H5,63065397.969,56789.21,True,True,False
+2019,699,IND,India,M,Import,470,MLT,Malta,False,8542,Electronic integrated circuits,H5,142213.514,0.0,True,True,False
+2019,699,IND,India,M,Import,480,MUS,Mauritius,False,8542,Electronic integrated circuits,H5,318013.968,286.712,True,True,False
+2019,699,IND,India,M,Import,484,MEX,Mexico,False,8542,Electronic integrated circuits,H5,1346772.084,1179.104,True,True,False
+2019,699,IND,India,M,Import,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H5,93289756.04,82007.976,True,True,False
+2019,699,IND,India,M,Import,524,NPL,Nepal,False,8542,Electronic integrated circuits,H5,59013.313,0.0,True,True,False
+2019,699,IND,India,M,Import,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H5,10654283.921,9627.199,True,True,False
+2019,699,IND,India,M,Import,531,CUW,Curaçao,False,8542,Electronic integrated circuits,H5,13794.278,0.0,True,True,False
+2019,699,IND,India,M,Import,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H5,11741.044,9.022,True,True,False
+2019,699,IND,India,M,Import,558,NIC,Nicaragua,False,8542,Electronic integrated circuits,H5,26.257,0.0,True,True,False
+2019,699,IND,India,M,Import,579,NOR,Norway,False,8542,Electronic integrated circuits,H5,130520.579,0.0,True,True,False
+2019,699,IND,India,M,Import,581,UMI,United States Minor Outlying Islands,False,8542,Electronic integrated circuits,H5,4640.883,7.89,True,True,False
+2019,699,IND,India,M,Import,608,PHL,Philippines,False,8542,Electronic integrated circuits,H5,28529854.541,24705.779,True,True,False
+2019,699,IND,India,M,Import,616,POL,Poland,False,8542,Electronic integrated circuits,H5,119599.024,102.386,True,True,False
+2019,699,IND,India,M,Import,620,PRT,Portugal,False,8542,Electronic integrated circuits,H5,88306.277,80.27,True,True,False
+2019,699,IND,India,M,Import,634,QAT,Qatar,False,8542,Electronic integrated circuits,H5,38.987,0.0,True,True,False
+2019,699,IND,India,M,Import,642,ROU,Romania,False,8542,Electronic integrated circuits,H5,80687.941,63.687,True,True,False
+2019,699,IND,India,M,Import,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H5,1254070.13,1111.51,True,True,False
+2019,699,IND,India,M,Import,686,SEN,Senegal,False,8542,Electronic integrated circuits,H5,96835.49,0.0,True,True,False
+2019,699,IND,India,M,Import,688,SRB,Serbia,False,8542,Electronic integrated circuits,H5,2078.496,0.0,True,True,False
+2019,699,IND,India,M,Import,702,SGP,Singapore,False,8542,Electronic integrated circuits,H5,884506824.547,786954.328,True,True,False
+2019,699,IND,India,M,Import,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H5,299287.011,0.0,True,True,False
+2019,699,IND,India,M,Import,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H5,25117468.928,21248.054,True,True,False
+2019,699,IND,India,M,Import,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H5,9357.511,0.0,True,True,False
+2019,699,IND,India,M,Import,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H5,64141.539,57.845,True,True,False
+2019,699,IND,India,M,Import,724,ESP,Spain,False,8542,Electronic integrated circuits,H5,222224.191,257.913,True,True,False
+2019,699,IND,India,M,Import,752,SWE,Sweden,False,8542,Electronic integrated circuits,H5,177256.827,170.54,True,True,False
+2019,699,IND,India,M,Import,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H5,662386.569,649.295,True,True,False
+2019,699,IND,India,M,Import,764,THA,Thailand,False,8542,Electronic integrated circuits,H5,39629486.511,39772.068,True,True,False
+2019,699,IND,India,M,Import,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H5,1589375.012,1460.046,True,True,False
+2019,699,IND,India,M,Import,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H5,305967.503,0.0,True,True,False
+2019,699,IND,India,M,Import,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H5,6974306.223,12610.274,True,True,False
+2019,699,IND,India,M,Import,842,USA,USA,False,8542,Electronic integrated circuits,H5,173434433.685,146902.561,True,True,False
+2019,699,IND,India,X,Export,0,W00,World,True,8542,Electronic integrated circuits,H5,247943980.858,0.0,True,True,False
+2019,699,IND,India,X,Export,8,ALB,Albania,False,8542,Electronic integrated circuits,H5,124.829,1.0,False,True,False
+2019,699,IND,India,X,Export,12,DZA,Algeria,False,8542,Electronic integrated circuits,H5,38622.818,38.595,True,True,False
+2019,699,IND,India,X,Export,31,AZE,Azerbaijan,False,8542,Electronic integrated circuits,H5,331.064,0.0,True,True,False
+2019,699,IND,India,X,Export,36,AUS,Australia,False,8542,Electronic integrated circuits,H5,57180.615,51.253,True,True,False
+2019,699,IND,India,X,Export,40,AUT,Austria,False,8542,Electronic integrated circuits,H5,5928.684,5.36,True,True,False
+2019,699,IND,India,X,Export,48,BHR,Bahrain,False,8542,Electronic integrated circuits,H5,12120.35,18.185,True,True,False
+2019,699,IND,India,X,Export,50,BGD,Bangladesh,False,8542,Electronic integrated circuits,H5,209933.357,354.323,True,True,False
+2019,699,IND,India,X,Export,56,BEL,Belgium,False,8542,Electronic integrated circuits,H5,97702.942,0.0,True,True,False
+2019,699,IND,India,X,Export,64,BTN,Bhutan,False,8542,Electronic integrated circuits,H5,9318.529,0.0,True,True,False
+2019,699,IND,India,X,Export,70,BIH,Bosnia Herzegovina,False,8542,Electronic integrated circuits,H5,3504.489,0.0,True,True,False
+2019,699,IND,India,X,Export,72,BWA,Botswana,False,8542,Electronic integrated circuits,H5,711.134,2.155,True,True,False
+2019,699,IND,India,X,Export,76,BRA,Brazil,False,8542,Electronic integrated circuits,H5,7869990.497,6542.081,True,True,False
+2019,699,IND,India,X,Export,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H5,9718.613,0.0,True,True,False
+2019,699,IND,India,X,Export,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H5,19276.246,18.282,True,True,False
+2019,699,IND,India,X,Export,112,BLR,Belarus,False,8542,Electronic integrated circuits,H5,4957.012,0.0,True,True,False
+2019,699,IND,India,X,Export,120,CMR,Cameroon,False,8542,Electronic integrated circuits,H5,5900.247,0.0,True,True,False
+2019,699,IND,India,X,Export,124,CAN,Canada,False,8542,Electronic integrated circuits,H5,135642.524,119.633,True,True,False
+2019,699,IND,India,X,Export,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H5,122856.736,165.031,True,True,False
+2019,699,IND,India,X,Export,152,CHL,Chile,False,8542,Electronic integrated circuits,H5,5748.117,0.0,True,True,False
+2019,699,IND,India,X,Export,156,CHN,China,False,8542,Electronic integrated circuits,H5,9182814.179,8208.572,True,True,False
+2019,699,IND,India,X,Export,170,COL,Colombia,False,8542,Electronic integrated circuits,H5,220617.761,938.916,True,True,False
+2019,699,IND,India,X,Export,180,COD,Dem. Rep. of the Congo,False,8542,Electronic integrated circuits,H5,2486.709,6.506,True,True,False
+2019,699,IND,India,X,Export,196,CYP,Cyprus,False,8542,Electronic integrated circuits,H5,647.938,0.0,True,True,False
+2019,699,IND,India,X,Export,203,CZE,Czechia,False,8542,Electronic integrated circuits,H5,582480.112,0.0,True,True,False
+2019,699,IND,India,X,Export,208,DNK,Denmark,False,8542,Electronic integrated circuits,H5,73126.902,0.0,True,True,False
+2019,699,IND,India,X,Export,218,ECU,Ecuador,False,8542,Electronic integrated circuits,H5,3182.559,138.0,False,True,False
+2019,699,IND,India,X,Export,222,SLV,El Salvador,False,8542,Electronic integrated circuits,H5,506.958,1.423,True,True,False
+2019,699,IND,India,X,Export,231,ETH,Ethiopia,False,8542,Electronic integrated circuits,H5,10294.392,402.693,True,True,False
+2019,699,IND,India,X,Export,233,EST,Estonia,False,8542,Electronic integrated circuits,H5,21946.108,24.861,True,True,False
+2019,699,IND,India,X,Export,242,FJI,Fiji,False,8542,Electronic integrated circuits,H5,240.596,0.229,True,True,False
+2019,699,IND,India,X,Export,246,FIN,Finland,False,8542,Electronic integrated circuits,H5,1336584.001,1218.275,True,True,False
+2019,699,IND,India,X,Export,251,FRA,France,False,8542,Electronic integrated circuits,H5,1176569.114,1210.449,True,True,False
+2019,699,IND,India,X,Export,262,DJI,Djibouti,False,8542,Electronic integrated circuits,H5,111.463,0.0,True,True,False
+2019,699,IND,India,X,Export,276,DEU,Germany,False,8542,Electronic integrated circuits,H5,1805511.715,1757.269,True,True,False
+2019,699,IND,India,X,Export,288,GHA,Ghana,False,8542,Electronic integrated circuits,H5,12325.236,36.993,True,True,False
+2019,699,IND,India,X,Export,300,GRC,Greece,False,8542,Electronic integrated circuits,H5,78483.969,80.175,True,True,False
+2019,699,IND,India,X,Export,320,GTM,Guatemala,False,8542,Electronic integrated circuits,H5,9892.12,11.45,True,True,False
+2019,699,IND,India,X,Export,340,HND,Honduras,False,8542,Electronic integrated circuits,H5,4727.808,569.0,False,True,False
+2019,699,IND,India,X,Export,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H5,56327231.831,57933.458,True,True,False
+2019,699,IND,India,X,Export,348,HUN,Hungary,False,8542,Electronic integrated circuits,H5,963706.82,916.778,True,True,False
+2019,699,IND,India,X,Export,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H5,635531.809,646.723,True,True,False
+2019,699,IND,India,X,Export,364,IRN,Iran,False,8542,Electronic integrated circuits,H5,887.766,10.0,False,True,False
+2019,699,IND,India,X,Export,368,IRQ,Iraq,False,8542,Electronic integrated circuits,H5,715.679,146.08,True,True,False
+2019,699,IND,India,X,Export,372,IRL,Ireland,False,8542,Electronic integrated circuits,H5,6456623.557,0.0,True,True,False
+2019,699,IND,India,X,Export,376,ISR,Israel,False,8542,Electronic integrated circuits,H5,50581316.947,39629.623,True,True,False
+2019,699,IND,India,X,Export,380,ITA,Italy,False,8542,Electronic integrated circuits,H5,116525.98,115.861,True,True,False
+2019,699,IND,India,X,Export,384,CIV,Côte d'Ivoire,False,8542,Electronic integrated circuits,H5,3485.413,38.617,True,True,False
+2019,699,IND,India,X,Export,392,JPN,Japan,False,8542,Electronic integrated circuits,H5,409528.074,426.708,True,True,False
+2019,699,IND,India,X,Export,400,JOR,Jordan,False,8542,Electronic integrated circuits,H5,3686.193,8.514,True,True,False
+2019,699,IND,India,X,Export,404,KEN,Kenya,False,8542,Electronic integrated circuits,H5,47530.894,161.433,True,True,False
+2019,699,IND,India,X,Export,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H5,11110710.246,9386.629,True,True,False
+2019,699,IND,India,X,Export,414,KWT,Kuwait,False,8542,Electronic integrated circuits,H5,6658.113,21.375,True,True,False
+2019,699,IND,India,X,Export,422,LBN,Lebanon,False,8542,Electronic integrated circuits,H5,1371.245,0.0,True,True,False
+2019,699,IND,India,X,Export,428,LVA,Latvia,False,8542,Electronic integrated circuits,H5,31.292,0.0,True,True,False
+2019,699,IND,India,X,Export,430,LBR,Liberia,False,8542,Electronic integrated circuits,H5,88.025,0.0,True,True,False
+2019,699,IND,India,X,Export,434,LBY,Libya,False,8542,Electronic integrated circuits,H5,23905.517,0.0,True,True,False
+2019,699,IND,India,X,Export,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H5,46009.096,0.0,True,True,False
+2019,699,IND,India,X,Export,454,MWI,Malawi,False,8542,Electronic integrated circuits,H5,43729.929,245.302,True,True,False
+2019,699,IND,India,X,Export,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H5,2543787.171,2253.428,True,True,False
+2019,699,IND,India,X,Export,462,MDV,Maldives,False,8542,Electronic integrated circuits,H5,1172.083,0.0,True,True,False
+2019,699,IND,India,X,Export,466,MLI,Mali,False,8542,Electronic integrated circuits,H5,148.082,2.0,False,True,False
+2019,699,IND,India,X,Export,470,MLT,Malta,False,8542,Electronic integrated circuits,H5,23181.983,166.571,True,True,False
+2019,699,IND,India,X,Export,480,MUS,Mauritius,False,8542,Electronic integrated circuits,H5,22857.041,47.408,True,True,False
+2019,699,IND,India,X,Export,484,MEX,Mexico,False,8542,Electronic integrated circuits,H5,959087.577,877.644,True,True,False
+2019,699,IND,India,X,Export,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H5,577336.255,543.019,True,True,False
+2019,699,IND,India,X,Export,504,MAR,Morocco,False,8542,Electronic integrated circuits,H5,698.165,7.0,False,True,False
+2019,699,IND,India,X,Export,508,MOZ,Mozambique,False,8542,Electronic integrated circuits,H5,1258.504,12.864,True,True,False
+2019,699,IND,India,X,Export,512,OMN,Oman,False,8542,Electronic integrated circuits,H5,27798.741,225.544,True,True,False
+2019,699,IND,India,X,Export,524,NPL,Nepal,False,8542,Electronic integrated circuits,H5,153301.816,1709.719,True,True,False
+2019,699,IND,India,X,Export,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H5,275082.349,266.569,True,True,False
+2019,699,IND,India,X,Export,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H5,19412.282,0.0,True,True,False
+2019,699,IND,India,X,Export,558,NIC,Nicaragua,False,8542,Electronic integrated circuits,H5,3504.958,0.0,True,True,False
+2019,699,IND,India,X,Export,562,NER,Niger,False,8542,Electronic integrated circuits,H5,265.78,0.0,True,True,False
+2019,699,IND,India,X,Export,566,NGA,Nigeria,False,8542,Electronic integrated circuits,H5,417080.147,1112.296,True,True,False
+2019,699,IND,India,X,Export,579,NOR,Norway,False,8542,Electronic integrated circuits,H5,3900.411,0.0,True,True,False
+2019,699,IND,India,X,Export,586,PAK,Pakistan,False,8542,Electronic integrated circuits,H5,1568.644,0.0,True,True,False
+2019,699,IND,India,X,Export,600,PRY,Paraguay,False,8542,Electronic integrated circuits,H5,571.859,16.0,False,True,False
+2019,699,IND,India,X,Export,604,PER,Peru,False,8542,Electronic integrated circuits,H5,11900.422,0.0,True,True,False
+2019,699,IND,India,X,Export,608,PHL,Philippines,False,8542,Electronic integrated circuits,H5,424872.972,403.698,True,True,False
+2019,699,IND,India,X,Export,616,POL,Poland,False,8542,Electronic integrated circuits,H5,152516.422,125.382,True,True,False
+2019,699,IND,India,X,Export,620,PRT,Portugal,False,8542,Electronic integrated circuits,H5,19461.643,0.0,True,True,False
+2019,699,IND,India,X,Export,634,QAT,Qatar,False,8542,Electronic integrated circuits,H5,21087.219,78.178,True,True,False
+2019,699,IND,India,X,Export,642,ROU,Romania,False,8542,Electronic integrated circuits,H5,33227.129,0.0,True,True,False
+2019,699,IND,India,X,Export,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H5,648764.641,618.935,True,True,False
+2019,699,IND,India,X,Export,646,RWA,Rwanda,False,8542,Electronic integrated circuits,H5,7116.094,17.05,True,True,False
+2019,699,IND,India,X,Export,659,KNA,Saint Kitts and Nevis,False,8542,Electronic integrated circuits,H5,17.131,0.0,True,True,False
+2019,699,IND,India,X,Export,670,VCT,Saint Vincent and the Grenadines,False,8542,Electronic integrated circuits,H5,100.752,2.0,False,True,False
+2019,699,IND,India,X,Export,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H5,60269.367,157.261,True,True,False
+2019,699,IND,India,X,Export,686,SEN,Senegal,False,8542,Electronic integrated circuits,H5,13007.961,12.426,True,True,False
+2019,699,IND,India,X,Export,688,SRB,Serbia,False,8542,Electronic integrated circuits,H5,95.596,0.0,True,True,False
+2019,699,IND,India,X,Export,690,SYC,Seychelles,False,8542,Electronic integrated circuits,H5,6.278,0.0,True,True,False
+2019,699,IND,India,X,Export,694,SLE,Sierra Leone,False,8542,Electronic integrated circuits,H5,5.014,0.0,True,True,False
+2019,699,IND,India,X,Export,702,SGP,Singapore,False,8542,Electronic integrated circuits,H5,9268470.023,9490.744,True,True,False
+2019,699,IND,India,X,Export,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H5,61844.02,0.0,True,True,False
+2019,699,IND,India,X,Export,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H5,12156445.069,9547.133,True,True,False
+2019,699,IND,India,X,Export,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H5,33419.585,31.123,True,True,False
+2019,699,IND,India,X,Export,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H5,24668.27,534.012,True,True,False
+2019,699,IND,India,X,Export,716,ZWE,Zimbabwe,False,8542,Electronic integrated circuits,H5,1285.563,8.53,True,True,False
+2019,699,IND,India,X,Export,724,ESP,Spain,False,8542,Electronic integrated circuits,H5,194341.116,176.458,True,True,False
+2019,699,IND,India,X,Export,729,SDN,Sudan,False,8542,Electronic integrated circuits,H5,10883.296,0.0,True,True,False
+2019,699,IND,India,X,Export,748,SWZ,Eswatini,False,8542,Electronic integrated circuits,H5,1444.781,19.0,False,True,False
+2019,699,IND,India,X,Export,752,SWE,Sweden,False,8542,Electronic integrated circuits,H5,118024.582,138.183,True,True,False
+2019,699,IND,India,X,Export,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H5,319165.047,308.716,True,True,False
+2019,699,IND,India,X,Export,764,THA,Thailand,False,8542,Electronic integrated circuits,H5,983841.614,986.258,True,True,False
+2019,699,IND,India,X,Export,780,TTO,Trinidad and Tobago,False,8542,Electronic integrated circuits,H5,308.039,0.0,True,True,False
+2019,699,IND,India,X,Export,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H5,55436931.485,46327.875,True,True,False
+2019,699,IND,India,X,Export,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H5,95168.322,95.675,True,True,False
+2019,699,IND,India,X,Export,800,UGA,Uganda,False,8542,Electronic integrated circuits,H5,24877.161,60.601,True,True,False
+2019,699,IND,India,X,Export,804,UKR,Ukraine,False,8542,Electronic integrated circuits,H5,197.357,0.0,True,True,False
+2019,699,IND,India,X,Export,818,EGY,Egypt,False,8542,Electronic integrated circuits,H5,71189.722,4091.793,True,True,False
+2019,699,IND,India,X,Export,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H5,961075.254,872.426,True,True,False
+2019,699,IND,India,X,Export,834,TZA,United Rep. of Tanzania,False,8542,Electronic integrated circuits,H5,15333.236,236.294,True,True,False
+2019,699,IND,India,X,Export,842,USA,USA,False,8542,Electronic integrated circuits,H5,11825008.778,13599.145,True,True,False
+2019,699,IND,India,X,Export,858,URY,Uruguay,False,8542,Electronic integrated circuits,H5,581.418,5.0,False,True,False
+2019,699,IND,India,X,Export,860,UZB,Uzbekistan,False,8542,Electronic integrated circuits,H5,330.808,0.0,True,True,False
+2019,699,IND,India,X,Export,862,VEN,Venezuela,False,8542,Electronic integrated circuits,H5,39.716,0.232,True,True,False
+2019,699,IND,India,X,Export,887,YEM,Yemen,False,8542,Electronic integrated circuits,H5,6.207,0.0,True,True,False
+2019,699,IND,India,X,Export,894,ZMB,Zambia,False,8542,Electronic integrated circuits,H5,3245.03,4.18,True,True,False
+2020,699,IND,India,M,Import,0,W00,World,True,8542,Electronic integrated circuits,H5,8417890350.81,0.0,True,True,False
+2020,699,IND,India,M,Import,16,ASM,American Samoa,False,8542,Electronic integrated circuits,H5,7418.193,0.0,True,True,False
+2020,699,IND,India,M,Import,36,AUS,Australia,False,8542,Electronic integrated circuits,H5,174056.07,198.265,True,True,False
+2020,699,IND,India,M,Import,40,AUT,Austria,False,8542,Electronic integrated circuits,H5,581246.108,473.78,True,True,False
+2020,699,IND,India,M,Import,48,BHR,Bahrain,False,8542,Electronic integrated circuits,H5,29869.495,0.0,True,True,False
+2020,699,IND,India,M,Import,56,BEL,Belgium,False,8542,Electronic integrated circuits,H5,3564302.837,2922.176,True,True,False
+2020,699,IND,India,M,Import,76,BRA,Brazil,False,8542,Electronic integrated circuits,H5,312905.181,259.96,True,True,False
+2020,699,IND,India,M,Import,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H5,3384.106,2.76,True,True,False
+2020,699,IND,India,M,Import,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H5,15875.531,0.0,True,True,False
+2020,699,IND,India,M,Import,112,BLR,Belarus,False,8542,Electronic integrated circuits,H5,571164.779,669.842,True,True,False
+2020,699,IND,India,M,Import,124,CAN,Canada,False,8542,Electronic integrated circuits,H5,587027.655,478.946,True,True,False
+2020,699,IND,India,M,Import,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H5,129933.8,0.0,True,True,False
+2020,699,IND,India,M,Import,152,CHL,Chile,False,8542,Electronic integrated circuits,H5,146094.429,1470.424,True,True,False
+2020,699,IND,India,M,Import,156,CHN,China,False,8542,Electronic integrated circuits,H5,2915677814.056,1921580.132,True,True,False
+2020,699,IND,India,M,Import,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H5,157576.303,0.0,True,True,False
+2020,699,IND,India,M,Import,196,CYP,Cyprus,False,8542,Electronic integrated circuits,H5,1041.124,0.0,True,True,False
+2020,699,IND,India,M,Import,203,CZE,Czechia,False,8542,Electronic integrated circuits,H5,89832.581,73.312,True,True,False
+2020,699,IND,India,M,Import,208,DNK,Denmark,False,8542,Electronic integrated circuits,H5,485170.863,2007.982,True,True,False
+2020,699,IND,India,M,Import,233,EST,Estonia,False,8542,Electronic integrated circuits,H5,20816.797,16.885,True,True,False
+2020,699,IND,India,M,Import,246,FIN,Finland,False,8542,Electronic integrated circuits,H5,71431496.68,57998.164,True,True,False
+2020,699,IND,India,M,Import,251,FRA,France,False,8542,Electronic integrated circuits,H5,12621335.918,10443.537,True,True,False
+2020,699,IND,India,M,Import,276,DEU,Germany,False,8542,Electronic integrated circuits,H5,31276630.845,25694.103,True,True,False
+2020,699,IND,India,M,Import,300,GRC,Greece,False,8542,Electronic integrated circuits,H5,357.132,0.29,True,True,False
+2020,699,IND,India,M,Import,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H5,2629035957.03,2202561.57,True,True,False
+2020,699,IND,India,M,Import,348,HUN,Hungary,False,8542,Electronic integrated circuits,H5,333914.067,271.415,True,True,False
+2020,699,IND,India,M,Import,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H5,3298099.131,2677.03,True,True,False
+2020,699,IND,India,M,Import,372,IRL,Ireland,False,8542,Electronic integrated circuits,H5,347541.116,283.713,True,True,False
+2020,699,IND,India,M,Import,376,ISR,Israel,False,8542,Electronic integrated circuits,H5,115574978.714,94313.0,True,True,False
+2020,699,IND,India,M,Import,380,ITA,Italy,False,8542,Electronic integrated circuits,H5,3021733.824,3386.44,True,True,False
+2020,699,IND,India,M,Import,392,JPN,Japan,False,8542,Electronic integrated circuits,H5,100708532.18,81795.395,True,True,False
+2020,699,IND,India,M,Import,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H5,871833218.005,707832.653,True,True,False
+2020,699,IND,India,M,Import,414,KWT,Kuwait,False,8542,Electronic integrated circuits,H5,433.108,0.351,True,True,False
+2020,699,IND,India,M,Import,428,LVA,Latvia,False,8542,Electronic integrated circuits,H5,4636.303,3.761,True,True,False
+2020,699,IND,India,M,Import,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H5,5603.279,4.996,True,True,False
+2020,699,IND,India,M,Import,442,LUX,Luxembourg,False,8542,Electronic integrated circuits,H5,5887.754,5.249,True,True,False
+2020,699,IND,India,M,Import,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H5,74864313.923,60493.298,True,True,False
+2020,699,IND,India,M,Import,470,MLT,Malta,False,8542,Electronic integrated circuits,H5,27694.157,22.464,True,True,False
+2020,699,IND,India,M,Import,480,MUS,Mauritius,False,8542,Electronic integrated circuits,H5,514051.159,421.336,True,True,False
+2020,699,IND,India,M,Import,484,MEX,Mexico,False,8542,Electronic integrated circuits,H5,1845190.937,1886.536,True,True,False
+2020,699,IND,India,M,Import,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H5,421798088.277,343481.81,True,True,False
+2020,699,IND,India,M,Import,504,MAR,Morocco,False,8542,Electronic integrated circuits,H5,28584.412,0.0,True,True,False
+2020,699,IND,India,M,Import,512,OMN,Oman,False,8542,Electronic integrated circuits,H5,125.76,1.0,False,True,False
+2020,699,IND,India,M,Import,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H5,17967974.484,14638.77,True,True,False
+2020,699,IND,India,M,Import,531,CUW,Curaçao,False,8542,Electronic integrated circuits,H5,33199.129,0.0,True,True,False
+2020,699,IND,India,M,Import,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H5,5387.504,4.434,True,True,False
+2020,699,IND,India,M,Import,579,NOR,Norway,False,8542,Electronic integrated circuits,H5,45129.342,37.703,True,True,False
+2020,699,IND,India,M,Import,581,UMI,United States Minor Outlying Islands,False,8542,Electronic integrated circuits,H5,1033.088,0.0,True,True,False
+2020,699,IND,India,M,Import,608,PHL,Philippines,False,8542,Electronic integrated circuits,H5,23234251.031,18907.717,True,True,False
+2020,699,IND,India,M,Import,616,POL,Poland,False,8542,Electronic integrated circuits,H5,265782.874,216.917,True,True,False
+2020,699,IND,India,M,Import,620,PRT,Portugal,False,8542,Electronic integrated circuits,H5,69043.873,56.329,True,True,False
+2020,699,IND,India,M,Import,642,ROU,Romania,False,8542,Electronic integrated circuits,H5,215962.364,177.139,True,True,False
+2020,699,IND,India,M,Import,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H5,183444.056,148.172,True,True,False
+2020,699,IND,India,M,Import,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H5,57607.027,54.098,True,True,False
+2020,699,IND,India,M,Import,690,SYC,Seychelles,False,8542,Electronic integrated circuits,H5,15154.845,12.293,True,True,False
+2020,699,IND,India,M,Import,702,SGP,Singapore,False,8542,Electronic integrated circuits,H5,860879963.178,702600.049,True,True,False
+2020,699,IND,India,M,Import,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H5,595.902,0.484,True,True,False
+2020,699,IND,India,M,Import,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H5,45613842.905,37269.936,True,True,False
+2020,699,IND,India,M,Import,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H5,365085.584,297.911,True,True,False
+2020,699,IND,India,M,Import,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H5,14300.567,11.655,True,True,False
+2020,699,IND,India,M,Import,724,ESP,Spain,False,8542,Electronic integrated circuits,H5,276263.489,224.922,True,True,False
+2020,699,IND,India,M,Import,728,SSD,South Sudan,False,8542,Electronic integrated circuits,H5,851.596,0.0,True,True,False
+2020,699,IND,India,M,Import,752,SWE,Sweden,False,8542,Electronic integrated circuits,H5,287546.35,234.41,True,True,False
+2020,699,IND,India,M,Import,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H5,711092.942,582.207,True,True,False
+2020,699,IND,India,M,Import,764,THA,Thailand,False,8542,Electronic integrated circuits,H5,35678097.083,29687.404,True,True,False
+2020,699,IND,India,M,Import,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H5,9982152.97,8149.994,True,True,False
+2020,699,IND,India,M,Import,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H5,464794.45,378.527,True,True,False
+2020,699,IND,India,M,Import,804,UKR,Ukraine,False,8542,Electronic integrated circuits,H5,21.179,0.017,True,True,False
+2020,699,IND,India,M,Import,818,EGY,Egypt,False,8542,Electronic integrated circuits,H5,47033.62,0.0,True,True,False
+2020,699,IND,India,M,Import,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H5,21191768.715,17148.93,True,True,False
+2020,699,IND,India,M,Import,842,USA,USA,False,8542,Electronic integrated circuits,H5,139147988.924,113988.108,True,True,False
+2020,699,IND,India,M,Import,858,URY,Uruguay,False,8542,Electronic integrated circuits,H5,1048.116,0.79,True,True,False
+2020,699,IND,India,X,Export,0,W00,World,True,8542,Electronic integrated circuits,H5,265331454.589,0.0,True,True,False
+2020,699,IND,India,X,Export,4,AFG,Afghanistan,False,8542,Electronic integrated circuits,H5,3475.497,3.018,True,True,False
+2020,699,IND,India,X,Export,8,ALB,Albania,False,8542,Electronic integrated circuits,H5,769.755,2.0,False,True,False
+2020,699,IND,India,X,Export,12,DZA,Algeria,False,8542,Electronic integrated circuits,H5,9306.451,0.0,True,True,False
+2020,699,IND,India,X,Export,24,AGO,Angola,False,8542,Electronic integrated circuits,H5,28.868,0.0,True,True,False
+2020,699,IND,India,X,Export,32,ARG,Argentina,False,8542,Electronic integrated circuits,H5,316.883,1.278,True,True,False
+2020,699,IND,India,X,Export,36,AUS,Australia,False,8542,Electronic integrated circuits,H5,44198.778,41.671,True,True,False
+2020,699,IND,India,X,Export,40,AUT,Austria,False,8542,Electronic integrated circuits,H5,19352.504,37.168,True,True,False
+2020,699,IND,India,X,Export,48,BHR,Bahrain,False,8542,Electronic integrated circuits,H5,8735.198,9.879,True,True,False
+2020,699,IND,India,X,Export,50,BGD,Bangladesh,False,8542,Electronic integrated circuits,H5,145178.631,3273.536,True,True,False
+2020,699,IND,India,X,Export,51,ARM,Armenia,False,8542,Electronic integrated circuits,H5,28727.464,0.0,True,True,False
+2020,699,IND,India,X,Export,56,BEL,Belgium,False,8542,Electronic integrated circuits,H5,24510.552,34.482,True,True,False
+2020,699,IND,India,X,Export,64,BTN,Bhutan,False,8542,Electronic integrated circuits,H5,17705.494,2017.26,True,True,False
+2020,699,IND,India,X,Export,72,BWA,Botswana,False,8542,Electronic integrated circuits,H5,222.173,0.0,True,True,False
+2020,699,IND,India,X,Export,76,BRA,Brazil,False,8542,Electronic integrated circuits,H5,1682410.568,1414.12,True,True,False
+2020,699,IND,India,X,Export,96,BRN,Brunei Darussalam,False,8542,Electronic integrated circuits,H5,357.688,0.0,True,True,False
+2020,699,IND,India,X,Export,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H5,43400.683,0.0,True,True,False
+2020,699,IND,India,X,Export,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H5,3112.071,11.05,True,True,False
+2020,699,IND,India,X,Export,120,CMR,Cameroon,False,8542,Electronic integrated circuits,H5,61.728,23.0,False,True,False
+2020,699,IND,India,X,Export,124,CAN,Canada,False,8542,Electronic integrated circuits,H5,201173.546,177.126,True,True,False
+2020,699,IND,India,X,Export,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H5,36160.753,1020.028,True,True,False
+2020,699,IND,India,X,Export,152,CHL,Chile,False,8542,Electronic integrated circuits,H5,6550.864,0.0,True,True,False
+2020,699,IND,India,X,Export,156,CHN,China,False,8542,Electronic integrated circuits,H5,23211741.046,19951.32,True,True,False
+2020,699,IND,India,X,Export,170,COL,Colombia,False,8542,Electronic integrated circuits,H5,49389.118,3034.44,True,True,False
+2020,699,IND,India,X,Export,178,COG,Congo,False,8542,Electronic integrated circuits,H5,6.402,0.0,True,True,False
+2020,699,IND,India,X,Export,180,COD,Dem. Rep. of the Congo,False,8542,Electronic integrated circuits,H5,883.995,0.658,True,True,False
+2020,699,IND,India,X,Export,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H5,2846.373,0.0,True,True,False
+2020,699,IND,India,X,Export,191,HRV,Croatia,False,8542,Electronic integrated circuits,H5,386.326,0.0,True,True,False
+2020,699,IND,India,X,Export,196,CYP,Cyprus,False,8542,Electronic integrated circuits,H5,857.645,0.0,True,True,False
+2020,699,IND,India,X,Export,203,CZE,Czechia,False,8542,Electronic integrated circuits,H5,74221.601,68.792,True,True,False
+2020,699,IND,India,X,Export,208,DNK,Denmark,False,8542,Electronic integrated circuits,H5,23452.944,22.482,True,True,False
+2020,699,IND,India,X,Export,214,DOM,Dominican Rep.,False,8542,Electronic integrated circuits,H5,1711.567,0.0,True,True,False
+2020,699,IND,India,X,Export,218,ECU,Ecuador,False,8542,Electronic integrated circuits,H5,468.071,35.194,True,True,False
+2020,699,IND,India,X,Export,222,SLV,El Salvador,False,8542,Electronic integrated circuits,H5,711.532,142.0,False,True,False
+2020,699,IND,India,X,Export,231,ETH,Ethiopia,False,8542,Electronic integrated circuits,H5,42695.647,427.088,True,True,False
+2020,699,IND,India,X,Export,233,EST,Estonia,False,8542,Electronic integrated circuits,H5,30339.733,0.0,True,True,False
+2020,699,IND,India,X,Export,246,FIN,Finland,False,8542,Electronic integrated circuits,H5,3773284.316,3314.577,True,True,False
+2020,699,IND,India,X,Export,251,FRA,France,False,8542,Electronic integrated circuits,H5,1081078.675,993.68,True,True,False
+2020,699,IND,India,X,Export,268,GEO,Georgia,False,8542,Electronic integrated circuits,H5,13.277,0.0,True,True,False
+2020,699,IND,India,X,Export,276,DEU,Germany,False,8542,Electronic integrated circuits,H5,701241.171,673.357,True,True,False
+2020,699,IND,India,X,Export,288,GHA,Ghana,False,8542,Electronic integrated circuits,H5,19102.248,22.591,True,True,False
+2020,699,IND,India,X,Export,300,GRC,Greece,False,8542,Electronic integrated circuits,H5,69513.502,0.0,True,True,False
+2020,699,IND,India,X,Export,320,GTM,Guatemala,False,8542,Electronic integrated circuits,H5,3335.218,111.878,True,True,False
+2020,699,IND,India,X,Export,324,GIN,Guinea,False,8542,Electronic integrated circuits,H5,303.945,0.0,True,True,False
+2020,699,IND,India,X,Export,340,HND,Honduras,False,8542,Electronic integrated circuits,H5,1830.097,8.17,True,True,False
+2020,699,IND,India,X,Export,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H5,66584446.681,63612.768,True,True,False
+2020,699,IND,India,X,Export,348,HUN,Hungary,False,8542,Electronic integrated circuits,H5,870846.768,723.95,True,True,False
+2020,699,IND,India,X,Export,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H5,1985862.235,1640.895,True,True,False
+2020,699,IND,India,X,Export,364,IRN,Iran,False,8542,Electronic integrated circuits,H5,41152.726,0.0,True,True,False
+2020,699,IND,India,X,Export,368,IRQ,Iraq,False,8542,Electronic integrated circuits,H5,12608.362,8.355,True,True,False
+2020,699,IND,India,X,Export,372,IRL,Ireland,False,8542,Electronic integrated circuits,H5,4074267.748,0.0,True,True,False
+2020,699,IND,India,X,Export,376,ISR,Israel,False,8542,Electronic integrated circuits,H5,1637014.133,1150.921,True,True,False
+2020,699,IND,India,X,Export,380,ITA,Italy,False,8542,Electronic integrated circuits,H5,120671.219,151.287,True,True,False
+2020,699,IND,India,X,Export,384,CIV,Côte d'Ivoire,False,8542,Electronic integrated circuits,H5,2389.887,54.915,True,True,False
+2020,699,IND,India,X,Export,392,JPN,Japan,False,8542,Electronic integrated circuits,H5,444129.484,365.927,True,True,False
+2020,699,IND,India,X,Export,398,KAZ,Kazakhstan,False,8542,Electronic integrated circuits,H5,2189.436,0.0,True,True,False
+2020,699,IND,India,X,Export,400,JOR,Jordan,False,8542,Electronic integrated circuits,H5,2346.849,3.351,True,True,False
+2020,699,IND,India,X,Export,404,KEN,Kenya,False,8542,Electronic integrated circuits,H5,37416.335,325.369,True,True,False
+2020,699,IND,India,X,Export,408,PRK,Dem. People's Rep. of Korea,False,8542,Electronic integrated circuits,H5,159.863,0.0,True,True,False
+2020,699,IND,India,X,Export,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H5,2488561.693,2139.109,True,True,False
+2020,699,IND,India,X,Export,414,KWT,Kuwait,False,8542,Electronic integrated circuits,H5,3794.14,15.246,True,True,False
+2020,699,IND,India,X,Export,418,LAO,Lao People's Dem. Rep.,False,8542,Electronic integrated circuits,H5,217.274,0.0,True,True,False
+2020,699,IND,India,X,Export,422,LBN,Lebanon,False,8542,Electronic integrated circuits,H5,1088.696,0.0,True,True,False
+2020,699,IND,India,X,Export,428,LVA,Latvia,False,8542,Electronic integrated circuits,H5,148.833,0.0,True,True,False
+2020,699,IND,India,X,Export,430,LBR,Liberia,False,8542,Electronic integrated circuits,H5,1684.202,0.0,True,True,False
+2020,699,IND,India,X,Export,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H5,12965557.711,8280.718,True,True,False
+2020,699,IND,India,X,Export,442,LUX,Luxembourg,False,8542,Electronic integrated circuits,H5,6010.143,0.0,True,True,False
+2020,699,IND,India,X,Export,450,MDG,Madagascar,False,8542,Electronic integrated circuits,H5,653.269,0.0,True,True,False
+2020,699,IND,India,X,Export,454,MWI,Malawi,False,8542,Electronic integrated circuits,H5,1372.082,11.193,True,True,False
+2020,699,IND,India,X,Export,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H5,4071201.692,3700.841,True,True,False
+2020,699,IND,India,X,Export,462,MDV,Maldives,False,8542,Electronic integrated circuits,H5,9224.571,2759.539,True,True,False
+2020,699,IND,India,X,Export,466,MLI,Mali,False,8542,Electronic integrated circuits,H5,41297.16,0.0,True,True,False
+2020,699,IND,India,X,Export,470,MLT,Malta,False,8542,Electronic integrated circuits,H5,8282.164,0.0,True,True,False
+2020,699,IND,India,X,Export,478,MRT,Mauritania,False,8542,Electronic integrated circuits,H5,106.079,40.0,False,True,False
+2020,699,IND,India,X,Export,480,MUS,Mauritius,False,8542,Electronic integrated circuits,H5,1829.691,112.948,True,True,False
+2020,699,IND,India,X,Export,484,MEX,Mexico,False,8542,Electronic integrated circuits,H5,1784494.423,1229.667,True,True,False
+2020,699,IND,India,X,Export,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H5,627592.272,0.0,True,True,False
+2020,699,IND,India,X,Export,496,MNG,Mongolia,False,8542,Electronic integrated circuits,H5,2511.07,0.0,True,True,False
+2020,699,IND,India,X,Export,500,MSR,Montserrat,False,8542,Electronic integrated circuits,H5,81.894,0.072,True,True,False
+2020,699,IND,India,X,Export,504,MAR,Morocco,False,8542,Electronic integrated circuits,H5,9116.503,0.0,True,True,False
+2020,699,IND,India,X,Export,508,MOZ,Mozambique,False,8542,Electronic integrated circuits,H5,2619.544,0.0,True,True,False
+2020,699,IND,India,X,Export,512,OMN,Oman,False,8542,Electronic integrated circuits,H5,43371.274,363.062,True,True,False
+2020,699,IND,India,X,Export,524,NPL,Nepal,False,8542,Electronic integrated circuits,H5,274408.7,1476.588,True,True,False
+2020,699,IND,India,X,Export,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H5,593631.146,608.639,True,True,False
+2020,699,IND,India,X,Export,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H5,15059.978,0.0,True,True,False
+2020,699,IND,India,X,Export,562,NER,Niger,False,8542,Electronic integrated circuits,H5,24207.757,0.0,True,True,False
+2020,699,IND,India,X,Export,566,NGA,Nigeria,False,8542,Electronic integrated circuits,H5,44798.209,3193.934,True,True,False
+2020,699,IND,India,X,Export,579,NOR,Norway,False,8542,Electronic integrated circuits,H5,6810.607,0.0,True,True,False
+2020,699,IND,India,X,Export,600,PRY,Paraguay,False,8542,Electronic integrated circuits,H5,1455.14,0.0,True,True,False
+2020,699,IND,India,X,Export,604,PER,Peru,False,8542,Electronic integrated circuits,H5,9463.201,1140.836,True,True,False
+2020,699,IND,India,X,Export,608,PHL,Philippines,False,8542,Electronic integrated circuits,H5,131231.98,123.619,True,True,False
+2020,699,IND,India,X,Export,616,POL,Poland,False,8542,Electronic integrated circuits,H5,758949.982,801.636,True,True,False
+2020,699,IND,India,X,Export,620,PRT,Portugal,False,8542,Electronic integrated circuits,H5,25116.709,23.999,True,True,False
+2020,699,IND,India,X,Export,634,QAT,Qatar,False,8542,Electronic integrated circuits,H5,19975.714,123.865,True,True,False
+2020,699,IND,India,X,Export,642,ROU,Romania,False,8542,Electronic integrated circuits,H5,6812.623,0.0,True,True,False
+2020,699,IND,India,X,Export,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H5,24451.896,30.595,True,True,False
+2020,699,IND,India,X,Export,646,RWA,Rwanda,False,8542,Electronic integrated circuits,H5,8062.643,16.148,True,True,False
+2020,699,IND,India,X,Export,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H5,337845.188,1164.558,True,True,False
+2020,699,IND,India,X,Export,686,SEN,Senegal,False,8542,Electronic integrated circuits,H5,585.762,0.0,True,True,False
+2020,699,IND,India,X,Export,690,SYC,Seychelles,False,8542,Electronic integrated circuits,H5,42.388,1.0,False,True,False
+2020,699,IND,India,X,Export,694,SLE,Sierra Leone,False,8542,Electronic integrated circuits,H5,711.167,67.013,True,True,False
+2020,699,IND,India,X,Export,702,SGP,Singapore,False,8542,Electronic integrated circuits,H5,9125352.519,8193.266,True,True,False
+2020,699,IND,India,X,Export,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H5,773.477,0.0,True,True,False
+2020,699,IND,India,X,Export,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H5,39476671.385,25946.342,True,True,False
+2020,699,IND,India,X,Export,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H5,67222.277,0.0,True,True,False
+2020,699,IND,India,X,Export,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H5,17932.606,52.355,True,True,False
+2020,699,IND,India,X,Export,724,ESP,Spain,False,8542,Electronic integrated circuits,H5,52812.293,53.595,True,True,False
+2020,699,IND,India,X,Export,729,SDN,Sudan,False,8542,Electronic integrated circuits,H5,4048.293,0.0,True,True,False
+2020,699,IND,India,X,Export,748,SWZ,Eswatini,False,8542,Electronic integrated circuits,H5,4084.618,0.0,True,True,False
+2020,699,IND,India,X,Export,752,SWE,Sweden,False,8542,Electronic integrated circuits,H5,696568.031,627.53,True,True,False
+2020,699,IND,India,X,Export,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H5,76431.636,71.144,True,True,False
+2020,699,IND,India,X,Export,764,THA,Thailand,False,8542,Electronic integrated circuits,H5,403925.161,363.99,True,True,False
+2020,699,IND,India,X,Export,768,TGO,Togo,False,8542,Electronic integrated circuits,H5,58.223,4.0,False,True,False
+2020,699,IND,India,X,Export,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H5,61547658.101,46727.713,True,True,False
+2020,699,IND,India,X,Export,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H5,607289.836,656.221,True,True,False
+2020,699,IND,India,X,Export,800,UGA,Uganda,False,8542,Electronic integrated circuits,H5,22328.897,291.433,True,True,False
+2020,699,IND,India,X,Export,804,UKR,Ukraine,False,8542,Electronic integrated circuits,H5,682.57,0.0,True,True,False
+2020,699,IND,India,X,Export,807,MKD,North Macedonia,False,8542,Electronic integrated circuits,H5,4662.449,0.0,True,True,False
+2020,699,IND,India,X,Export,818,EGY,Egypt,False,8542,Electronic integrated circuits,H5,39597.367,37.458,True,True,False
+2020,699,IND,India,X,Export,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H5,884999.012,755.098,True,True,False
+2020,699,IND,India,X,Export,834,TZA,United Rep. of Tanzania,False,8542,Electronic integrated circuits,H5,28481.255,30.428,True,True,False
+2020,699,IND,India,X,Export,842,USA,USA,False,8542,Electronic integrated circuits,H5,20719500.508,14585.413,True,True,False
+2020,699,IND,India,X,Export,854,BFA,Burkina Faso,False,8542,Electronic integrated circuits,H5,5213.821,0.0,True,True,False
+2020,699,IND,India,X,Export,858,URY,Uruguay,False,8542,Electronic integrated circuits,H5,282.304,0.0,True,True,False
+2020,699,IND,India,X,Export,860,UZB,Uzbekistan,False,8542,Electronic integrated circuits,H5,298.22,1.0,False,True,False
+2020,699,IND,India,X,Export,887,YEM,Yemen,False,8542,Electronic integrated circuits,H5,4681.004,11.23,True,True,False
+2020,699,IND,India,X,Export,894,ZMB,Zambia,False,8542,Electronic integrated circuits,H5,4232.3,6.209,True,True,False
+2020,699,IND,India,X,Export,899,_X ,"Areas, nes",False,8542,Electronic integrated circuits,H5,556.934,0.0,True,True,False
+2021,699,IND,India,M,Import,0,W00,World,True,8542,Electronic integrated circuits,H5,12391531711.142,8311795.794,True,True,False
+2021,699,IND,India,M,Import,28,ATG,Antigua and Barbuda,False,8542,Electronic integrated circuits,H5,9084.677,5.698,True,True,False
+2021,699,IND,India,M,Import,36,AUS,Australia,False,8542,Electronic integrated circuits,H5,585716.188,2713.755,True,True,False
+2021,699,IND,India,M,Import,40,AUT,Austria,False,8542,Electronic integrated circuits,H5,330756.521,313.659,True,True,False
+2021,699,IND,India,M,Import,48,BHR,Bahrain,False,8542,Electronic integrated circuits,H5,72346.519,45.376,True,True,False
+2021,699,IND,India,M,Import,56,BEL,Belgium,False,8542,Electronic integrated circuits,H5,3447893.652,2164.125,True,True,False
+2021,699,IND,India,M,Import,76,BRA,Brazil,False,8542,Electronic integrated circuits,H5,1322997.029,849.038,True,True,False
+2021,699,IND,India,M,Import,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H5,211471.316,133.009,True,True,False
+2021,699,IND,India,M,Import,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H5,23751.92,14.897,True,True,False
+2021,699,IND,India,M,Import,112,BLR,Belarus,False,8542,Electronic integrated circuits,H5,801067.369,661.4,True,True,False
+2021,699,IND,India,M,Import,116,KHM,Cambodia,False,8542,Electronic integrated circuits,H5,154.223,0.097,True,True,False
+2021,699,IND,India,M,Import,124,CAN,Canada,False,8542,Electronic integrated circuits,H5,1819343.789,1142.762,True,True,False
+2021,699,IND,India,M,Import,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H5,193231.546,130.649,True,True,False
+2021,699,IND,India,M,Import,156,CHN,China,False,8542,Electronic integrated circuits,H5,4525122635.31,2836319.307,True,True,False
+2021,699,IND,India,M,Import,170,COL,Colombia,False,8542,Electronic integrated circuits,H5,52352.69,32.835,True,True,False
+2021,699,IND,India,M,Import,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H5,3078760.413,1924.321,True,True,False
+2021,699,IND,India,M,Import,196,CYP,Cyprus,False,8542,Electronic integrated circuits,H5,15507.894,9.727,True,True,False
+2021,699,IND,India,M,Import,203,CZE,Czechia,False,8542,Electronic integrated circuits,H5,89941.129,56.926,True,True,False
+2021,699,IND,India,M,Import,208,DNK,Denmark,False,8542,Electronic integrated circuits,H5,435833.107,273.738,True,True,False
+2021,699,IND,India,M,Import,233,EST,Estonia,False,8542,Electronic integrated circuits,H5,37523.65,23.652,True,True,False
+2021,699,IND,India,M,Import,246,FIN,Finland,False,8542,Electronic integrated circuits,H5,110945147.914,69875.431,True,True,False
+2021,699,IND,India,M,Import,251,FRA,France,False,8542,Electronic integrated circuits,H5,10686452.849,7418.214,True,True,False
+2021,699,IND,India,M,Import,276,DEU,Germany,False,8542,Electronic integrated circuits,H5,41053029.013,26016.222,True,True,False
+2021,699,IND,India,M,Import,324,GIN,Guinea,False,8542,Electronic integrated circuits,H5,587.905,0.369,True,True,False
+2021,699,IND,India,M,Import,340,HND,Honduras,False,8542,Electronic integrated circuits,H5,117070.533,73.474,True,True,False
+2021,699,IND,India,M,Import,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H5,3627059585.964,2445900.546,True,True,False
+2021,699,IND,India,M,Import,348,HUN,Hungary,False,8542,Electronic integrated circuits,H5,1382088.916,877.551,True,True,False
+2021,699,IND,India,M,Import,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H5,7990467.001,5144.089,True,True,False
+2021,699,IND,India,M,Import,364,IRN,Iran,False,8542,Electronic integrated circuits,H5,13529.223,8.485,True,True,False
+2021,699,IND,India,M,Import,372,IRL,Ireland,False,8542,Electronic integrated circuits,H5,169419201.146,106736.334,True,True,False
+2021,699,IND,India,M,Import,376,ISR,Israel,False,8542,Electronic integrated circuits,H5,101873280.318,64493.981,True,True,False
+2021,699,IND,India,M,Import,380,ITA,Italy,False,8542,Electronic integrated circuits,H5,3499643.517,2201.973,True,True,False
+2021,699,IND,India,M,Import,392,JPN,Japan,False,8542,Electronic integrated circuits,H5,151051098.524,94911.603,True,True,False
+2021,699,IND,India,M,Import,398,KAZ,Kazakhstan,False,8542,Electronic integrated circuits,H5,3262.31,2.058,True,True,False
+2021,699,IND,India,M,Import,400,JOR,Jordan,False,8542,Electronic integrated circuits,H5,263.688,0.165,True,True,False
+2021,699,IND,India,M,Import,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H5,1171979454.968,749785.361,True,True,False
+2021,699,IND,India,M,Import,428,LVA,Latvia,False,8542,Electronic integrated circuits,H5,40377.774,25.344,True,True,False
+2021,699,IND,India,M,Import,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H5,11658.476,7.322,True,True,False
+2021,699,IND,India,M,Import,442,LUX,Luxembourg,False,8542,Electronic integrated circuits,H5,5293.408,3.351,True,True,False
+2021,699,IND,India,M,Import,446,MAC,"China, Macao SAR",False,8542,Electronic integrated circuits,H5,4455014.41,2809.745,True,True,False
+2021,699,IND,India,M,Import,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H5,81950993.371,58380.237,True,True,False
+2021,699,IND,India,M,Import,470,MLT,Malta,False,8542,Electronic integrated circuits,H5,1813971.322,1137.744,True,True,False
+2021,699,IND,India,M,Import,480,MUS,Mauritius,False,8542,Electronic integrated circuits,H5,2056128.299,1301.096,True,True,False
+2021,699,IND,India,M,Import,484,MEX,Mexico,False,8542,Electronic integrated circuits,H5,1513534.544,950.541,True,True,False
+2021,699,IND,India,M,Import,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H5,557586817.089,349985.558,True,True,False
+2021,699,IND,India,M,Import,524,NPL,Nepal,False,8542,Electronic integrated circuits,H5,254.315,0.16,True,True,False
+2021,699,IND,India,M,Import,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H5,28209651.81,17733.393,True,True,False
+2021,699,IND,India,M,Import,531,CUW,Curaçao,False,8542,Electronic integrated circuits,H5,119365.751,74.866,True,True,False
+2021,699,IND,India,M,Import,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H5,89083.665,56.013,True,True,False
+2021,699,IND,India,M,Import,579,NOR,Norway,False,8542,Electronic integrated circuits,H5,67821.345,42.748,True,True,False
+2021,699,IND,India,M,Import,598,PNG,Papua New Guinea,False,8542,Electronic integrated circuits,H5,57.174,0.036,True,True,False
+2021,699,IND,India,M,Import,608,PHL,Philippines,False,8542,Electronic integrated circuits,H5,32827356.225,20640.121,True,True,False
+2021,699,IND,India,M,Import,616,POL,Poland,False,8542,Electronic integrated circuits,H5,135592.982,85.606,True,True,False
+2021,699,IND,India,M,Import,620,PRT,Portugal,False,8542,Electronic integrated circuits,H5,346328.649,217.246,True,True,False
+2021,699,IND,India,M,Import,642,ROU,Romania,False,8542,Electronic integrated circuits,H5,380302.86,239.506,True,True,False
+2021,699,IND,India,M,Import,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H5,214013.898,146.173,True,True,False
+2021,699,IND,India,M,Import,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H5,8899.642,25.0,False,True,False
+2021,699,IND,India,M,Import,688,SRB,Serbia,False,8542,Electronic integrated circuits,H5,37325.441,23.541,True,True,False
+2021,699,IND,India,M,Import,702,SGP,Singapore,False,8542,Electronic integrated circuits,H5,1176140580.823,1071949.824,True,True,False
+2021,699,IND,India,M,Import,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H5,32321.164,20.317,True,True,False
+2021,699,IND,India,M,Import,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H5,166825215.461,105871.369,True,True,False
+2021,699,IND,India,M,Import,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H5,59202.718,37.177,True,True,False
+2021,699,IND,India,M,Import,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H5,20497.914,22.937,True,True,False
+2021,699,IND,India,M,Import,724,ESP,Spain,False,8542,Electronic integrated circuits,H5,1110705.432,729.897,True,True,False
+2021,699,IND,India,M,Import,748,SWZ,Eswatini,False,8542,Electronic integrated circuits,H5,310.258,0.201,True,True,False
+2021,699,IND,India,M,Import,752,SWE,Sweden,False,8542,Electronic integrated circuits,H5,1897404.332,1190.489,True,True,False
+2021,699,IND,India,M,Import,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H5,1309627.832,835.596,True,True,False
+2021,699,IND,India,M,Import,762,TJK,Tajikistan,False,8542,Electronic integrated circuits,H5,30950.972,19.412,True,True,False
+2021,699,IND,India,M,Import,764,THA,Thailand,False,8542,Electronic integrated circuits,H5,54978709.06,40303.469,True,True,False
+2021,699,IND,India,M,Import,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H5,58367795.29,37622.593,True,True,False
+2021,699,IND,India,M,Import,788,TUN,Tunisia,False,8542,Electronic integrated circuits,H5,1021.629,0.644,True,True,False
+2021,699,IND,India,M,Import,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H5,804148.959,539.686,True,True,False
+2021,699,IND,India,M,Import,807,MKD,North Macedonia,False,8542,Electronic integrated circuits,H5,49.64,0.031,True,True,False
+2021,699,IND,India,M,Import,818,EGY,Egypt,False,8542,Electronic integrated circuits,H5,120824.146,75.781,True,True,False
+2021,699,IND,India,M,Import,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H5,17481127.062,11024.423,True,True,False
+2021,699,IND,India,M,Import,842,USA,USA,False,8542,Electronic integrated circuits,H5,265753699.81,167403.79,True,True,False
+2021,699,IND,India,M,Import,858,URY,Uruguay,False,8542,Electronic integrated circuits,H5,3143.458,1.983,True,True,False
+2021,699,IND,India,X,Export,0,W00,World,True,8542,Electronic integrated circuits,H5,380462791.497,0.0,True,True,False
+2021,699,IND,India,X,Export,4,AFG,Afghanistan,False,8542,Electronic integrated circuits,H5,888.317,57.0,False,True,False
+2021,699,IND,India,X,Export,12,DZA,Algeria,False,8542,Electronic integrated circuits,H5,24819.483,0.0,True,True,False
+2021,699,IND,India,X,Export,24,AGO,Angola,False,8542,Electronic integrated circuits,H5,2912.61,2.815,True,True,False
+2021,699,IND,India,X,Export,32,ARG,Argentina,False,8542,Electronic integrated circuits,H5,292.472,0.0,True,True,False
+2021,699,IND,India,X,Export,36,AUS,Australia,False,8542,Electronic integrated circuits,H5,42193.822,31.088,True,True,False
+2021,699,IND,India,X,Export,40,AUT,Austria,False,8542,Electronic integrated circuits,H5,50632.527,51.645,True,True,False
+2021,699,IND,India,X,Export,48,BHR,Bahrain,False,8542,Electronic integrated circuits,H5,20297.433,47.608,True,True,False
+2021,699,IND,India,X,Export,50,BGD,Bangladesh,False,8542,Electronic integrated circuits,H5,171692.701,333.445,True,True,False
+2021,699,IND,India,X,Export,51,ARM,Armenia,False,8542,Electronic integrated circuits,H5,30549.914,0.0,True,True,False
+2021,699,IND,India,X,Export,56,BEL,Belgium,False,8542,Electronic integrated circuits,H5,90796.361,0.0,True,True,False
+2021,699,IND,India,X,Export,64,BTN,Bhutan,False,8542,Electronic integrated circuits,H5,77738.152,111.074,True,True,False
+2021,699,IND,India,X,Export,68,BOL,Bolivia (Plurinational State of),False,8542,Electronic integrated circuits,H5,247.917,0.0,True,True,False
+2021,699,IND,India,X,Export,76,BRA,Brazil,False,8542,Electronic integrated circuits,H5,4507993.04,2832.498,True,True,False
+2021,699,IND,India,X,Export,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H5,13916.593,0.0,True,True,False
+2021,699,IND,India,X,Export,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H5,7013.11,0.0,True,True,False
+2021,699,IND,India,X,Export,112,BLR,Belarus,False,8542,Electronic integrated circuits,H5,3958.991,0.0,True,True,False
+2021,699,IND,India,X,Export,116,KHM,Cambodia,False,8542,Electronic integrated circuits,H5,7688.921,0.0,True,True,False
+2021,699,IND,India,X,Export,120,CMR,Cameroon,False,8542,Electronic integrated circuits,H5,10053.271,0.0,True,True,False
+2021,699,IND,India,X,Export,124,CAN,Canada,False,8542,Electronic integrated circuits,H5,397196.19,374.015,True,True,False
+2021,699,IND,India,X,Export,136,CYM,Cayman Isds,False,8542,Electronic integrated circuits,H5,1085.863,10.0,False,True,False
+2021,699,IND,India,X,Export,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H5,147415.934,211.406,True,True,False
+2021,699,IND,India,X,Export,152,CHL,Chile,False,8542,Electronic integrated circuits,H5,10900.901,0.0,True,True,False
+2021,699,IND,India,X,Export,156,CHN,China,False,8542,Electronic integrated circuits,H5,27210434.847,35676.476,True,True,False
+2021,699,IND,India,X,Export,170,COL,Colombia,False,8542,Electronic integrated circuits,H5,48216.928,43.494,True,True,False
+2021,699,IND,India,X,Export,180,COD,Dem. Rep. of the Congo,False,8542,Electronic integrated circuits,H5,6091.073,54.158,True,True,False
+2021,699,IND,India,X,Export,192,CUB,Cuba,False,8542,Electronic integrated circuits,H5,291.498,1.0,False,True,False
+2021,699,IND,India,X,Export,196,CYP,Cyprus,False,8542,Electronic integrated circuits,H5,12500.169,388.0,False,True,False
+2021,699,IND,India,X,Export,203,CZE,Czechia,False,8542,Electronic integrated circuits,H5,48700.832,0.0,True,True,False
+2021,699,IND,India,X,Export,208,DNK,Denmark,False,8542,Electronic integrated circuits,H5,11463.716,9.411,True,True,False
+2021,699,IND,India,X,Export,214,DOM,Dominican Rep.,False,8542,Electronic integrated circuits,H5,527.16,0.0,True,True,False
+2021,699,IND,India,X,Export,218,ECU,Ecuador,False,8542,Electronic integrated circuits,H5,4915.52,0.0,True,True,False
+2021,699,IND,India,X,Export,231,ETH,Ethiopia,False,8542,Electronic integrated circuits,H5,266.651,20.083,True,True,False
+2021,699,IND,India,X,Export,233,EST,Estonia,False,8542,Electronic integrated circuits,H5,29671.051,3387.844,True,True,False
+2021,699,IND,India,X,Export,242,FJI,Fiji,False,8542,Electronic integrated circuits,H5,879.701,0.0,True,True,False
+2021,699,IND,India,X,Export,246,FIN,Finland,False,8542,Electronic integrated circuits,H5,1097235.925,784.101,True,True,False
+2021,699,IND,India,X,Export,251,FRA,France,False,8542,Electronic integrated circuits,H5,1521088.314,1691.201,True,True,False
+2021,699,IND,India,X,Export,262,DJI,Djibouti,False,8542,Electronic integrated circuits,H5,55.903,15.0,False,True,False
+2021,699,IND,India,X,Export,268,GEO,Georgia,False,8542,Electronic integrated circuits,H5,7031.019,50.692,True,True,False
+2021,699,IND,India,X,Export,276,DEU,Germany,False,8542,Electronic integrated circuits,H5,2001850.068,1833.42,True,True,False
+2021,699,IND,India,X,Export,288,GHA,Ghana,False,8542,Electronic integrated circuits,H5,36891.19,37.628,True,True,False
+2021,699,IND,India,X,Export,300,GRC,Greece,False,8542,Electronic integrated circuits,H5,214484.574,258.855,True,True,False
+2021,699,IND,India,X,Export,320,GTM,Guatemala,False,8542,Electronic integrated circuits,H5,2714.78,0.0,True,True,False
+2021,699,IND,India,X,Export,324,GIN,Guinea,False,8542,Electronic integrated circuits,H5,25728.264,2012.917,True,True,False
+2021,699,IND,India,X,Export,340,HND,Honduras,False,8542,Electronic integrated circuits,H5,3344.115,8.0,False,True,False
+2021,699,IND,India,X,Export,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H5,64018319.186,4332267.593,True,True,False
+2021,699,IND,India,X,Export,348,HUN,Hungary,False,8542,Electronic integrated circuits,H5,2324974.937,1803.852,True,True,False
+2021,699,IND,India,X,Export,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H5,4792154.638,3071.647,True,True,False
+2021,699,IND,India,X,Export,368,IRQ,Iraq,False,8542,Electronic integrated circuits,H5,1811.003,0.0,True,True,False
+2021,699,IND,India,X,Export,372,IRL,Ireland,False,8542,Electronic integrated circuits,H5,5065431.214,0.0,True,True,False
+2021,699,IND,India,X,Export,376,ISR,Israel,False,8542,Electronic integrated circuits,H5,12461434.809,8209.062,True,True,False
+2021,699,IND,India,X,Export,380,ITA,Italy,False,8542,Electronic integrated circuits,H5,667380.315,10714.126,True,True,False
+2021,699,IND,India,X,Export,384,CIV,Côte d'Ivoire,False,8542,Electronic integrated circuits,H5,142.469,0.0,True,True,False
+2021,699,IND,India,X,Export,392,JPN,Japan,False,8542,Electronic integrated circuits,H5,574738.581,426.813,True,True,False
+2021,699,IND,India,X,Export,400,JOR,Jordan,False,8542,Electronic integrated circuits,H5,2062.477,13.009,True,True,False
+2021,699,IND,India,X,Export,404,KEN,Kenya,False,8542,Electronic integrated circuits,H5,55138.995,40.763,True,True,False
+2021,699,IND,India,X,Export,408,PRK,Dem. People's Rep. of Korea,False,8542,Electronic integrated circuits,H5,4.91,0.0,True,True,False
+2021,699,IND,India,X,Export,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H5,6764150.175,4912.354,True,True,False
+2021,699,IND,India,X,Export,414,KWT,Kuwait,False,8542,Electronic integrated circuits,H5,12790.788,2821.954,True,True,False
+2021,699,IND,India,X,Export,418,LAO,Lao People's Dem. Rep.,False,8542,Electronic integrated circuits,H5,1740.195,3.772,True,True,False
+2021,699,IND,India,X,Export,422,LBN,Lebanon,False,8542,Electronic integrated circuits,H5,14405.921,39.652,True,True,False
+2021,699,IND,India,X,Export,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H5,97264776.66,51817.489,True,True,False
+2021,699,IND,India,X,Export,450,MDG,Madagascar,False,8542,Electronic integrated circuits,H5,4224.465,9.835,True,True,False
+2021,699,IND,India,X,Export,454,MWI,Malawi,False,8542,Electronic integrated circuits,H5,2922.295,12.392,True,True,False
+2021,699,IND,India,X,Export,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H5,2819753.958,2091.447,True,True,False
+2021,699,IND,India,X,Export,462,MDV,Maldives,False,8542,Electronic integrated circuits,H5,8452.826,6.457,True,True,False
+2021,699,IND,India,X,Export,466,MLI,Mali,False,8542,Electronic integrated circuits,H5,40080.663,0.0,True,True,False
+2021,699,IND,India,X,Export,480,MUS,Mauritius,False,8542,Electronic integrated circuits,H5,9048.063,0.0,True,True,False
+2021,699,IND,India,X,Export,484,MEX,Mexico,False,8542,Electronic integrated circuits,H5,1858416.377,1203.326,True,True,False
+2021,699,IND,India,X,Export,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H5,2638399.062,1945.057,True,True,False
+2021,699,IND,India,X,Export,504,MAR,Morocco,False,8542,Electronic integrated circuits,H5,11286.404,18.343,True,True,False
+2021,699,IND,India,X,Export,508,MOZ,Mozambique,False,8542,Electronic integrated circuits,H5,8147.126,0.0,True,True,False
+2021,699,IND,India,X,Export,512,OMN,Oman,False,8542,Electronic integrated circuits,H5,11935.312,9.15,True,True,False
+2021,699,IND,India,X,Export,516,NAM,Namibia,False,8542,Electronic integrated circuits,H5,34.18,29.343,True,True,False
+2021,699,IND,India,X,Export,524,NPL,Nepal,False,8542,Electronic integrated circuits,H5,274506.423,34918.275,True,True,False
+2021,699,IND,India,X,Export,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H5,1319963.362,824.561,True,True,False
+2021,699,IND,India,X,Export,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H5,24268.773,0.0,True,True,False
+2021,699,IND,India,X,Export,562,NER,Niger,False,8542,Electronic integrated circuits,H5,2704.947,0.0,True,True,False
+2021,699,IND,India,X,Export,566,NGA,Nigeria,False,8542,Electronic integrated circuits,H5,83961.794,880.248,True,True,False
+2021,699,IND,India,X,Export,579,NOR,Norway,False,8542,Electronic integrated circuits,H5,2179.112,0.0,True,True,False
+2021,699,IND,India,X,Export,586,PAK,Pakistan,False,8542,Electronic integrated circuits,H5,266.042,2.0,False,True,False
+2021,699,IND,India,X,Export,604,PER,Peru,False,8542,Electronic integrated circuits,H5,1304.023,1.23,True,True,False
+2021,699,IND,India,X,Export,608,PHL,Philippines,False,8542,Electronic integrated circuits,H5,854313.285,663.018,True,True,False
+2021,699,IND,India,X,Export,616,POL,Poland,False,8542,Electronic integrated circuits,H5,149708.109,60135.566,True,True,False
+2021,699,IND,India,X,Export,620,PRT,Portugal,False,8542,Electronic integrated circuits,H5,178209.328,143.972,True,True,False
+2021,699,IND,India,X,Export,634,QAT,Qatar,False,8542,Electronic integrated circuits,H5,80487.626,193.565,True,True,False
+2021,699,IND,India,X,Export,642,ROU,Romania,False,8542,Electronic integrated circuits,H5,173395.943,106.456,True,True,False
+2021,699,IND,India,X,Export,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H5,116324.441,138.851,True,True,False
+2021,699,IND,India,X,Export,646,RWA,Rwanda,False,8542,Electronic integrated circuits,H5,2808.434,2.368,True,True,False
+2021,699,IND,India,X,Export,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H5,674312.891,1036.094,True,True,False
+2021,699,IND,India,X,Export,686,SEN,Senegal,False,8542,Electronic integrated circuits,H5,10650.806,0.0,True,True,False
+2021,699,IND,India,X,Export,690,SYC,Seychelles,False,8542,Electronic integrated circuits,H5,7.182,0.0,True,True,False
+2021,699,IND,India,X,Export,694,SLE,Sierra Leone,False,8542,Electronic integrated circuits,H5,173.2,0.0,True,True,False
+2021,699,IND,India,X,Export,702,SGP,Singapore,False,8542,Electronic integrated circuits,H5,7868615.545,6659.865,True,True,False
+2021,699,IND,India,X,Export,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H5,12533.159,0.0,True,True,False
+2021,699,IND,India,X,Export,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H5,63217657.704,49940.578,True,True,False
+2021,699,IND,India,X,Export,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H5,86565.214,0.0,True,True,False
+2021,699,IND,India,X,Export,706,SOM,Somalia,False,8542,Electronic integrated circuits,H5,49.681,0.0,True,True,False
+2021,699,IND,India,X,Export,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H5,63511.206,45.732,True,True,False
+2021,699,IND,India,X,Export,716,ZWE,Zimbabwe,False,8542,Electronic integrated circuits,H5,347.576,0.0,True,True,False
+2021,699,IND,India,X,Export,724,ESP,Spain,False,8542,Electronic integrated circuits,H5,136714.798,101.977,True,True,False
+2021,699,IND,India,X,Export,729,SDN,Sudan,False,8542,Electronic integrated circuits,H5,10184.283,0.0,True,True,False
+2021,699,IND,India,X,Export,752,SWE,Sweden,False,8542,Electronic integrated circuits,H5,333277.704,241.282,True,True,False
+2021,699,IND,India,X,Export,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H5,162294.154,111.628,True,True,False
+2021,699,IND,India,X,Export,764,THA,Thailand,False,8542,Electronic integrated circuits,H5,1042380.285,741.697,True,True,False
+2021,699,IND,India,X,Export,768,TGO,Togo,False,8542,Electronic integrated circuits,H5,8425.707,0.0,True,True,False
+2021,699,IND,India,X,Export,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H5,49056552.573,37070.97,True,True,False
+2021,699,IND,India,X,Export,788,TUN,Tunisia,False,8542,Electronic integrated circuits,H5,137622.01,0.0,True,True,False
+2021,699,IND,India,X,Export,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H5,1848564.332,1251.985,True,True,False
+2021,699,IND,India,X,Export,800,UGA,Uganda,False,8542,Electronic integrated circuits,H5,20674.022,243.916,True,True,False
+2021,699,IND,India,X,Export,804,UKR,Ukraine,False,8542,Electronic integrated circuits,H5,627.699,5.196,True,True,False
+2021,699,IND,India,X,Export,818,EGY,Egypt,False,8542,Electronic integrated circuits,H5,1121902.335,841.936,True,True,False
+2021,699,IND,India,X,Export,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H5,3572408.665,18890.593,True,True,False
+2021,699,IND,India,X,Export,834,TZA,United Rep. of Tanzania,False,8542,Electronic integrated circuits,H5,46837.7,136.973,True,True,False
+2021,699,IND,India,X,Export,842,USA,USA,False,8542,Electronic integrated circuits,H5,8395551.051,202692.765,True,True,False
+2021,699,IND,India,X,Export,858,URY,Uruguay,False,8542,Electronic integrated circuits,H5,23087.431,161.618,True,True,False
+2021,699,IND,India,X,Export,860,UZB,Uzbekistan,False,8542,Electronic integrated circuits,H5,2947.426,28.16,True,True,False
+2021,699,IND,India,X,Export,887,YEM,Yemen,False,8542,Electronic integrated circuits,H5,431.897,100.125,True,True,False
+2021,699,IND,India,X,Export,894,ZMB,Zambia,False,8542,Electronic integrated circuits,H5,4655.794,8.865,True,True,False
+2022,699,IND,India,M,Import,0,W00,World,True,8542,Electronic integrated circuits,H6,16122209275.129,,False,True,False
+2022,699,IND,India,M,Import,28,ATG,Antigua and Barbuda,False,8542,Electronic integrated circuits,H6,28737.952,,False,True,False
+2022,699,IND,India,M,Import,31,AZE,Azerbaijan,False,8542,Electronic integrated circuits,H6,3974.835,,False,True,False
+2022,699,IND,India,M,Import,36,AUS,Australia,False,8542,Electronic integrated circuits,H6,397907.543,268.047,True,True,False
+2022,699,IND,India,M,Import,40,AUT,Austria,False,8542,Electronic integrated circuits,H6,1281175.416,694.024,True,True,False
+2022,699,IND,India,M,Import,56,BEL,Belgium,False,8542,Electronic integrated circuits,H6,3683323.26,1983.99,True,True,False
+2022,699,IND,India,M,Import,60,BMU,Bermuda,False,8542,Electronic integrated circuits,H6,49597.714,,False,True,False
+2022,699,IND,India,M,Import,76,BRA,Brazil,False,8542,Electronic integrated circuits,H6,6180911.248,3037.057,True,True,False
+2022,699,IND,India,M,Import,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H6,172608.359,,False,True,False
+2022,699,IND,India,M,Import,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H6,2225.42,,False,True,False
+2022,699,IND,India,M,Import,112,BLR,Belarus,False,8542,Electronic integrated circuits,H6,484759.46,256.148,True,True,False
+2022,699,IND,India,M,Import,116,KHM,Cambodia,False,8542,Electronic integrated circuits,H6,370440.114,,False,True,False
+2022,699,IND,India,M,Import,120,CMR,Cameroon,False,8542,Electronic integrated circuits,H6,30954.491,,False,True,False
+2022,699,IND,India,M,Import,124,CAN,Canada,False,8542,Electronic integrated circuits,H6,3204601.743,1673.065,True,True,False
+2022,699,IND,India,M,Import,136,CYM,Cayman Isds,False,8542,Electronic integrated circuits,H6,41.86,,False,True,False
+2022,699,IND,India,M,Import,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H6,21773.027,9.785,True,True,False
+2022,699,IND,India,M,Import,148,TCD,Chad,False,8542,Electronic integrated circuits,H6,18761.078,,False,True,False
+2022,699,IND,India,M,Import,152,CHL,Chile,False,8542,Electronic integrated circuits,H6,9254.445,,False,True,False
+2022,699,IND,India,M,Import,156,CHN,China,False,8542,Electronic integrated circuits,H6,5058281968.096,2776963.97,True,True,False
+2022,699,IND,India,M,Import,170,COL,Colombia,False,8542,Electronic integrated circuits,H6,39015.44,,False,True,False
+2022,699,IND,India,M,Import,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H6,36769.383,,False,True,False
+2022,699,IND,India,M,Import,191,HRV,Croatia,False,8542,Electronic integrated circuits,H6,2328.008,,False,True,False
+2022,699,IND,India,M,Import,203,CZE,Czechia,False,8542,Electronic integrated circuits,H6,2116352.867,2189.354,True,True,False
+2022,699,IND,India,M,Import,208,DNK,Denmark,False,8542,Electronic integrated circuits,H6,2002873.666,954.962,True,True,False
+2022,699,IND,India,M,Import,233,EST,Estonia,False,8542,Electronic integrated circuits,H6,62852.682,,False,True,False
+2022,699,IND,India,M,Import,246,FIN,Finland,False,8542,Electronic integrated circuits,H6,194931851.318,96608.44,True,True,False
+2022,699,IND,India,M,Import,251,FRA,France,False,8542,Electronic integrated circuits,H6,16834080.018,639487.601,True,True,False
+2022,699,IND,India,M,Import,276,DEU,Germany,False,8542,Electronic integrated circuits,H6,70553693.221,38306.859,True,True,False
+2022,699,IND,India,M,Import,340,HND,Honduras,False,8542,Electronic integrated circuits,H6,23823.998,,False,True,False
+2022,699,IND,India,M,Import,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H6,3967642868.582,2137265.022,True,True,False
+2022,699,IND,India,M,Import,348,HUN,Hungary,False,8542,Electronic integrated circuits,H6,4099065.548,2127.59,True,True,False
+2022,699,IND,India,M,Import,352,ISL,Iceland,False,8542,Electronic integrated circuits,H6,457.059,,False,True,False
+2022,699,IND,India,M,Import,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H6,7848485.486,4034.777,True,True,False
+2022,699,IND,India,M,Import,364,IRN,Iran,False,8542,Electronic integrated circuits,H6,1737.825,,False,True,False
+2022,699,IND,India,M,Import,372,IRL,Ireland,False,8542,Electronic integrated circuits,H6,765650935.445,409773.099,True,True,False
+2022,699,IND,India,M,Import,376,ISR,Israel,False,8542,Electronic integrated circuits,H6,93418235.969,48438.327,True,True,False
+2022,699,IND,India,M,Import,380,ITA,Italy,False,8542,Electronic integrated circuits,H6,1898595.598,1087.235,True,True,False
+2022,699,IND,India,M,Import,388,JAM,Jamaica,False,8542,Electronic integrated circuits,H6,38264.778,,False,True,False
+2022,699,IND,India,M,Import,392,JPN,Japan,False,8542,Electronic integrated circuits,H6,215051257.252,112517.46,True,True,False
+2022,699,IND,India,M,Import,408,PRK,Dem. People's Rep. of Korea,False,8542,Electronic integrated circuits,H6,74.966,,False,True,False
+2022,699,IND,India,M,Import,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H6,2253127473.775,1102062.417,True,True,False
+2022,699,IND,India,M,Import,428,LVA,Latvia,False,8542,Electronic integrated circuits,H6,73787.557,,False,True,False
+2022,699,IND,India,M,Import,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H6,121254.232,,False,True,False
+2022,699,IND,India,M,Import,442,LUX,Luxembourg,False,8542,Electronic integrated circuits,H6,17953.123,65.31,True,True,False
+2022,699,IND,India,M,Import,446,MAC,"China, Macao SAR",False,8542,Electronic integrated circuits,H6,1062738.239,,False,True,False
+2022,699,IND,India,M,Import,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H6,86362650.533,46090.552,True,True,False
+2022,699,IND,India,M,Import,470,MLT,Malta,False,8542,Electronic integrated circuits,H6,4290694.936,,False,True,False
+2022,699,IND,India,M,Import,480,MUS,Mauritius,False,8542,Electronic integrated circuits,H6,1358382.538,684.571,True,True,False
+2022,699,IND,India,M,Import,484,MEX,Mexico,False,8542,Electronic integrated circuits,H6,3752824.833,1952.043,True,True,False
+2022,699,IND,India,M,Import,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H6,1012992953.81,544484.492,True,True,False
+2022,699,IND,India,M,Import,498,MDA,Rep. of Moldova,False,8542,Electronic integrated circuits,H6,1696.945,,False,True,False
+2022,699,IND,India,M,Import,504,MAR,Morocco,False,8542,Electronic integrated circuits,H6,9830.263,,False,True,False
+2022,699,IND,India,M,Import,512,OMN,Oman,False,8542,Electronic integrated circuits,H6,41462202.178,,False,True,False
+2022,699,IND,India,M,Import,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H6,70678309.242,38018.024,True,True,False
+2022,699,IND,India,M,Import,531,CUW,Curaçao,False,8542,Electronic integrated circuits,H6,23803.717,,False,True,False
+2022,699,IND,India,M,Import,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H6,58267.51,,False,True,False
+2022,699,IND,India,M,Import,570,NIU,Niue,False,8542,Electronic integrated circuits,H6,1114.052,,False,True,False
+2022,699,IND,India,M,Import,579,NOR,Norway,False,8542,Electronic integrated circuits,H6,370761.262,,False,True,False
+2022,699,IND,India,M,Import,584,MHL,Marshall Isds,False,8542,Electronic integrated circuits,H6,56809.293,,False,True,False
+2022,699,IND,India,M,Import,604,PER,Peru,False,8542,Electronic integrated circuits,H6,240.598,,False,True,False
+2022,699,IND,India,M,Import,608,PHL,Philippines,False,8542,Electronic integrated circuits,H6,62101026.592,33005.504,True,True,False
+2022,699,IND,India,M,Import,616,POL,Poland,False,8542,Electronic integrated circuits,H6,386849.786,204.25,True,True,False
+2022,699,IND,India,M,Import,620,PRT,Portugal,False,8542,Electronic integrated circuits,H6,312176.064,,False,True,False
+2022,699,IND,India,M,Import,634,QAT,Qatar,False,8542,Electronic integrated circuits,H6,188219.339,78.172,True,True,False
+2022,699,IND,India,M,Import,642,ROU,Romania,False,8542,Electronic integrated circuits,H6,1654049.116,875.471,True,True,False
+2022,699,IND,India,M,Import,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H6,37334.59,,False,True,False
+2022,699,IND,India,M,Import,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H6,8.639,,False,True,False
+2022,699,IND,India,M,Import,686,SEN,Senegal,False,8542,Electronic integrated circuits,H6,39253.174,20.15,True,True,False
+2022,699,IND,India,M,Import,702,SGP,Singapore,False,8542,Electronic integrated circuits,H6,1556333570.883,842710.293,True,True,False
+2022,699,IND,India,M,Import,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H6,44816.679,,False,True,False
+2022,699,IND,India,M,Import,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H6,138715000.996,66483.339,True,True,False
+2022,699,IND,India,M,Import,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H6,157601.609,,False,True,False
+2022,699,IND,India,M,Import,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H6,12358.867,61.115,True,True,False
+2022,699,IND,India,M,Import,724,ESP,Spain,False,8542,Electronic integrated circuits,H6,278809.833,652.146,True,True,False
+2022,699,IND,India,M,Import,748,SWZ,Eswatini,False,8542,Electronic integrated circuits,H6,98879.648,,False,True,False
+2022,699,IND,India,M,Import,752,SWE,Sweden,False,8542,Electronic integrated circuits,H6,4259536.477,2323.34,True,True,False
+2022,699,IND,India,M,Import,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H6,1456166.684,784.211,True,True,False
+2022,699,IND,India,M,Import,764,THA,Thailand,False,8542,Electronic integrated circuits,H6,56054340.433,34450.447,True,True,False
+2022,699,IND,India,M,Import,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H6,51673766.401,28312.148,True,True,False
+2022,699,IND,India,M,Import,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H6,1443225.103,1818.791,True,True,False
+2022,699,IND,India,M,Import,804,UKR,Ukraine,False,8542,Electronic integrated circuits,H6,25713.967,12.149,True,True,False
+2022,699,IND,India,M,Import,807,MKD,North Macedonia,False,8542,Electronic integrated circuits,H6,11012.449,,False,True,False
+2022,699,IND,India,M,Import,818,EGY,Egypt,False,8542,Electronic integrated circuits,H6,422284.469,,False,True,False
+2022,699,IND,India,M,Import,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H6,51244839.771,27844.556,True,True,False
+2022,699,IND,India,M,Import,842,USA,USA,False,8542,Electronic integrated circuits,H6,297135548.05,155837.1,True,True,False
+2022,699,IND,India,M,Import,882,WSM,Samoa,False,8542,Electronic integrated circuits,H6,5707812.336,,False,True,False
+2022,699,IND,India,M,Import,899,_X ,"Areas, nes",False,8542,Electronic integrated circuits,H6,114689.366,,False,True,False
+2022,699,IND,India,X,Export,0,W00,World,True,8542,Electronic integrated circuits,H6,476192970.411,,False,True,False
+2022,699,IND,India,X,Export,8,ALB,Albania,False,8542,Electronic integrated circuits,H6,2199.502,24.496,True,True,False
+2022,699,IND,India,X,Export,12,DZA,Algeria,False,8542,Electronic integrated circuits,H6,703301.236,,False,True,False
+2022,699,IND,India,X,Export,24,AGO,Angola,False,8542,Electronic integrated circuits,H6,2950.877,,False,True,False
+2022,699,IND,India,X,Export,32,ARG,Argentina,False,8542,Electronic integrated circuits,H6,9845.989,,False,True,False
+2022,699,IND,India,X,Export,36,AUS,Australia,False,8542,Electronic integrated circuits,H6,95634.519,89.486,True,True,False
+2022,699,IND,India,X,Export,40,AUT,Austria,False,8542,Electronic integrated circuits,H6,317167.72,,False,True,False
+2022,699,IND,India,X,Export,48,BHR,Bahrain,False,8542,Electronic integrated circuits,H6,41190.335,66.576,True,True,False
+2022,699,IND,India,X,Export,50,BGD,Bangladesh,False,8542,Electronic integrated circuits,H6,136292.995,772.284,True,True,False
+2022,699,IND,India,X,Export,56,BEL,Belgium,False,8542,Electronic integrated circuits,H6,44704.371,97.777,True,True,False
+2022,699,IND,India,X,Export,64,BTN,Bhutan,False,8542,Electronic integrated circuits,H6,34346.23,80.167,True,True,False
+2022,699,IND,India,X,Export,68,BOL,Bolivia (Plurinational State of),False,8542,Electronic integrated circuits,H6,70.678,,False,True,False
+2022,699,IND,India,X,Export,72,BWA,Botswana,False,8542,Electronic integrated circuits,H6,1047.357,30.905,True,True,False
+2022,699,IND,India,X,Export,76,BRA,Brazil,False,8542,Electronic integrated circuits,H6,4384643.986,3726.841,True,True,False
+2022,699,IND,India,X,Export,84,BLZ,Belize,False,8542,Electronic integrated circuits,H6,25.039,6.644,True,True,False
+2022,699,IND,India,X,Export,92,VGB,Br. Virgin Isds,False,8542,Electronic integrated circuits,H6,280.371,,False,True,False
+2022,699,IND,India,X,Export,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H6,27130.516,15.211,True,True,False
+2022,699,IND,India,X,Export,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H6,7603.826,78.758,True,True,False
+2022,699,IND,India,X,Export,112,BLR,Belarus,False,8542,Electronic integrated circuits,H6,41329.07,,False,True,False
+2022,699,IND,India,X,Export,120,CMR,Cameroon,False,8542,Electronic integrated circuits,H6,1930.112,,False,True,False
+2022,699,IND,India,X,Export,124,CAN,Canada,False,8542,Electronic integrated circuits,H6,595066.133,994.53,True,True,False
+2022,699,IND,India,X,Export,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H6,63028.9,63.961,True,True,False
+2022,699,IND,India,X,Export,152,CHL,Chile,False,8542,Electronic integrated circuits,H6,7757.46,,False,True,False
+2022,699,IND,India,X,Export,156,CHN,China,False,8542,Electronic integrated circuits,H6,18472769.846,785094.463,True,True,False
+2022,699,IND,India,X,Export,170,COL,Colombia,False,8542,Electronic integrated circuits,H6,194407.342,122.363,True,True,False
+2022,699,IND,India,X,Export,178,COG,Congo,False,8542,Electronic integrated circuits,H6,3860.745,22.47,True,True,False
+2022,699,IND,India,X,Export,180,COD,Dem. Rep. of the Congo,False,8542,Electronic integrated circuits,H6,1187.644,,False,True,False
+2022,699,IND,India,X,Export,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H6,35913.575,,False,True,False
+2022,699,IND,India,X,Export,191,HRV,Croatia,False,8542,Electronic integrated circuits,H6,1488.69,395.026,True,True,False
+2022,699,IND,India,X,Export,192,CUB,Cuba,False,8542,Electronic integrated circuits,H6,609.433,9.0,False,True,False
+2022,699,IND,India,X,Export,196,CYP,Cyprus,False,8542,Electronic integrated circuits,H6,611.227,,False,True,False
+2022,699,IND,India,X,Export,203,CZE,Czechia,False,8542,Electronic integrated circuits,H6,111831.204,64.11,True,True,False
+2022,699,IND,India,X,Export,204,BEN,Benin,False,8542,Electronic integrated circuits,H6,45.091,11.965,True,True,False
+2022,699,IND,India,X,Export,208,DNK,Denmark,False,8542,Electronic integrated circuits,H6,260896.852,,False,True,False
+2022,699,IND,India,X,Export,214,DOM,Dominican Rep.,False,8542,Electronic integrated circuits,H6,599.624,,False,True,False
+2022,699,IND,India,X,Export,218,ECU,Ecuador,False,8542,Electronic integrated circuits,H6,1686.194,,False,True,False
+2022,699,IND,India,X,Export,222,SLV,El Salvador,False,8542,Electronic integrated circuits,H6,1334.801,,False,True,False
+2022,699,IND,India,X,Export,231,ETH,Ethiopia,False,8542,Electronic integrated circuits,H6,13678.883,,False,True,False
+2022,699,IND,India,X,Export,232,ERI,Eritrea,False,8542,Electronic integrated circuits,H6,15781.981,,False,True,False
+2022,699,IND,India,X,Export,233,EST,Estonia,False,8542,Electronic integrated circuits,H6,21720.772,,False,True,False
+2022,699,IND,India,X,Export,242,FJI,Fiji,False,8542,Electronic integrated circuits,H6,82.142,,False,True,False
+2022,699,IND,India,X,Export,246,FIN,Finland,False,8542,Electronic integrated circuits,H6,1436872.385,808.397,True,True,False
+2022,699,IND,India,X,Export,251,FRA,France,False,8542,Electronic integrated circuits,H6,3429180.19,1956.107,True,True,False
+2022,699,IND,India,X,Export,262,DJI,Djibouti,False,8542,Electronic integrated circuits,H6,1578.135,1.132,True,True,False
+2022,699,IND,India,X,Export,270,GMB,Gambia,False,8542,Electronic integrated circuits,H6,245.203,,False,True,False
+2022,699,IND,India,X,Export,276,DEU,Germany,False,8542,Electronic integrated circuits,H6,5810810.682,4052.431,True,True,False
+2022,699,IND,India,X,Export,288,GHA,Ghana,False,8542,Electronic integrated circuits,H6,25096.391,71.344,True,True,False
+2022,699,IND,India,X,Export,300,GRC,Greece,False,8542,Electronic integrated circuits,H6,369421.143,,False,True,False
+2022,699,IND,India,X,Export,320,GTM,Guatemala,False,8542,Electronic integrated circuits,H6,6599.321,1.98,True,True,False
+2022,699,IND,India,X,Export,324,GIN,Guinea,False,8542,Electronic integrated circuits,H6,15750.517,,False,True,False
+2022,699,IND,India,X,Export,328,GUY,Guyana,False,8542,Electronic integrated circuits,H6,210.545,1.0,False,True,False
+2022,699,IND,India,X,Export,332,HTI,Haiti,False,8542,Electronic integrated circuits,H6,2783.922,,False,True,False
+2022,699,IND,India,X,Export,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H6,85624853.327,51623.657,True,True,False
+2022,699,IND,India,X,Export,348,HUN,Hungary,False,8542,Electronic integrated circuits,H6,3448966.512,2159.641,True,True,False
+2022,699,IND,India,X,Export,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H6,5730892.224,3108.571,True,True,False
+2022,699,IND,India,X,Export,368,IRQ,Iraq,False,8542,Electronic integrated circuits,H6,2236.464,,False,True,False
+2022,699,IND,India,X,Export,372,IRL,Ireland,False,8542,Electronic integrated circuits,H6,5312225.32,2367.695,True,True,False
+2022,699,IND,India,X,Export,376,ISR,Israel,False,8542,Electronic integrated circuits,H6,1487559.9,911.731,True,True,False
+2022,699,IND,India,X,Export,380,ITA,Italy,False,8542,Electronic integrated circuits,H6,856661.443,70994.545,True,True,False
+2022,699,IND,India,X,Export,384,CIV,Côte d'Ivoire,False,8542,Electronic integrated circuits,H6,7220.702,,False,True,False
+2022,699,IND,India,X,Export,392,JPN,Japan,False,8542,Electronic integrated circuits,H6,2374823.246,1572.233,True,True,False
+2022,699,IND,India,X,Export,398,KAZ,Kazakhstan,False,8542,Electronic integrated circuits,H6,2090.222,,False,True,False
+2022,699,IND,India,X,Export,400,JOR,Jordan,False,8542,Electronic integrated circuits,H6,2750.243,,False,True,False
+2022,699,IND,India,X,Export,404,KEN,Kenya,False,8542,Electronic integrated circuits,H6,67885.142,184.509,True,True,False
+2022,699,IND,India,X,Export,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H6,7852773.531,6051.314,True,True,False
+2022,699,IND,India,X,Export,414,KWT,Kuwait,False,8542,Electronic integrated circuits,H6,19909.369,906.377,True,True,False
+2022,699,IND,India,X,Export,418,LAO,Lao People's Dem. Rep.,False,8542,Electronic integrated circuits,H6,85.144,,False,True,False
+2022,699,IND,India,X,Export,422,LBN,Lebanon,False,8542,Electronic integrated circuits,H6,198387.457,138.537,True,True,False
+2022,699,IND,India,X,Export,428,LVA,Latvia,False,8542,Electronic integrated circuits,H6,35797.323,,False,True,False
+2022,699,IND,India,X,Export,434,LBY,Libya,False,8542,Electronic integrated circuits,H6,757.902,170.473,True,True,False
+2022,699,IND,India,X,Export,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H6,94814122.012,42422.295,True,True,False
+2022,699,IND,India,X,Export,442,LUX,Luxembourg,False,8542,Electronic integrated circuits,H6,887.908,,False,True,False
+2022,699,IND,India,X,Export,454,MWI,Malawi,False,8542,Electronic integrated circuits,H6,1574.394,1.23,True,True,False
+2022,699,IND,India,X,Export,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H6,1065556.539,686.283,True,True,False
+2022,699,IND,India,X,Export,462,MDV,Maldives,False,8542,Electronic integrated circuits,H6,22183.646,13.793,True,True,False
+2022,699,IND,India,X,Export,470,MLT,Malta,False,8542,Electronic integrated circuits,H6,20934.981,,False,True,False
+2022,699,IND,India,X,Export,480,MUS,Mauritius,False,8542,Electronic integrated circuits,H6,6892.402,19.742,True,True,False
+2022,699,IND,India,X,Export,484,MEX,Mexico,False,8542,Electronic integrated circuits,H6,5531043.318,2666.436,True,True,False
+2022,699,IND,India,X,Export,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H6,4987263.51,3429.657,True,True,False
+2022,699,IND,India,X,Export,496,MNG,Mongolia,False,8542,Electronic integrated circuits,H6,1130.872,,False,True,False
+2022,699,IND,India,X,Export,504,MAR,Morocco,False,8542,Electronic integrated circuits,H6,2066.264,,False,True,False
+2022,699,IND,India,X,Export,508,MOZ,Mozambique,False,8542,Electronic integrated circuits,H6,11842.542,54.099,True,True,False
+2022,699,IND,India,X,Export,512,OMN,Oman,False,8542,Electronic integrated circuits,H6,37782386.528,24756.04,True,True,False
+2022,699,IND,India,X,Export,516,NAM,Namibia,False,8542,Electronic integrated circuits,H6,31.643,4.003,True,True,False
+2022,699,IND,India,X,Export,524,NPL,Nepal,False,8542,Electronic integrated circuits,H6,258115.933,7926.765,True,True,False
+2022,699,IND,India,X,Export,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H6,17613772.595,7861.749,True,True,False
+2022,699,IND,India,X,Export,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H6,57386.078,37.839,True,True,False
+2022,699,IND,India,X,Export,566,NGA,Nigeria,False,8542,Electronic integrated circuits,H6,59456.464,849.16,True,True,False
+2022,699,IND,India,X,Export,579,NOR,Norway,False,8542,Electronic integrated circuits,H6,539990.237,,False,True,False
+2022,699,IND,India,X,Export,591,PAN,Panama,False,8542,Electronic integrated circuits,H6,652.489,65.5,True,True,False
+2022,699,IND,India,X,Export,600,PRY,Paraguay,False,8542,Electronic integrated circuits,H6,835.056,,False,True,False
+2022,699,IND,India,X,Export,604,PER,Peru,False,8542,Electronic integrated circuits,H6,3808.262,,False,True,False
+2022,699,IND,India,X,Export,608,PHL,Philippines,False,8542,Electronic integrated circuits,H6,163992.929,,False,True,False
+2022,699,IND,India,X,Export,616,POL,Poland,False,8542,Electronic integrated circuits,H6,275951.417,202.733,True,True,False
+2022,699,IND,India,X,Export,620,PRT,Portugal,False,8542,Electronic integrated circuits,H6,161532.167,159.824,True,True,False
+2022,699,IND,India,X,Export,634,QAT,Qatar,False,8542,Electronic integrated circuits,H6,13805.404,,False,True,False
+2022,699,IND,India,X,Export,642,ROU,Romania,False,8542,Electronic integrated circuits,H6,722000.759,1401.395,True,True,False
+2022,699,IND,India,X,Export,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H6,4991295.842,3144.731,True,True,False
+2022,699,IND,India,X,Export,646,RWA,Rwanda,False,8542,Electronic integrated circuits,H6,3498.297,5.955,True,True,False
+2022,699,IND,India,X,Export,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H6,912909.167,663.276,True,True,False
+2022,699,IND,India,X,Export,686,SEN,Senegal,False,8542,Electronic integrated circuits,H6,9227.484,,False,True,False
+2022,699,IND,India,X,Export,688,SRB,Serbia,False,8542,Electronic integrated circuits,H6,3155.175,,False,True,False
+2022,699,IND,India,X,Export,694,SLE,Sierra Leone,False,8542,Electronic integrated circuits,H6,36.045,1.0,False,True,False
+2022,699,IND,India,X,Export,702,SGP,Singapore,False,8542,Electronic integrated circuits,H6,16458108.068,10208.254,True,True,False
+2022,699,IND,India,X,Export,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H6,149355.002,100.709,True,True,False
+2022,699,IND,India,X,Export,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H6,28195405.361,14114.211,True,True,False
+2022,699,IND,India,X,Export,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H6,365077.014,380.549,True,True,False
+2022,699,IND,India,X,Export,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H6,416787.851,195.988,True,True,False
+2022,699,IND,India,X,Export,716,ZWE,Zimbabwe,False,8542,Electronic integrated circuits,H6,3954.058,3.749,True,True,False
+2022,699,IND,India,X,Export,724,ESP,Spain,False,8542,Electronic integrated circuits,H6,220507.156,282.239,True,True,False
+2022,699,IND,India,X,Export,729,SDN,Sudan,False,8542,Electronic integrated circuits,H6,6520.017,5.514,True,True,False
+2022,699,IND,India,X,Export,752,SWE,Sweden,False,8542,Electronic integrated circuits,H6,1082488.554,674.207,True,True,False
+2022,699,IND,India,X,Export,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H6,160489.899,132.356,True,True,False
+2022,699,IND,India,X,Export,764,THA,Thailand,False,8542,Electronic integrated circuits,H6,420479.86,532.589,True,True,False
+2022,699,IND,India,X,Export,768,TGO,Togo,False,8542,Electronic integrated circuits,H6,5888.0,,False,True,False
+2022,699,IND,India,X,Export,780,TTO,Trinidad and Tobago,False,8542,Electronic integrated circuits,H6,1781.389,0.853,True,True,False
+2022,699,IND,India,X,Export,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H6,84299359.908,48768.854,True,True,False
+2022,699,IND,India,X,Export,788,TUN,Tunisia,False,8542,Electronic integrated circuits,H6,40790.9,,False,True,False
+2022,699,IND,India,X,Export,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H6,594300.559,335.346,True,True,False
+2022,699,IND,India,X,Export,800,UGA,Uganda,False,8542,Electronic integrated circuits,H6,16375.638,14.338,True,True,False
+2022,699,IND,India,X,Export,818,EGY,Egypt,False,8542,Electronic integrated circuits,H6,73448.341,,False,True,False
+2022,699,IND,India,X,Export,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H6,6595421.68,11433.692,True,True,False
+2022,699,IND,India,X,Export,834,TZA,United Rep. of Tanzania,False,8542,Electronic integrated circuits,H6,29665.57,275.297,True,True,False
+2022,699,IND,India,X,Export,842,USA,USA,False,8542,Electronic integrated circuits,H6,17165769.222,33451.541,True,True,False
+2022,699,IND,India,X,Export,858,URY,Uruguay,False,8542,Electronic integrated circuits,H6,10432.152,75.0,False,True,False
+2022,699,IND,India,X,Export,860,UZB,Uzbekistan,False,8542,Electronic integrated circuits,H6,53966.589,,False,True,False
+2022,699,IND,India,X,Export,887,YEM,Yemen,False,8542,Electronic integrated circuits,H6,23.907,,False,True,False
+2022,699,IND,India,X,Export,894,ZMB,Zambia,False,8542,Electronic integrated circuits,H6,6758.184,3.794,True,True,False
+2023,699,IND,India,M,Import,0,W00,World,True,8542,Electronic integrated circuits,H6,19215450431.299,10594168.544,True,True,False
+2023,699,IND,India,M,Import,8,ALB,Albania,False,8542,Electronic integrated circuits,H6,7252.599,3.994,True,True,False
+2023,699,IND,India,M,Import,12,DZA,Algeria,False,8542,Electronic integrated circuits,H6,2608.08,1.436,True,True,False
+2023,699,IND,India,M,Import,16,ASM,American Samoa,False,8542,Electronic integrated circuits,H6,10799.723,5.819,True,True,False
+2023,699,IND,India,M,Import,20,AND,Andorra,False,8542,Electronic integrated circuits,H6,43339.157,23.632,True,True,False
+2023,699,IND,India,M,Import,36,AUS,Australia,False,8542,Electronic integrated circuits,H6,288661.93,172.954,True,True,False
+2023,699,IND,India,M,Import,40,AUT,Austria,False,8542,Electronic integrated circuits,H6,2625114.112,1443.575,True,True,False
+2023,699,IND,India,M,Import,52,BRB,Barbados,False,8542,Electronic integrated circuits,H6,670.27,0.369,True,True,False
+2023,699,IND,India,M,Import,56,BEL,Belgium,False,8542,Electronic integrated circuits,H6,198820.858,107.551,True,True,False
+2023,699,IND,India,M,Import,70,BIH,Bosnia Herzegovina,False,8542,Electronic integrated circuits,H6,9364.208,5.004,True,True,False
+2023,699,IND,India,M,Import,76,BRA,Brazil,False,8542,Electronic integrated circuits,H6,2894969.939,1546.924,True,True,False
+2023,699,IND,India,M,Import,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H6,186013.242,100.7,True,True,False
+2023,699,IND,India,M,Import,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H6,178261.956,98.172,True,True,False
+2023,699,IND,India,M,Import,112,BLR,Belarus,False,8542,Electronic integrated circuits,H6,910031.114,500.039,True,True,False
+2023,699,IND,India,M,Import,116,KHM,Cambodia,False,8542,Electronic integrated circuits,H6,118674.014,65.355,True,True,False
+2023,699,IND,India,M,Import,124,CAN,Canada,False,8542,Electronic integrated circuits,H6,5147437.951,2829.29,True,True,False
+2023,699,IND,India,M,Import,136,CYM,Cayman Isds,False,8542,Electronic integrated circuits,H6,10.593,0.006,True,True,False
+2023,699,IND,India,M,Import,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H6,2679231.673,1473.999,True,True,False
+2023,699,IND,India,M,Import,156,CHN,China,False,8542,Electronic integrated circuits,H6,10063020585.537,5487298.646,True,True,False
+2023,699,IND,India,M,Import,170,COL,Colombia,False,8542,Electronic integrated circuits,H6,114711.798,63.174,True,True,False
+2023,699,IND,India,M,Import,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H6,419593.979,239.028,True,True,False
+2023,699,IND,India,M,Import,191,HRV,Croatia,False,8542,Electronic integrated circuits,H6,1417284.908,780.522,True,True,False
+2023,699,IND,India,M,Import,203,CZE,Czechia,False,8542,Electronic integrated circuits,H6,304228.799,164.856,True,True,False
+2023,699,IND,India,M,Import,208,DNK,Denmark,False,8542,Electronic integrated circuits,H6,32196.557,17.341,True,True,False
+2023,699,IND,India,M,Import,214,DOM,Dominican Rep.,False,8542,Electronic integrated circuits,H6,3117.577,1.68,True,True,False
+2023,699,IND,India,M,Import,222,SLV,El Salvador,False,8542,Electronic integrated circuits,H6,176012.637,95.856,True,True,False
+2023,699,IND,India,M,Import,233,EST,Estonia,False,8542,Electronic integrated circuits,H6,2009.043,1.105,True,True,False
+2023,699,IND,India,M,Import,246,FIN,Finland,False,8542,Electronic integrated circuits,H6,10929857.11,5941.711,True,True,False
+2023,699,IND,India,M,Import,251,FRA,France,False,8542,Electronic integrated circuits,H6,22846239.365,12676.175,True,True,False
+2023,699,IND,India,M,Import,268,GEO,Georgia,False,8542,Electronic integrated circuits,H6,104.732,0.058,True,True,False
+2023,699,IND,India,M,Import,276,DEU,Germany,False,8542,Electronic integrated circuits,H6,50402359.143,27925.872,True,True,False
+2023,699,IND,India,M,Import,300,GRC,Greece,False,8542,Electronic integrated circuits,H6,11341.581,6.111,True,True,False
+2023,699,IND,India,M,Import,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H6,117339202.121,143393.264,True,True,False
+2023,699,IND,India,M,Import,348,HUN,Hungary,False,8542,Electronic integrated circuits,H6,686240.572,376.733,True,True,False
+2023,699,IND,India,M,Import,352,ISL,Iceland,False,8542,Electronic integrated circuits,H6,35.774,0.02,True,True,False
+2023,699,IND,India,M,Import,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H6,15420091.411,8452.771,True,True,False
+2023,699,IND,India,M,Import,372,IRL,Ireland,False,8542,Electronic integrated circuits,H6,409756.847,224.748,True,True,False
+2023,699,IND,India,M,Import,376,ISR,Israel,False,8542,Electronic integrated circuits,H6,124980046.793,67869.154,True,True,False
+2023,699,IND,India,M,Import,380,ITA,Italy,False,8542,Electronic integrated circuits,H6,2453452.62,1414.096,True,True,False
+2023,699,IND,India,M,Import,392,JPN,Japan,False,8542,Electronic integrated circuits,H6,543552198.311,297496.831,True,True,False
+2023,699,IND,India,M,Import,400,JOR,Jordan,False,8542,Electronic integrated circuits,H6,505.442,0.278,True,True,False
+2023,699,IND,India,M,Import,404,KEN,Kenya,False,8542,Electronic integrated circuits,H6,373.894,0.201,True,True,False
+2023,699,IND,India,M,Import,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H6,2562992305.409,1394821.048,True,True,False
+2023,699,IND,India,M,Import,428,LVA,Latvia,False,8542,Electronic integrated circuits,H6,171126.317,93.143,True,True,False
+2023,699,IND,India,M,Import,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H6,2137.02,1.113,True,True,False
+2023,699,IND,India,M,Import,454,MWI,Malawi,False,8542,Electronic integrated circuits,H6,7132.286,3.928,True,True,False
+2023,699,IND,India,M,Import,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H6,494485410.725,270298.815,True,True,False
+2023,699,IND,India,M,Import,470,MLT,Malta,False,8542,Electronic integrated circuits,H6,6917461.284,3802.557,True,True,False
+2023,699,IND,India,M,Import,478,MRT,Mauritania,False,8542,Electronic integrated circuits,H6,1124.187,0.619,True,True,False
+2023,699,IND,India,M,Import,484,MEX,Mexico,False,8542,Electronic integrated circuits,H6,228060231.538,124932.111,True,True,False
+2023,699,IND,India,M,Import,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H6,3780553353.55,2075016.84,True,True,False
+2023,699,IND,India,M,Import,504,MAR,Morocco,False,8542,Electronic integrated circuits,H6,5707002.076,3130.988,True,True,False
+2023,699,IND,India,M,Import,512,OMN,Oman,False,8542,Electronic integrated circuits,H6,142.202,0.078,True,True,False
+2023,699,IND,India,M,Import,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H6,1267889.707,677.073,True,True,False
+2023,699,IND,India,M,Import,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H6,18932.178,10.2,True,True,False
+2023,699,IND,India,M,Import,579,NOR,Norway,False,8542,Electronic integrated circuits,H6,338824.527,183.521,True,True,False
+2023,699,IND,India,M,Import,583,FSM,FS Micronesia,False,8542,Electronic integrated circuits,H6,251.91,0.135,True,True,False
+2023,699,IND,India,M,Import,608,PHL,Philippines,False,8542,Electronic integrated circuits,H6,183618894.318,100359.892,True,True,False
+2023,699,IND,India,M,Import,612,PCN,Pitcairn,False,8542,Electronic integrated circuits,H6,1746.807,0.941,True,True,False
+2023,699,IND,India,M,Import,616,POL,Poland,False,8542,Electronic integrated circuits,H6,726220.048,403.927,True,True,False
+2023,699,IND,India,M,Import,620,PRT,Portugal,False,8542,Electronic integrated circuits,H6,318954.297,174.626,True,True,False
+2023,699,IND,India,M,Import,642,ROU,Romania,False,8542,Electronic integrated circuits,H6,817398.756,450.059,True,True,False
+2023,699,IND,India,M,Import,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H6,106087.836,57.798,True,True,False
+2023,699,IND,India,M,Import,654,SHN,Saint Helena,False,8542,Electronic integrated circuits,H6,8206.425,4.386,True,True,False
+2023,699,IND,India,M,Import,659,KNA,Saint Kitts and Nevis,False,8542,Electronic integrated circuits,H6,716.117,0.386,True,True,False
+2023,699,IND,India,M,Import,678,STP,Sao Tome and Principe,False,8542,Electronic integrated circuits,H6,25790.945,14.203,True,True,False
+2023,699,IND,India,M,Import,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H6,1.38,0.001,True,True,False
+2023,699,IND,India,M,Import,688,SRB,Serbia,False,8542,Electronic integrated circuits,H6,481136.909,259.258,True,True,False
+2023,699,IND,India,M,Import,699,IND,India,False,8542,Electronic integrated circuits,H6,187127.247,101.938,True,True,False
+2023,699,IND,India,M,Import,702,SGP,Singapore,False,8542,Electronic integrated circuits,H6,473438625.05,282817.221,True,True,False
+2023,699,IND,India,M,Import,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H6,156828.549,86.353,True,True,False
+2023,699,IND,India,M,Import,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H6,247609384.678,132199.681,True,True,False
+2023,699,IND,India,M,Import,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H6,430630.781,232.699,True,True,False
+2023,699,IND,India,M,Import,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H6,12308.397,9.263,True,True,False
+2023,699,IND,India,M,Import,724,ESP,Spain,False,8542,Electronic integrated circuits,H6,3492781.952,1922.649,True,True,False
+2023,699,IND,India,M,Import,748,SWZ,Eswatini,False,8542,Electronic integrated circuits,H6,93682.055,51.592,True,True,False
+2023,699,IND,India,M,Import,752,SWE,Sweden,False,8542,Electronic integrated circuits,H6,236354.517,124.784,True,True,False
+2023,699,IND,India,M,Import,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H6,3262316.226,1776.298,True,True,False
+2023,699,IND,India,M,Import,764,THA,Thailand,False,8542,Electronic integrated circuits,H6,168161937.315,93272.968,True,True,False
+2023,699,IND,India,M,Import,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H6,2198644.805,1206.127,True,True,False
+2023,699,IND,India,M,Import,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H6,2565829.677,1402.885,True,True,False
+2023,699,IND,India,M,Import,804,UKR,Ukraine,False,8542,Electronic integrated circuits,H6,40185.309,21.665,True,True,False
+2023,699,IND,India,M,Import,818,EGY,Egypt,False,8542,Electronic integrated circuits,H6,63485.473,34.962,True,True,False
+2023,699,IND,India,M,Import,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H6,7411669.148,4058.883,True,True,False
+2023,699,IND,India,M,Import,842,USA,USA,False,8542,Electronic integrated circuits,H6,58107706.056,30982.508,True,True,False
+2023,699,IND,India,M,Import,862,VEN,Venezuela,False,8542,Electronic integrated circuits,H6,13584.169,7.29,True,True,False
+2023,699,IND,India,M,Import,882,WSM,Samoa,False,8542,Electronic integrated circuits,H6,11516063.174,6342.081,True,True,False
+2023,699,IND,India,X,Export,0,W00,World,True,8542,Electronic integrated circuits,H6,215103208.176,,False,True,False
+2023,699,IND,India,X,Export,4,AFG,Afghanistan,False,8542,Electronic integrated circuits,H6,230.021,,False,True,False
+2023,699,IND,India,X,Export,8,ALB,Albania,False,8542,Electronic integrated circuits,H6,268.459,,False,True,False
+2023,699,IND,India,X,Export,12,DZA,Algeria,False,8542,Electronic integrated circuits,H6,47238.771,,False,True,False
+2023,699,IND,India,X,Export,24,AGO,Angola,False,8542,Electronic integrated circuits,H6,557.536,0.271,True,True,False
+2023,699,IND,India,X,Export,32,ARG,Argentina,False,8542,Electronic integrated circuits,H6,296.534,,False,True,False
+2023,699,IND,India,X,Export,36,AUS,Australia,False,8542,Electronic integrated circuits,H6,65033.166,54.118,True,True,False
+2023,699,IND,India,X,Export,40,AUT,Austria,False,8542,Electronic integrated circuits,H6,116615.359,65.144,True,True,False
+2023,699,IND,India,X,Export,48,BHR,Bahrain,False,8542,Electronic integrated circuits,H6,26750.618,59.242,True,True,False
+2023,699,IND,India,X,Export,50,BGD,Bangladesh,False,8542,Electronic integrated circuits,H6,158487.512,675.716,True,True,False
+2023,699,IND,India,X,Export,56,BEL,Belgium,False,8542,Electronic integrated circuits,H6,142992.761,94.861,True,True,False
+2023,699,IND,India,X,Export,64,BTN,Bhutan,False,8542,Electronic integrated circuits,H6,43829.781,73.405,True,True,False
+2023,699,IND,India,X,Export,72,BWA,Botswana,False,8542,Electronic integrated circuits,H6,3062.783,4.569,True,True,False
+2023,699,IND,India,X,Export,76,BRA,Brazil,False,8542,Electronic integrated circuits,H6,3846459.204,2314.025,True,True,False
+2023,699,IND,India,X,Export,92,VGB,Br. Virgin Isds,False,8542,Electronic integrated circuits,H6,4117.94,,False,True,False
+2023,699,IND,India,X,Export,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H6,26117.684,,False,True,False
+2023,699,IND,India,X,Export,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H6,6343.216,3.984,True,True,False
+2023,699,IND,India,X,Export,112,BLR,Belarus,False,8542,Electronic integrated circuits,H6,139361.449,,False,True,False
+2023,699,IND,India,X,Export,116,KHM,Cambodia,False,8542,Electronic integrated circuits,H6,930.679,,False,True,False
+2023,699,IND,India,X,Export,120,CMR,Cameroon,False,8542,Electronic integrated circuits,H6,1852.665,,False,True,False
+2023,699,IND,India,X,Export,124,CAN,Canada,False,8542,Electronic integrated circuits,H6,634099.428,437.664,True,True,False
+2023,699,IND,India,X,Export,136,CYM,Cayman Isds,False,8542,Electronic integrated circuits,H6,670.016,1.0,False,True,False
+2023,699,IND,India,X,Export,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H6,162968.317,7084.108,True,True,False
+2023,699,IND,India,X,Export,152,CHL,Chile,False,8542,Electronic integrated circuits,H6,1263.217,,False,True,False
+2023,699,IND,India,X,Export,156,CHN,China,False,8542,Electronic integrated circuits,H6,10575158.466,6986.902,True,True,False
+2023,699,IND,India,X,Export,170,COL,Colombia,False,8542,Electronic integrated circuits,H6,322104.888,330.545,True,True,False
+2023,699,IND,India,X,Export,178,COG,Congo,False,8542,Electronic integrated circuits,H6,11543.14,,False,True,False
+2023,699,IND,India,X,Export,180,COD,Dem. Rep. of the Congo,False,8542,Electronic integrated circuits,H6,21574.967,14.146,True,True,False
+2023,699,IND,India,X,Export,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H6,38945.361,,False,True,False
+2023,699,IND,India,X,Export,191,HRV,Croatia,False,8542,Electronic integrated circuits,H6,1394.898,,False,True,False
+2023,699,IND,India,X,Export,196,CYP,Cyprus,False,8542,Electronic integrated circuits,H6,246.365,,False,True,False
+2023,699,IND,India,X,Export,203,CZE,Czechia,False,8542,Electronic integrated circuits,H6,32939.465,21.258,True,True,False
+2023,699,IND,India,X,Export,204,BEN,Benin,False,8542,Electronic integrated circuits,H6,2574.763,16.174,True,True,False
+2023,699,IND,India,X,Export,208,DNK,Denmark,False,8542,Electronic integrated circuits,H6,110378.982,71.593,True,True,False
+2023,699,IND,India,X,Export,214,DOM,Dominican Rep.,False,8542,Electronic integrated circuits,H6,704.507,,False,True,False
+2023,699,IND,India,X,Export,218,ECU,Ecuador,False,8542,Electronic integrated circuits,H6,29351.797,,False,True,False
+2023,699,IND,India,X,Export,222,SLV,El Salvador,False,8542,Electronic integrated circuits,H6,1516.931,,False,True,False
+2023,699,IND,India,X,Export,231,ETH,Ethiopia,False,8542,Electronic integrated circuits,H6,4445.285,2.711,True,True,False
+2023,699,IND,India,X,Export,233,EST,Estonia,False,8542,Electronic integrated circuits,H6,44533.561,39.712,True,True,False
+2023,699,IND,India,X,Export,242,FJI,Fiji,False,8542,Electronic integrated circuits,H6,3926.018,,False,True,False
+2023,699,IND,India,X,Export,246,FIN,Finland,False,8542,Electronic integrated circuits,H6,11311120.284,5808.096,True,True,False
+2023,699,IND,India,X,Export,251,FRA,France,False,8542,Electronic integrated circuits,H6,1335209.673,969.779,True,True,False
+2023,699,IND,India,X,Export,262,DJI,Djibouti,False,8542,Electronic integrated circuits,H6,1418.36,0.689,True,True,False
+2023,699,IND,India,X,Export,276,DEU,Germany,False,8542,Electronic integrated circuits,H6,3922604.148,3058.332,True,True,False
+2023,699,IND,India,X,Export,288,GHA,Ghana,False,8542,Electronic integrated circuits,H6,43509.857,30.943,True,True,False
+2023,699,IND,India,X,Export,300,GRC,Greece,False,8542,Electronic integrated circuits,H6,380961.629,275.964,True,True,False
+2023,699,IND,India,X,Export,320,GTM,Guatemala,False,8542,Electronic integrated circuits,H6,2117.262,,False,True,False
+2023,699,IND,India,X,Export,324,GIN,Guinea,False,8542,Electronic integrated circuits,H6,19564.277,141.54,True,True,False
+2023,699,IND,India,X,Export,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H6,50373084.015,31995.663,True,True,False
+2023,699,IND,India,X,Export,348,HUN,Hungary,False,8542,Electronic integrated circuits,H6,3445247.604,2125.301,True,True,False
+2023,699,IND,India,X,Export,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H6,2264678.068,1449.561,True,True,False
+2023,699,IND,India,X,Export,368,IRQ,Iraq,False,8542,Electronic integrated circuits,H6,3752.848,,False,True,False
+2023,699,IND,India,X,Export,372,IRL,Ireland,False,8542,Electronic integrated circuits,H6,6035101.589,3000.492,True,True,False
+2023,699,IND,India,X,Export,376,ISR,Israel,False,8542,Electronic integrated circuits,H6,1353355.481,947.903,True,True,False
+2023,699,IND,India,X,Export,380,ITA,Italy,False,8542,Electronic integrated circuits,H6,643138.119,583.636,True,True,False
+2023,699,IND,India,X,Export,384,CIV,Côte d'Ivoire,False,8542,Electronic integrated circuits,H6,6277.042,,False,True,False
+2023,699,IND,India,X,Export,392,JPN,Japan,False,8542,Electronic integrated circuits,H6,8946711.035,5022.04,True,True,False
+2023,699,IND,India,X,Export,398,KAZ,Kazakhstan,False,8542,Electronic integrated circuits,H6,3283.374,,False,True,False
+2023,699,IND,India,X,Export,400,JOR,Jordan,False,8542,Electronic integrated circuits,H6,4527.935,,False,True,False
+2023,699,IND,India,X,Export,404,KEN,Kenya,False,8542,Electronic integrated circuits,H6,36911.185,42.293,True,True,False
+2023,699,IND,India,X,Export,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H6,16308428.249,9412.447,True,True,False
+2023,699,IND,India,X,Export,414,KWT,Kuwait,False,8542,Electronic integrated circuits,H6,20948.813,31.728,True,True,False
+2023,699,IND,India,X,Export,418,LAO,Lao People's Dem. Rep.,False,8542,Electronic integrated circuits,H6,1535.877,1.01,True,True,False
+2023,699,IND,India,X,Export,422,LBN,Lebanon,False,8542,Electronic integrated circuits,H6,18599.289,,False,True,False
+2023,699,IND,India,X,Export,428,LVA,Latvia,False,8542,Electronic integrated circuits,H6,8491.979,,False,True,False
+2023,699,IND,India,X,Export,430,LBR,Liberia,False,8542,Electronic integrated circuits,H6,1984.927,2.265,True,True,False
+2023,699,IND,India,X,Export,434,LBY,Libya,False,8542,Electronic integrated circuits,H6,5811.43,7.416,True,True,False
+2023,699,IND,India,X,Export,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H6,31751.913,15.799,True,True,False
+2023,699,IND,India,X,Export,442,LUX,Luxembourg,False,8542,Electronic integrated circuits,H6,3522.318,1.711,True,True,False
+2023,699,IND,India,X,Export,450,MDG,Madagascar,False,8542,Electronic integrated circuits,H6,10503.334,7.075,True,True,False
+2023,699,IND,India,X,Export,454,MWI,Malawi,False,8542,Electronic integrated circuits,H6,105.882,,False,True,False
+2023,699,IND,India,X,Export,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H6,1658054.371,1177.875,True,True,False
+2023,699,IND,India,X,Export,462,MDV,Maldives,False,8542,Electronic integrated circuits,H6,11581.856,1099.904,True,True,False
+2023,699,IND,India,X,Export,470,MLT,Malta,False,8542,Electronic integrated circuits,H6,1864.445,6.476,True,True,False
+2023,699,IND,India,X,Export,478,MRT,Mauritania,False,8542,Electronic integrated circuits,H6,301.546,,False,True,False
+2023,699,IND,India,X,Export,480,MUS,Mauritius,False,8542,Electronic integrated circuits,H6,21073.072,10.204,True,True,False
+2023,699,IND,India,X,Export,484,MEX,Mexico,False,8542,Electronic integrated circuits,H6,2149066.196,1092.06,True,True,False
+2023,699,IND,India,X,Export,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H6,4765161.532,3465.331,True,True,False
+2023,699,IND,India,X,Export,499,MNE,Montenegro,False,8542,Electronic integrated circuits,H6,10692.533,,False,True,False
+2023,699,IND,India,X,Export,504,MAR,Morocco,False,8542,Electronic integrated circuits,H6,2319.935,,False,True,False
+2023,699,IND,India,X,Export,508,MOZ,Mozambique,False,8542,Electronic integrated circuits,H6,11251.195,8.666,True,True,False
+2023,699,IND,India,X,Export,512,OMN,Oman,False,8542,Electronic integrated circuits,H6,62894.912,48.471,True,True,False
+2023,699,IND,India,X,Export,524,NPL,Nepal,False,8542,Electronic integrated circuits,H6,121603.978,107.406,True,True,False
+2023,699,IND,India,X,Export,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H6,2073299.081,1339.245,True,True,False
+2023,699,IND,India,X,Export,533,ABW,Aruba,False,8542,Electronic integrated circuits,H6,29.988,4.0,False,True,False
+2023,699,IND,India,X,Export,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H6,110517.709,75.713,True,True,False
+2023,699,IND,India,X,Export,566,NGA,Nigeria,False,8542,Electronic integrated circuits,H6,77916.036,71.201,True,True,False
+2023,699,IND,India,X,Export,579,NOR,Norway,False,8542,Electronic integrated circuits,H6,4062.626,4.24,True,True,False
+2023,699,IND,India,X,Export,591,PAN,Panama,False,8542,Electronic integrated circuits,H6,422.174,,False,True,False
+2023,699,IND,India,X,Export,598,PNG,Papua New Guinea,False,8542,Electronic integrated circuits,H6,1094.66,,False,True,False
+2023,699,IND,India,X,Export,600,PRY,Paraguay,False,8542,Electronic integrated circuits,H6,5239.343,,False,True,False
+2023,699,IND,India,X,Export,604,PER,Peru,False,8542,Electronic integrated circuits,H6,4006.283,167.062,True,True,False
+2023,699,IND,India,X,Export,608,PHL,Philippines,False,8542,Electronic integrated circuits,H6,710980.537,404.073,True,True,False
+2023,699,IND,India,X,Export,616,POL,Poland,False,8542,Electronic integrated circuits,H6,417865.428,275.329,True,True,False
+2023,699,IND,India,X,Export,620,PRT,Portugal,False,8542,Electronic integrated circuits,H6,119514.246,158.02,True,True,False
+2023,699,IND,India,X,Export,634,QAT,Qatar,False,8542,Electronic integrated circuits,H6,91200.85,79.762,True,True,False
+2023,699,IND,India,X,Export,642,ROU,Romania,False,8542,Electronic integrated circuits,H6,347309.291,206.651,True,True,False
+2023,699,IND,India,X,Export,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H6,9362379.565,5508.617,True,True,False
+2023,699,IND,India,X,Export,646,RWA,Rwanda,False,8542,Electronic integrated circuits,H6,14323.857,,False,True,False
+2023,699,IND,India,X,Export,654,SHN,Saint Helena,False,8542,Electronic integrated circuits,H6,154.574,,False,True,False
+2023,699,IND,India,X,Export,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H6,903012.725,607.958,True,True,False
+2023,699,IND,India,X,Export,686,SEN,Senegal,False,8542,Electronic integrated circuits,H6,11981.549,,False,True,False
+2023,699,IND,India,X,Export,688,SRB,Serbia,False,8542,Electronic integrated circuits,H6,382.852,,False,True,False
+2023,699,IND,India,X,Export,690,SYC,Seychelles,False,8542,Electronic integrated circuits,H6,55.217,1.0,False,True,False
+2023,699,IND,India,X,Export,694,SLE,Sierra Leone,False,8542,Electronic integrated circuits,H6,19.818,,False,True,False
+2023,699,IND,India,X,Export,702,SGP,Singapore,False,8542,Electronic integrated circuits,H6,9611600.62,6173.435,True,True,False
+2023,699,IND,India,X,Export,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H6,319513.419,235.255,True,True,False
+2023,699,IND,India,X,Export,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H6,29092705.835,15972.902,True,True,False
+2023,699,IND,India,X,Export,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H6,120546.533,,False,True,False
+2023,699,IND,India,X,Export,706,SOM,Somalia,False,8542,Electronic integrated circuits,H6,0.993,,False,True,False
+2023,699,IND,India,X,Export,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H6,78269.458,51.813,True,True,False
+2023,699,IND,India,X,Export,716,ZWE,Zimbabwe,False,8542,Electronic integrated circuits,H6,36472.764,26.398,True,True,False
+2023,699,IND,India,X,Export,724,ESP,Spain,False,8542,Electronic integrated circuits,H6,65159.787,48.377,True,True,False
+2023,699,IND,India,X,Export,729,SDN,Sudan,False,8542,Electronic integrated circuits,H6,226.462,2.147,True,True,False
+2023,699,IND,India,X,Export,752,SWE,Sweden,False,8542,Electronic integrated circuits,H6,1169469.296,630.22,True,True,False
+2023,699,IND,India,X,Export,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H6,260704.426,157.651,True,True,False
+2023,699,IND,India,X,Export,764,THA,Thailand,False,8542,Electronic integrated circuits,H6,2399792.608,1852.428,True,True,False
+2023,699,IND,India,X,Export,768,TGO,Togo,False,8542,Electronic integrated circuits,H6,805.051,,False,True,False
+2023,699,IND,India,X,Export,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H6,4977239.395,3747.317,True,True,False
+2023,699,IND,India,X,Export,788,TUN,Tunisia,False,8542,Electronic integrated circuits,H6,45595.074,,False,True,False
+2023,699,IND,India,X,Export,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H6,2211814.209,1409.416,True,True,False
+2023,699,IND,India,X,Export,800,UGA,Uganda,False,8542,Electronic integrated circuits,H6,17830.582,9.463,True,True,False
+2023,699,IND,India,X,Export,804,UKR,Ukraine,False,8542,Electronic integrated circuits,H6,174.683,,False,True,False
+2023,699,IND,India,X,Export,818,EGY,Egypt,False,8542,Electronic integrated circuits,H6,91665.82,,False,True,False
+2023,699,IND,India,X,Export,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H6,2108478.773,2261.758,True,True,False
+2023,699,IND,India,X,Export,834,TZA,United Rep. of Tanzania,False,8542,Electronic integrated circuits,H6,27828.014,35.632,True,True,False
+2023,699,IND,India,X,Export,842,USA,USA,False,8542,Electronic integrated circuits,H6,16176227.475,12953.484,True,True,False
+2023,699,IND,India,X,Export,854,BFA,Burkina Faso,False,8542,Electronic integrated circuits,H6,2166.983,,False,True,False
+2023,699,IND,India,X,Export,858,URY,Uruguay,False,8542,Electronic integrated circuits,H6,3425.685,8.0,False,True,False
+2023,699,IND,India,X,Export,860,UZB,Uzbekistan,False,8542,Electronic integrated circuits,H6,626.869,,False,True,False
+2023,699,IND,India,X,Export,862,VEN,Venezuela,False,8542,Electronic integrated circuits,H6,21928.946,,False,True,False
+2023,699,IND,India,X,Export,887,YEM,Yemen,False,8542,Electronic integrated circuits,H6,6653.127,,False,True,False
+2023,699,IND,India,X,Export,894,ZMB,Zambia,False,8542,Electronic integrated circuits,H6,9507.003,,False,True,False
+2024,699,IND,India,M,Import,0,W00,World,True,8542,Electronic integrated circuits,H6,23445487573.734,,False,True,False
+2024,699,IND,India,M,Import,32,ARG,Argentina,False,8542,Electronic integrated circuits,H6,1234541.178,,False,True,False
+2024,699,IND,India,M,Import,36,AUS,Australia,False,8542,Electronic integrated circuits,H6,55883.632,35.287,True,True,False
+2024,699,IND,India,M,Import,40,AUT,Austria,False,8542,Electronic integrated circuits,H6,1446133.372,892.096,True,True,False
+2024,699,IND,India,M,Import,56,BEL,Belgium,False,8542,Electronic integrated circuits,H6,587131.741,371.69,True,True,False
+2024,699,IND,India,M,Import,76,BRA,Brazil,False,8542,Electronic integrated circuits,H6,327846.194,,False,True,False
+2024,699,IND,India,M,Import,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H6,95330.815,56.75,True,True,False
+2024,699,IND,India,M,Import,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H6,5600.612,18.557,True,True,False
+2024,699,IND,India,M,Import,112,BLR,Belarus,False,8542,Electronic integrated circuits,H6,879705.816,555.905,True,True,False
+2024,699,IND,India,M,Import,116,KHM,Cambodia,False,8542,Electronic integrated circuits,H6,264814.406,,False,True,False
+2024,699,IND,India,M,Import,124,CAN,Canada,False,8542,Electronic integrated circuits,H6,2885476.515,,False,True,False
+2024,699,IND,India,M,Import,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H6,5738679.549,3652.666,True,True,False
+2024,699,IND,India,M,Import,148,TCD,Chad,False,8542,Electronic integrated circuits,H6,576164.025,340.512,True,True,False
+2024,699,IND,India,M,Import,152,CHL,Chile,False,8542,Electronic integrated circuits,H6,57214.882,,False,True,False
+2024,699,IND,India,M,Import,156,CHN,China,False,8542,Electronic integrated circuits,H6,10540142199.944,,False,True,False
+2024,699,IND,India,M,Import,170,COL,Colombia,False,8542,Electronic integrated circuits,H6,134485.763,,False,True,False
+2024,699,IND,India,M,Import,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H6,550890.088,,False,True,False
+2024,699,IND,India,M,Import,191,HRV,Croatia,False,8542,Electronic integrated circuits,H6,778589.759,,False,True,False
+2024,699,IND,India,M,Import,203,CZE,Czechia,False,8542,Electronic integrated circuits,H6,301229.134,185.143,True,True,False
+2024,699,IND,India,M,Import,204,BEN,Benin,False,8542,Electronic integrated circuits,H6,38080.186,23.305,True,True,False
+2024,699,IND,India,M,Import,208,DNK,Denmark,False,8542,Electronic integrated circuits,H6,455423.863,282.51,True,True,False
+2024,699,IND,India,M,Import,222,SLV,El Salvador,False,8542,Electronic integrated circuits,H6,323188.911,200.378,True,True,False
+2024,699,IND,India,M,Import,233,EST,Estonia,False,8542,Electronic integrated circuits,H6,39059.038,,False,True,False
+2024,699,IND,India,M,Import,246,FIN,Finland,False,8542,Electronic integrated circuits,H6,235367.723,152.254,True,True,False
+2024,699,IND,India,M,Import,251,FRA,France,False,8542,Electronic integrated circuits,H6,22476479.959,,False,True,False
+2024,699,IND,India,M,Import,268,GEO,Georgia,False,8542,Electronic integrated circuits,H6,2666.573,,False,True,False
+2024,699,IND,India,M,Import,276,DEU,Germany,False,8542,Electronic integrated circuits,H6,69993167.008,,False,True,False
+2024,699,IND,India,M,Import,296,KIR,Kiribati,False,8542,Electronic integrated circuits,H6,3447.393,,False,True,False
+2024,699,IND,India,M,Import,300,GRC,Greece,False,8542,Electronic integrated circuits,H6,627.149,0.384,True,True,False
+2024,699,IND,India,M,Import,340,HND,Honduras,False,8542,Electronic integrated circuits,H6,2567.78,1.559,True,True,False
+2024,699,IND,India,M,Import,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H6,172636005.134,,False,True,False
+2024,699,IND,India,M,Import,348,HUN,Hungary,False,8542,Electronic integrated circuits,H6,2683309.976,,False,True,False
+2024,699,IND,India,M,Import,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H6,12183681.857,,False,True,False
+2024,699,IND,India,M,Import,364,IRN,Iran,False,8542,Electronic integrated circuits,H6,61020.345,,False,True,False
+2024,699,IND,India,M,Import,372,IRL,Ireland,False,8542,Electronic integrated circuits,H6,3377191.322,,False,True,False
+2024,699,IND,India,M,Import,376,ISR,Israel,False,8542,Electronic integrated circuits,H6,180704468.074,,False,True,False
+2024,699,IND,India,M,Import,380,ITA,Italy,False,8542,Electronic integrated circuits,H6,2480197.461,,False,True,False
+2024,699,IND,India,M,Import,392,JPN,Japan,False,8542,Electronic integrated circuits,H6,649285995.58,,False,True,False
+2024,699,IND,India,M,Import,408,PRK,Dem. People's Rep. of Korea,False,8542,Electronic integrated circuits,H6,33555.595,,False,True,False
+2024,699,IND,India,M,Import,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H6,3634538855.697,,False,True,False
+2024,699,IND,India,M,Import,428,LVA,Latvia,False,8542,Electronic integrated circuits,H6,43775.272,27.996,True,True,False
+2024,699,IND,India,M,Import,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H6,5305.694,,False,True,False
+2024,699,IND,India,M,Import,454,MWI,Malawi,False,8542,Electronic integrated circuits,H6,21470.816,13.14,True,True,False
+2024,699,IND,India,M,Import,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H6,493103457.738,,False,True,False
+2024,699,IND,India,M,Import,466,MLI,Mali,False,8542,Electronic integrated circuits,H6,9398.839,,False,True,False
+2024,699,IND,India,M,Import,470,MLT,Malta,False,8542,Electronic integrated circuits,H6,5716098.213,,False,True,False
+2024,699,IND,India,M,Import,484,MEX,Mexico,False,8542,Electronic integrated circuits,H6,419492059.05,,False,True,False
+2024,699,IND,India,M,Import,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H6,6219505625.63,,False,True,False
+2024,699,IND,India,M,Import,504,MAR,Morocco,False,8542,Electronic integrated circuits,H6,7022302.799,,False,True,False
+2024,699,IND,India,M,Import,516,NAM,Namibia,False,8542,Electronic integrated circuits,H6,39548.459,24.203,True,True,False
+2024,699,IND,India,M,Import,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H6,1833201.244,,False,True,False
+2024,699,IND,India,M,Import,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H6,5388.319,3.298,True,True,False
+2024,699,IND,India,M,Import,579,NOR,Norway,False,8542,Electronic integrated circuits,H6,468450.359,,False,True,False
+2024,699,IND,India,M,Import,608,PHL,Philippines,False,8542,Electronic integrated circuits,H6,164054037.167,,False,True,False
+2024,699,IND,India,M,Import,612,PCN,Pitcairn,False,8542,Electronic integrated circuits,H6,14645.146,,False,True,False
+2024,699,IND,India,M,Import,616,POL,Poland,False,8542,Electronic integrated circuits,H6,601792.396,,False,True,False
+2024,699,IND,India,M,Import,620,PRT,Portugal,False,8542,Electronic integrated circuits,H6,616666.65,384.975,True,True,False
+2024,699,IND,India,M,Import,642,ROU,Romania,False,8542,Electronic integrated circuits,H6,58719.62,,False,True,False
+2024,699,IND,India,M,Import,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H6,67544.495,41.51,True,True,False
+2024,699,IND,India,M,Import,654,SHN,Saint Helena,False,8542,Electronic integrated circuits,H6,746.591,0.378,True,True,False
+2024,699,IND,India,M,Import,674,SMR,San Marino,False,8542,Electronic integrated circuits,H6,1250.626,5.0,False,True,False
+2024,699,IND,India,M,Import,678,STP,Sao Tome and Principe,False,8542,Electronic integrated circuits,H6,13545.498,,False,True,False
+2024,699,IND,India,M,Import,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H6,31331.341,,False,True,False
+2024,699,IND,India,M,Import,688,SRB,Serbia,False,8542,Electronic integrated circuits,H6,372913.758,228.237,True,True,False
+2024,699,IND,India,M,Import,699,IND,India,False,8542,Electronic integrated circuits,H6,1778240.726,,False,True,False
+2024,699,IND,India,M,Import,702,SGP,Singapore,False,8542,Electronic integrated circuits,H6,452644889.579,,False,True,False
+2024,699,IND,India,M,Import,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H6,191222.391,,False,True,False
+2024,699,IND,India,M,Import,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H6,123039915.505,,False,True,False
+2024,699,IND,India,M,Import,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H6,235432.675,,False,True,False
+2024,699,IND,India,M,Import,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H6,25859.914,,False,True,False
+2024,699,IND,India,M,Import,724,ESP,Spain,False,8542,Electronic integrated circuits,H6,1884561.979,,False,True,False
+2024,699,IND,India,M,Import,748,SWZ,Eswatini,False,8542,Electronic integrated circuits,H6,9434.268,,False,True,False
+2024,699,IND,India,M,Import,752,SWE,Sweden,False,8542,Electronic integrated circuits,H6,212992.22,,False,True,False
+2024,699,IND,India,M,Import,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H6,2464759.21,,False,True,False
+2024,699,IND,India,M,Import,764,THA,Thailand,False,8542,Electronic integrated circuits,H6,150353646.764,,False,True,False
+2024,699,IND,India,M,Import,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H6,3347253.96,,False,True,False
+2024,699,IND,India,M,Import,788,TUN,Tunisia,False,8542,Electronic integrated circuits,H6,1610.578,0.982,True,True,False
+2024,699,IND,India,M,Import,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H6,1798310.162,,False,True,False
+2024,699,IND,India,M,Import,804,UKR,Ukraine,False,8542,Electronic integrated circuits,H6,101280.013,,False,True,False
+2024,699,IND,India,M,Import,807,MKD,North Macedonia,False,8542,Electronic integrated circuits,H6,39035.34,,False,True,False
+2024,699,IND,India,M,Import,818,EGY,Egypt,False,8542,Electronic integrated circuits,H6,110534.146,64.108,True,True,False
+2024,699,IND,India,M,Import,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H6,5679869.491,,False,True,False
+2024,699,IND,India,M,Import,842,USA,USA,False,8542,Electronic integrated circuits,H6,78129978.95,,False,True,False
+2024,699,IND,India,M,Import,862,VEN,Venezuela,False,8542,Electronic integrated circuits,H6,313.051,0.198,True,True,False
+2024,699,IND,India,M,Import,882,WSM,Samoa,False,8542,Electronic integrated circuits,H6,2722883.039,,False,True,False
+2024,699,IND,India,X,Export,0,W00,World,True,8542,Electronic integrated circuits,H6,267771046.731,,False,True,False
+2024,699,IND,India,X,Export,12,DZA,Algeria,False,8542,Electronic integrated circuits,H6,13477.899,,False,True,False
+2024,699,IND,India,X,Export,24,AGO,Angola,False,8542,Electronic integrated circuits,H6,2677.716,,False,True,False
+2024,699,IND,India,X,Export,28,ATG,Antigua and Barbuda,False,8542,Electronic integrated circuits,H6,24.922,,False,True,False
+2024,699,IND,India,X,Export,36,AUS,Australia,False,8542,Electronic integrated circuits,H6,173146.007,215.174,True,True,False
+2024,699,IND,India,X,Export,40,AUT,Austria,False,8542,Electronic integrated circuits,H6,43435.535,30.423,True,True,False
+2024,699,IND,India,X,Export,48,BHR,Bahrain,False,8542,Electronic integrated circuits,H6,47233.338,129.535,True,True,False
+2024,699,IND,India,X,Export,50,BGD,Bangladesh,False,8542,Electronic integrated circuits,H6,346641.036,236.685,True,True,False
+2024,699,IND,India,X,Export,51,ARM,Armenia,False,8542,Electronic integrated circuits,H6,418.409,,False,True,False
+2024,699,IND,India,X,Export,56,BEL,Belgium,False,8542,Electronic integrated circuits,H6,150095.642,100.655,True,True,False
+2024,699,IND,India,X,Export,64,BTN,Bhutan,False,8542,Electronic integrated circuits,H6,40427.283,142.214,True,True,False
+2024,699,IND,India,X,Export,72,BWA,Botswana,False,8542,Electronic integrated circuits,H6,3148.815,,False,True,False
+2024,699,IND,India,X,Export,76,BRA,Brazil,False,8542,Electronic integrated circuits,H6,892965.821,581.085,True,True,False
+2024,699,IND,India,X,Export,90,SLB,Solomon Isds,False,8542,Electronic integrated circuits,H6,2624.189,,False,True,False
+2024,699,IND,India,X,Export,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H6,110219.989,74.701,True,True,False
+2024,699,IND,India,X,Export,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H6,691.9,43.114,True,True,False
+2024,699,IND,India,X,Export,116,KHM,Cambodia,False,8542,Electronic integrated circuits,H6,8669.085,6.416,True,True,False
+2024,699,IND,India,X,Export,120,CMR,Cameroon,False,8542,Electronic integrated circuits,H6,3376.97,,False,True,False
+2024,699,IND,India,X,Export,124,CAN,Canada,False,8542,Electronic integrated circuits,H6,272379.077,232.048,True,True,False
+2024,699,IND,India,X,Export,136,CYM,Cayman Isds,False,8542,Electronic integrated circuits,H6,649.658,1.397,True,True,False
+2024,699,IND,India,X,Export,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H6,88339.354,560.953,True,True,False
+2024,699,IND,India,X,Export,148,TCD,Chad,False,8542,Electronic integrated circuits,H6,4956.802,,False,True,False
+2024,699,IND,India,X,Export,152,CHL,Chile,False,8542,Electronic integrated circuits,H6,19286.756,,False,True,False
+2024,699,IND,India,X,Export,156,CHN,China,False,8542,Electronic integrated circuits,H6,9132890.331,6118.045,True,True,False
+2024,699,IND,India,X,Export,170,COL,Colombia,False,8542,Electronic integrated circuits,H6,48662.592,41.847,True,True,False
+2024,699,IND,India,X,Export,178,COG,Congo,False,8542,Electronic integrated circuits,H6,5302.14,,False,True,False
+2024,699,IND,India,X,Export,180,COD,Dem. Rep. of the Congo,False,8542,Electronic integrated circuits,H6,68947.687,43.3,True,True,False
+2024,699,IND,India,X,Export,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H6,5858.501,4.178,True,True,False
+2024,699,IND,India,X,Export,191,HRV,Croatia,False,8542,Electronic integrated circuits,H6,1365.715,,False,True,False
+2024,699,IND,India,X,Export,196,CYP,Cyprus,False,8542,Electronic integrated circuits,H6,110.453,,False,True,False
+2024,699,IND,India,X,Export,203,CZE,Czechia,False,8542,Electronic integrated circuits,H6,366964.125,233.609,True,True,False
+2024,699,IND,India,X,Export,204,BEN,Benin,False,8542,Electronic integrated circuits,H6,214.764,,False,True,False
+2024,699,IND,India,X,Export,208,DNK,Denmark,False,8542,Electronic integrated circuits,H6,36671.864,25.672,True,True,False
+2024,699,IND,India,X,Export,214,DOM,Dominican Rep.,False,8542,Electronic integrated circuits,H6,23.18,,False,True,False
+2024,699,IND,India,X,Export,218,ECU,Ecuador,False,8542,Electronic integrated circuits,H6,18383.846,,False,True,False
+2024,699,IND,India,X,Export,231,ETH,Ethiopia,False,8542,Electronic integrated circuits,H6,4639.257,5.068,True,True,False
+2024,699,IND,India,X,Export,233,EST,Estonia,False,8542,Electronic integrated circuits,H6,139634.843,126.936,True,True,False
+2024,699,IND,India,X,Export,242,FJI,Fiji,False,8542,Electronic integrated circuits,H6,39102.269,45.136,True,True,False
+2024,699,IND,India,X,Export,246,FIN,Finland,False,8542,Electronic integrated circuits,H6,802829.564,451.946,True,True,False
+2024,699,IND,India,X,Export,251,FRA,France,False,8542,Electronic integrated circuits,H6,614415.439,495.02,True,True,False
+2024,699,IND,India,X,Export,266,GAB,Gabon,False,8542,Electronic integrated circuits,H6,13186.946,,False,True,False
+2024,699,IND,India,X,Export,268,GEO,Georgia,False,8542,Electronic integrated circuits,H6,357.105,0.337,True,True,False
+2024,699,IND,India,X,Export,270,GMB,Gambia,False,8542,Electronic integrated circuits,H6,3206.448,2.0,False,True,False
+2024,699,IND,India,X,Export,276,DEU,Germany,False,8542,Electronic integrated circuits,H6,2687282.196,1965.383,True,True,False
+2024,699,IND,India,X,Export,288,GHA,Ghana,False,8542,Electronic integrated circuits,H6,26969.6,138.86,True,True,False
+2024,699,IND,India,X,Export,300,GRC,Greece,False,8542,Electronic integrated circuits,H6,51062.157,586.168,True,True,False
+2024,699,IND,India,X,Export,320,GTM,Guatemala,False,8542,Electronic integrated circuits,H6,1410.534,,False,True,False
+2024,699,IND,India,X,Export,324,GIN,Guinea,False,8542,Electronic integrated circuits,H6,7183.763,34.274,True,True,False
+2024,699,IND,India,X,Export,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H6,65133234.285,45472.507,True,True,False
+2024,699,IND,India,X,Export,348,HUN,Hungary,False,8542,Electronic integrated circuits,H6,767543.101,570.684,True,True,False
+2024,699,IND,India,X,Export,352,ISL,Iceland,False,8542,Electronic integrated circuits,H6,21.674,,False,True,False
+2024,699,IND,India,X,Export,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H6,3100028.964,2505.388,True,True,False
+2024,699,IND,India,X,Export,368,IRQ,Iraq,False,8542,Electronic integrated circuits,H6,17023.684,,False,True,False
+2024,699,IND,India,X,Export,372,IRL,Ireland,False,8542,Electronic integrated circuits,H6,4909228.677,2713.653,True,True,False
+2024,699,IND,India,X,Export,376,ISR,Israel,False,8542,Electronic integrated circuits,H6,1823236.914,1192.976,True,True,False
+2024,699,IND,India,X,Export,380,ITA,Italy,False,8542,Electronic integrated circuits,H6,815118.894,747.256,True,True,False
+2024,699,IND,India,X,Export,388,JAM,Jamaica,False,8542,Electronic integrated circuits,H6,2492.18,,False,True,False
+2024,699,IND,India,X,Export,392,JPN,Japan,False,8542,Electronic integrated circuits,H6,1091935.16,719.661,True,True,False
+2024,699,IND,India,X,Export,400,JOR,Jordan,False,8542,Electronic integrated circuits,H6,1166.824,,False,True,False
+2024,699,IND,India,X,Export,404,KEN,Kenya,False,8542,Electronic integrated circuits,H6,68613.409,78.203,True,True,False
+2024,699,IND,India,X,Export,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H6,60924423.763,36289.002,True,True,False
+2024,699,IND,India,X,Export,414,KWT,Kuwait,False,8542,Electronic integrated circuits,H6,40065.401,44.138,True,True,False
+2024,699,IND,India,X,Export,418,LAO,Lao People's Dem. Rep.,False,8542,Electronic integrated circuits,H6,4189.384,,False,True,False
+2024,699,IND,India,X,Export,422,LBN,Lebanon,False,8542,Electronic integrated circuits,H6,942.67,10.564,True,True,False
+2024,699,IND,India,X,Export,430,LBR,Liberia,False,8542,Electronic integrated circuits,H6,122.961,,False,True,False
+2024,699,IND,India,X,Export,434,LBY,Libya,False,8542,Electronic integrated circuits,H6,868.376,,False,True,False
+2024,699,IND,India,X,Export,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H6,69639.705,,False,True,False
+2024,699,IND,India,X,Export,450,MDG,Madagascar,False,8542,Electronic integrated circuits,H6,258.465,,False,True,False
+2024,699,IND,India,X,Export,454,MWI,Malawi,False,8542,Electronic integrated circuits,H6,1605.142,17.479,True,True,False
+2024,699,IND,India,X,Export,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H6,2811438.769,1421.975,True,True,False
+2024,699,IND,India,X,Export,462,MDV,Maldives,False,8542,Electronic integrated circuits,H6,24890.063,22.957,True,True,False
+2024,699,IND,India,X,Export,466,MLI,Mali,False,8542,Electronic integrated circuits,H6,262.207,,False,True,False
+2024,699,IND,India,X,Export,470,MLT,Malta,False,8542,Electronic integrated circuits,H6,28241.547,3.415,True,True,False
+2024,699,IND,India,X,Export,480,MUS,Mauritius,False,8542,Electronic integrated circuits,H6,11445.582,,False,True,False
+2024,699,IND,India,X,Export,484,MEX,Mexico,False,8542,Electronic integrated circuits,H6,3391728.733,2032.285,True,True,False
+2024,699,IND,India,X,Export,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H6,3813064.915,2613.914,True,True,False
+2024,699,IND,India,X,Export,499,MNE,Montenegro,False,8542,Electronic integrated circuits,H6,36735.568,,False,True,False
+2024,699,IND,India,X,Export,504,MAR,Morocco,False,8542,Electronic integrated circuits,H6,2837.659,,False,True,False
+2024,699,IND,India,X,Export,508,MOZ,Mozambique,False,8542,Electronic integrated circuits,H6,13863.267,12.708,True,True,False
+2024,699,IND,India,X,Export,512,OMN,Oman,False,8542,Electronic integrated circuits,H6,21765.675,30.051,True,True,False
+2024,699,IND,India,X,Export,516,NAM,Namibia,False,8542,Electronic integrated circuits,H6,13.343,,False,True,False
+2024,699,IND,India,X,Export,524,NPL,Nepal,False,8542,Electronic integrated circuits,H6,179734.944,1454.888,True,True,False
+2024,699,IND,India,X,Export,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H6,1781033.649,1213.67,True,True,False
+2024,699,IND,India,X,Export,548,VUT,Vanuatu,False,8542,Electronic integrated circuits,H6,294.554,,False,True,False
+2024,699,IND,India,X,Export,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H6,63669.821,43.372,True,True,False
+2024,699,IND,India,X,Export,566,NGA,Nigeria,False,8542,Electronic integrated circuits,H6,441697.83,530.194,True,True,False
+2024,699,IND,India,X,Export,579,NOR,Norway,False,8542,Electronic integrated circuits,H6,5483.334,6.563,True,True,False
+2024,699,IND,India,X,Export,591,PAN,Panama,False,8542,Electronic integrated circuits,H6,1730.868,7.874,True,True,False
+2024,699,IND,India,X,Export,598,PNG,Papua New Guinea,False,8542,Electronic integrated circuits,H6,2642.651,,False,True,False
+2024,699,IND,India,X,Export,604,PER,Peru,False,8542,Electronic integrated circuits,H6,877.001,1.176,True,True,False
+2024,699,IND,India,X,Export,608,PHL,Philippines,False,8542,Electronic integrated circuits,H6,220587.12,136.372,True,True,False
+2024,699,IND,India,X,Export,616,POL,Poland,False,8542,Electronic integrated circuits,H6,155781.527,134.6,True,True,False
+2024,699,IND,India,X,Export,620,PRT,Portugal,False,8542,Electronic integrated circuits,H6,449817.532,,False,True,False
+2024,699,IND,India,X,Export,634,QAT,Qatar,False,8542,Electronic integrated circuits,H6,13618.51,9.538,True,True,False
+2024,699,IND,India,X,Export,642,ROU,Romania,False,8542,Electronic integrated circuits,H6,230777.063,162.023,True,True,False
+2024,699,IND,India,X,Export,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H6,8629871.989,5256.476,True,True,False
+2024,699,IND,India,X,Export,646,RWA,Rwanda,False,8542,Electronic integrated circuits,H6,15153.876,,False,True,False
+2024,699,IND,India,X,Export,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H6,449657.848,339.629,True,True,False
+2024,699,IND,India,X,Export,686,SEN,Senegal,False,8542,Electronic integrated circuits,H6,1037.827,,False,True,False
+2024,699,IND,India,X,Export,688,SRB,Serbia,False,8542,Electronic integrated circuits,H6,4259.478,11.099,True,True,False
+2024,699,IND,India,X,Export,694,SLE,Sierra Leone,False,8542,Electronic integrated circuits,H6,5883.129,,False,True,False
+2024,699,IND,India,X,Export,702,SGP,Singapore,False,8542,Electronic integrated circuits,H6,10185682.921,8685.043,True,True,False
+2024,699,IND,India,X,Export,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H6,61600.933,,False,True,False
+2024,699,IND,India,X,Export,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H6,36251866.533,22322.389,True,True,False
+2024,699,IND,India,X,Export,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H6,142180.09,,False,True,False
+2024,699,IND,India,X,Export,706,SOM,Somalia,False,8542,Electronic integrated circuits,H6,10528.633,,False,True,False
+2024,699,IND,India,X,Export,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H6,180165.849,405.357,True,True,False
+2024,699,IND,India,X,Export,716,ZWE,Zimbabwe,False,8542,Electronic integrated circuits,H6,2901.646,4.896,True,True,False
+2024,699,IND,India,X,Export,724,ESP,Spain,False,8542,Electronic integrated circuits,H6,168959.871,135.91,True,True,False
+2024,699,IND,India,X,Export,729,SDN,Sudan,False,8542,Electronic integrated circuits,H6,924.867,,False,True,False
+2024,699,IND,India,X,Export,752,SWE,Sweden,False,8542,Electronic integrated circuits,H6,300790.299,199.363,True,True,False
+2024,699,IND,India,X,Export,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H6,160660.222,248.547,True,True,False
+2024,699,IND,India,X,Export,764,THA,Thailand,False,8542,Electronic integrated circuits,H6,756474.78,585.289,True,True,False
+2024,699,IND,India,X,Export,768,TGO,Togo,False,8542,Electronic integrated circuits,H6,8668.238,,False,True,False
+2024,699,IND,India,X,Export,780,TTO,Trinidad and Tobago,False,8542,Electronic integrated circuits,H6,728.471,,False,True,False
+2024,699,IND,India,X,Export,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H6,14380054.859,9602.003,True,True,False
+2024,699,IND,India,X,Export,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H6,1415571.097,853.879,True,True,False
+2024,699,IND,India,X,Export,795,TKM,Turkmenistan,False,8542,Electronic integrated circuits,H6,232.085,1.152,True,True,False
+2024,699,IND,India,X,Export,800,UGA,Uganda,False,8542,Electronic integrated circuits,H6,26078.079,21.014,True,True,False
+2024,699,IND,India,X,Export,804,UKR,Ukraine,False,8542,Electronic integrated circuits,H6,4525.026,,False,True,False
+2024,699,IND,India,X,Export,807,MKD,North Macedonia,False,8542,Electronic integrated circuits,H6,59059.487,,False,True,False
+2024,699,IND,India,X,Export,818,EGY,Egypt,False,8542,Electronic integrated circuits,H6,70533.543,564.946,True,True,False
+2024,699,IND,India,X,Export,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H6,3782784.097,3150.062,True,True,False
+2024,699,IND,India,X,Export,834,TZA,United Rep. of Tanzania,False,8542,Electronic integrated circuits,H6,22167.917,64.008,True,True,False
+2024,699,IND,India,X,Export,842,USA,USA,False,8542,Electronic integrated circuits,H6,21887556.304,14329.798,True,True,False
+2024,699,IND,India,X,Export,860,UZB,Uzbekistan,False,8542,Electronic integrated circuits,H6,2570.463,,False,True,False
+2024,699,IND,India,X,Export,887,YEM,Yemen,False,8542,Electronic integrated circuits,H6,1465.567,,False,True,False
+2024,699,IND,India,X,Export,894,ZMB,Zambia,False,8542,Electronic integrated circuits,H6,3095.819,,False,True,False
+2025,699,IND,India,M,Import,0,W00,World,True,8542,Electronic integrated circuits,H6,28616482893.972,,False,True,False
+2025,699,IND,India,M,Import,36,AUS,Australia,False,8542,Electronic integrated circuits,H6,121148.511,,False,True,False
+2025,699,IND,India,M,Import,40,AUT,Austria,False,8542,Electronic integrated circuits,H6,1326990.048,,False,True,False
+2025,699,IND,India,M,Import,56,BEL,Belgium,False,8542,Electronic integrated circuits,H6,1464753.486,,False,True,False
+2025,699,IND,India,M,Import,76,BRA,Brazil,False,8542,Electronic integrated circuits,H6,268092.974,,False,True,False
+2025,699,IND,India,M,Import,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H6,347593.392,,False,True,False
+2025,699,IND,India,M,Import,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H6,30002.439,,False,True,False
+2025,699,IND,India,M,Import,112,BLR,Belarus,False,8542,Electronic integrated circuits,H6,849468.882,,False,True,False
+2025,699,IND,India,M,Import,116,KHM,Cambodia,False,8542,Electronic integrated circuits,H6,293324.82,,False,True,False
+2025,699,IND,India,M,Import,124,CAN,Canada,False,8542,Electronic integrated circuits,H6,1105484.975,,False,True,False
+2025,699,IND,India,M,Import,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H6,8101279.778,,False,True,False
+2025,699,IND,India,M,Import,152,CHL,Chile,False,8542,Electronic integrated circuits,H6,181.433,0.111,True,True,False
+2025,699,IND,India,M,Import,156,CHN,China,False,8542,Electronic integrated circuits,H6,11710232694.19,,False,True,False
+2025,699,IND,India,M,Import,170,COL,Colombia,False,8542,Electronic integrated circuits,H6,58793.496,,False,True,False
+2025,699,IND,India,M,Import,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H6,788209.53,,False,True,False
+2025,699,IND,India,M,Import,191,HRV,Croatia,False,8542,Electronic integrated circuits,H6,83142.942,,False,True,False
+2025,699,IND,India,M,Import,196,CYP,Cyprus,False,8542,Electronic integrated circuits,H6,9166.991,,False,True,False
+2025,699,IND,India,M,Import,203,CZE,Czechia,False,8542,Electronic integrated circuits,H6,487583.598,,False,True,False
+2025,699,IND,India,M,Import,208,DNK,Denmark,False,8542,Electronic integrated circuits,H6,845639.204,,False,True,False
+2025,699,IND,India,M,Import,222,SLV,El Salvador,False,8542,Electronic integrated circuits,H6,651453.89,,False,True,False
+2025,699,IND,India,M,Import,233,EST,Estonia,False,8542,Electronic integrated circuits,H6,9523.421,,False,True,False
+2025,699,IND,India,M,Import,246,FIN,Finland,False,8542,Electronic integrated circuits,H6,2519009.818,,False,True,False
+2025,699,IND,India,M,Import,251,FRA,France,False,8542,Electronic integrated circuits,H6,52092300.668,,False,True,False
+2025,699,IND,India,M,Import,276,DEU,Germany,False,8542,Electronic integrated circuits,H6,74946756.588,,False,True,False
+2025,699,IND,India,M,Import,300,GRC,Greece,False,8542,Electronic integrated circuits,H6,204967.207,,False,True,False
+2025,699,IND,India,M,Import,340,HND,Honduras,False,8542,Electronic integrated circuits,H6,27.357,,False,True,False
+2025,699,IND,India,M,Import,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H6,197117028.66,,False,True,False
+2025,699,IND,India,M,Import,348,HUN,Hungary,False,8542,Electronic integrated circuits,H6,4542706.296,,False,True,False
+2025,699,IND,India,M,Import,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H6,12841409.443,,False,True,False
+2025,699,IND,India,M,Import,364,IRN,Iran,False,8542,Electronic integrated circuits,H6,763.396,,False,True,False
+2025,699,IND,India,M,Import,372,IRL,Ireland,False,8542,Electronic integrated circuits,H6,47995732.679,,False,True,False
+2025,699,IND,India,M,Import,376,ISR,Israel,False,8542,Electronic integrated circuits,H6,72385712.729,,False,True,False
+2025,699,IND,India,M,Import,380,ITA,Italy,False,8542,Electronic integrated circuits,H6,17520490.754,,False,True,False
+2025,699,IND,India,M,Import,392,JPN,Japan,False,8542,Electronic integrated circuits,H6,1083699931.033,,False,True,False
+2025,699,IND,India,M,Import,400,JOR,Jordan,False,8542,Electronic integrated circuits,H6,16229.597,,False,True,False
+2025,699,IND,India,M,Import,408,PRK,Dem. People's Rep. of Korea,False,8542,Electronic integrated circuits,H6,151268.201,,False,True,False
+2025,699,IND,India,M,Import,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H6,4580707625.562,,False,True,False
+2025,699,IND,India,M,Import,428,LVA,Latvia,False,8542,Electronic integrated circuits,H6,19615.421,,False,True,False
+2025,699,IND,India,M,Import,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H6,7777.042,,False,True,False
+2025,699,IND,India,M,Import,454,MWI,Malawi,False,8542,Electronic integrated circuits,H6,450.178,0.212,True,True,False
+2025,699,IND,India,M,Import,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H6,594258346.75,,False,True,False
+2025,699,IND,India,M,Import,470,MLT,Malta,False,8542,Electronic integrated circuits,H6,1429910.004,,False,True,False
+2025,699,IND,India,M,Import,484,MEX,Mexico,False,8542,Electronic integrated circuits,H6,604592735.764,,False,True,False
+2025,699,IND,India,M,Import,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H6,8046184379.767,,False,True,False
+2025,699,IND,India,M,Import,504,MAR,Morocco,False,8542,Electronic integrated circuits,H6,8740926.325,,False,True,False
+2025,699,IND,India,M,Import,516,NAM,Namibia,False,8542,Electronic integrated circuits,H6,135371.043,,False,True,False
+2025,699,IND,India,M,Import,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H6,2962870.937,,False,True,False
+2025,699,IND,India,M,Import,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H6,43203.903,,False,True,False
+2025,699,IND,India,M,Import,566,NGA,Nigeria,False,8542,Electronic integrated circuits,H6,53476.426,,False,True,False
+2025,699,IND,India,M,Import,579,NOR,Norway,False,8542,Electronic integrated circuits,H6,130810.374,,False,True,False
+2025,699,IND,India,M,Import,581,UMI,United States Minor Outlying Islands,False,8542,Electronic integrated circuits,H6,46200.031,,False,True,False
+2025,699,IND,India,M,Import,608,PHL,Philippines,False,8542,Electronic integrated circuits,H6,162244388.737,,False,True,False
+2025,699,IND,India,M,Import,616,POL,Poland,False,8542,Electronic integrated circuits,H6,1701264.056,,False,True,False
+2025,699,IND,India,M,Import,620,PRT,Portugal,False,8542,Electronic integrated circuits,H6,528356.05,,False,True,False
+2025,699,IND,India,M,Import,634,QAT,Qatar,False,8542,Electronic integrated circuits,H6,73.154,,False,True,False
+2025,699,IND,India,M,Import,642,ROU,Romania,False,8542,Electronic integrated circuits,H6,1198483.046,,False,True,False
+2025,699,IND,India,M,Import,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H6,274759.738,,False,True,False
+2025,699,IND,India,M,Import,659,KNA,Saint Kitts and Nevis,False,8542,Electronic integrated circuits,H6,905.472,,False,True,False
+2025,699,IND,India,M,Import,670,VCT,Saint Vincent and the Grenadines,False,8542,Electronic integrated circuits,H6,22.832,,False,True,False
+2025,699,IND,India,M,Import,688,SRB,Serbia,False,8542,Electronic integrated circuits,H6,92989.65,,False,True,False
+2025,699,IND,India,M,Import,699,IND,India,False,8542,Electronic integrated circuits,H6,1186765.896,,False,True,False
+2025,699,IND,India,M,Import,702,SGP,Singapore,False,8542,Electronic integrated circuits,H6,663029566.88,,False,True,False
+2025,699,IND,India,M,Import,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H6,116322.658,,False,True,False
+2025,699,IND,India,M,Import,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H6,131938719.075,,False,True,False
+2025,699,IND,India,M,Import,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H6,310064.177,,False,True,False
+2025,699,IND,India,M,Import,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H6,1383.647,,False,True,False
+2025,699,IND,India,M,Import,716,ZWE,Zimbabwe,False,8542,Electronic integrated circuits,H6,109.429,,False,True,False
+2025,699,IND,India,M,Import,724,ESP,Spain,False,8542,Electronic integrated circuits,H6,952172.375,,False,True,False
+2025,699,IND,India,M,Import,748,SWZ,Eswatini,False,8542,Electronic integrated circuits,H6,549212.993,,False,True,False
+2025,699,IND,India,M,Import,752,SWE,Sweden,False,8542,Electronic integrated circuits,H6,217967.995,,False,True,False
+2025,699,IND,India,M,Import,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H6,4754648.254,,False,True,False
+2025,699,IND,India,M,Import,764,THA,Thailand,False,8542,Electronic integrated circuits,H6,177511684.635,,False,True,False
+2025,699,IND,India,M,Import,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H6,1086446.89,,False,True,False
+2025,699,IND,India,M,Import,788,TUN,Tunisia,False,8542,Electronic integrated circuits,H6,14442.124,,False,True,False
+2025,699,IND,India,M,Import,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H6,898087.33,,False,True,False
+2025,699,IND,India,M,Import,804,UKR,Ukraine,False,8542,Electronic integrated circuits,H6,20665.654,,False,True,False
+2025,699,IND,India,M,Import,807,MKD,North Macedonia,False,8542,Electronic integrated circuits,H6,9920.297,,False,True,False
+2025,699,IND,India,M,Import,818,EGY,Egypt,False,8542,Electronic integrated circuits,H6,31719.634,,False,True,False
+2025,699,IND,India,M,Import,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H6,6704382.704,,False,True,False
+2025,699,IND,India,M,Import,842,USA,USA,False,8542,Electronic integrated circuits,H6,328684806.638,,False,True,False
+2025,699,IND,India,X,Export,0,W00,World,True,8542,Electronic integrated circuits,H6,242000298.249,,False,True,False
+2025,699,IND,India,X,Export,12,DZA,Algeria,False,8542,Electronic integrated circuits,H6,43303.774,,False,True,False
+2025,699,IND,India,X,Export,24,AGO,Angola,False,8542,Electronic integrated circuits,H6,6214.303,14.542,True,True,False
+2025,699,IND,India,X,Export,32,ARG,Argentina,False,8542,Electronic integrated circuits,H6,380350.727,,False,True,False
+2025,699,IND,India,X,Export,36,AUS,Australia,False,8542,Electronic integrated circuits,H6,56295.393,82.269,True,True,False
+2025,699,IND,India,X,Export,40,AUT,Austria,False,8542,Electronic integrated circuits,H6,75389.602,39.726,True,True,False
+2025,699,IND,India,X,Export,48,BHR,Bahrain,False,8542,Electronic integrated circuits,H6,54942.601,88.667,True,True,False
+2025,699,IND,India,X,Export,50,BGD,Bangladesh,False,8542,Electronic integrated circuits,H6,2680817.011,940.933,True,True,False
+2025,699,IND,India,X,Export,56,BEL,Belgium,False,8542,Electronic integrated circuits,H6,64806.346,51.077,True,True,False
+2025,699,IND,India,X,Export,64,BTN,Bhutan,False,8542,Electronic integrated circuits,H6,46038.877,70.925,True,True,False
+2025,699,IND,India,X,Export,72,BWA,Botswana,False,8542,Electronic integrated circuits,H6,24899.013,,False,True,False
+2025,699,IND,India,X,Export,76,BRA,Brazil,False,8542,Electronic integrated circuits,H6,1298329.727,834.541,True,True,False
+2025,699,IND,India,X,Export,96,BRN,Brunei Darussalam,False,8542,Electronic integrated circuits,H6,3191.21,,False,True,False
+2025,699,IND,India,X,Export,100,BGR,Bulgaria,False,8542,Electronic integrated circuits,H6,214077.94,177.075,True,True,False
+2025,699,IND,India,X,Export,104,MMR,Myanmar,False,8542,Electronic integrated circuits,H6,4398.954,,False,True,False
+2025,699,IND,India,X,Export,116,KHM,Cambodia,False,8542,Electronic integrated circuits,H6,8305.059,,False,True,False
+2025,699,IND,India,X,Export,120,CMR,Cameroon,False,8542,Electronic integrated circuits,H6,13822.099,,False,True,False
+2025,699,IND,India,X,Export,124,CAN,Canada,False,8542,Electronic integrated circuits,H6,657429.191,387.802,True,True,False
+2025,699,IND,India,X,Export,144,LKA,Sri Lanka,False,8542,Electronic integrated circuits,H6,53139.89,699.24,True,True,False
+2025,699,IND,India,X,Export,148,TCD,Chad,False,8542,Electronic integrated circuits,H6,24.564,,False,True,False
+2025,699,IND,India,X,Export,152,CHL,Chile,False,8542,Electronic integrated circuits,H6,2627.731,,False,True,False
+2025,699,IND,India,X,Export,156,CHN,China,False,8542,Electronic integrated circuits,H6,20061111.142,12302.499,True,True,False
+2025,699,IND,India,X,Export,170,COL,Colombia,False,8542,Electronic integrated circuits,H6,65447.151,39.291,True,True,False
+2025,699,IND,India,X,Export,178,COG,Congo,False,8542,Electronic integrated circuits,H6,98.822,,False,True,False
+2025,699,IND,India,X,Export,180,COD,Dem. Rep. of the Congo,False,8542,Electronic integrated circuits,H6,18055.458,,False,True,False
+2025,699,IND,India,X,Export,188,CRI,Costa Rica,False,8542,Electronic integrated circuits,H6,95837.115,,False,True,False
+2025,699,IND,India,X,Export,191,HRV,Croatia,False,8542,Electronic integrated circuits,H6,5444.984,3.986,True,True,False
+2025,699,IND,India,X,Export,196,CYP,Cyprus,False,8542,Electronic integrated circuits,H6,4302.086,41.0,False,True,False
+2025,699,IND,India,X,Export,203,CZE,Czechia,False,8542,Electronic integrated circuits,H6,656555.436,290.568,True,True,False
+2025,699,IND,India,X,Export,204,BEN,Benin,False,8542,Electronic integrated circuits,H6,500.272,,False,True,False
+2025,699,IND,India,X,Export,208,DNK,Denmark,False,8542,Electronic integrated circuits,H6,17512.767,12.026,True,True,False
+2025,699,IND,India,X,Export,214,DOM,Dominican Rep.,False,8542,Electronic integrated circuits,H6,2003.241,,False,True,False
+2025,699,IND,India,X,Export,218,ECU,Ecuador,False,8542,Electronic integrated circuits,H6,10090.764,,False,True,False
+2025,699,IND,India,X,Export,231,ETH,Ethiopia,False,8542,Electronic integrated circuits,H6,1569.519,,False,True,False
+2025,699,IND,India,X,Export,232,ERI,Eritrea,False,8542,Electronic integrated circuits,H6,15384.496,,False,True,False
+2025,699,IND,India,X,Export,233,EST,Estonia,False,8542,Electronic integrated circuits,H6,45664.817,,False,True,False
+2025,699,IND,India,X,Export,246,FIN,Finland,False,8542,Electronic integrated circuits,H6,835581.369,400.121,True,True,False
+2025,699,IND,India,X,Export,251,FRA,France,False,8542,Electronic integrated circuits,H6,3288917.088,105300.374,True,True,False
+2025,699,IND,India,X,Export,262,DJI,Djibouti,False,8542,Electronic integrated circuits,H6,13328.827,,False,True,False
+2025,699,IND,India,X,Export,266,GAB,Gabon,False,8542,Electronic integrated circuits,H6,7308.129,,False,True,False
+2025,699,IND,India,X,Export,268,GEO,Georgia,False,8542,Electronic integrated circuits,H6,167.542,4.098,True,True,False
+2025,699,IND,India,X,Export,276,DEU,Germany,False,8542,Electronic integrated circuits,H6,1595470.322,1107.564,True,True,False
+2025,699,IND,India,X,Export,288,GHA,Ghana,False,8542,Electronic integrated circuits,H6,40743.231,33.538,True,True,False
+2025,699,IND,India,X,Export,300,GRC,Greece,False,8542,Electronic integrated circuits,H6,43708.976,771.176,True,True,False
+2025,699,IND,India,X,Export,320,GTM,Guatemala,False,8542,Electronic integrated circuits,H6,3245.397,13.749,True,True,False
+2025,699,IND,India,X,Export,324,GIN,Guinea,False,8542,Electronic integrated circuits,H6,8119.636,,False,True,False
+2025,699,IND,India,X,Export,328,GUY,Guyana,False,8542,Electronic integrated circuits,H6,30430.127,15.204,True,True,False
+2025,699,IND,India,X,Export,340,HND,Honduras,False,8542,Electronic integrated circuits,H6,2213.955,,False,True,False
+2025,699,IND,India,X,Export,344,HKG,"China, Hong Kong SAR",False,8542,Electronic integrated circuits,H6,68174295.881,42817.07,True,True,False
+2025,699,IND,India,X,Export,348,HUN,Hungary,False,8542,Electronic integrated circuits,H6,931809.742,569.366,True,True,False
+2025,699,IND,India,X,Export,360,IDN,Indonesia,False,8542,Electronic integrated circuits,H6,1143712.176,678.269,True,True,False
+2025,699,IND,India,X,Export,368,IRQ,Iraq,False,8542,Electronic integrated circuits,H6,7239.535,,False,True,False
+2025,699,IND,India,X,Export,372,IRL,Ireland,False,8542,Electronic integrated circuits,H6,5319538.293,2492.614,True,True,False
+2025,699,IND,India,X,Export,376,ISR,Israel,False,8542,Electronic integrated circuits,H6,2130338.082,1249.733,True,True,False
+2025,699,IND,India,X,Export,380,ITA,Italy,False,8542,Electronic integrated circuits,H6,402474.694,458.298,True,True,False
+2025,699,IND,India,X,Export,384,CIV,Côte d'Ivoire,False,8542,Electronic integrated circuits,H6,975.319,,False,True,False
+2025,699,IND,India,X,Export,388,JAM,Jamaica,False,8542,Electronic integrated circuits,H6,110.617,,False,True,False
+2025,699,IND,India,X,Export,392,JPN,Japan,False,8542,Electronic integrated circuits,H6,1679576.896,955.573,True,True,False
+2025,699,IND,India,X,Export,398,KAZ,Kazakhstan,False,8542,Electronic integrated circuits,H6,26591.188,6.0,False,True,False
+2025,699,IND,India,X,Export,404,KEN,Kenya,False,8542,Electronic integrated circuits,H6,490069.944,19785.651,True,True,False
+2025,699,IND,India,X,Export,408,PRK,Dem. People's Rep. of Korea,False,8542,Electronic integrated circuits,H6,133.865,,False,True,False
+2025,699,IND,India,X,Export,410,KOR,Rep. of Korea,False,8542,Electronic integrated circuits,H6,9102689.581,54410.222,True,True,False
+2025,699,IND,India,X,Export,414,KWT,Kuwait,False,8542,Electronic integrated circuits,H6,70400.018,65.18,True,True,False
+2025,699,IND,India,X,Export,422,LBN,Lebanon,False,8542,Electronic integrated circuits,H6,3904.149,,False,True,False
+2025,699,IND,India,X,Export,428,LVA,Latvia,False,8542,Electronic integrated circuits,H6,277882.583,,False,True,False
+2025,699,IND,India,X,Export,434,LBY,Libya,False,8542,Electronic integrated circuits,H6,3037.469,,False,True,False
+2025,699,IND,India,X,Export,440,LTU,Lithuania,False,8542,Electronic integrated circuits,H6,2623.698,2.328,True,True,False
+2025,699,IND,India,X,Export,442,LUX,Luxembourg,False,8542,Electronic integrated circuits,H6,229.262,,False,True,False
+2025,699,IND,India,X,Export,450,MDG,Madagascar,False,8542,Electronic integrated circuits,H6,47.085,,False,True,False
+2025,699,IND,India,X,Export,454,MWI,Malawi,False,8542,Electronic integrated circuits,H6,8582.91,,False,True,False
+2025,699,IND,India,X,Export,458,MYS,Malaysia,False,8542,Electronic integrated circuits,H6,2544565.106,1415.106,True,True,False
+2025,699,IND,India,X,Export,462,MDV,Maldives,False,8542,Electronic integrated circuits,H6,7993.56,6.135,True,True,False
+2025,699,IND,India,X,Export,480,MUS,Mauritius,False,8542,Electronic integrated circuits,H6,1915.485,,False,True,False
+2025,699,IND,India,X,Export,484,MEX,Mexico,False,8542,Electronic integrated circuits,H6,4597097.265,2662.639,True,True,False
+2025,699,IND,India,X,Export,490,S19,"Other Asia, nes",False,8542,Electronic integrated circuits,H6,19733179.044,11842.287,True,True,False
+2025,699,IND,India,X,Export,496,MNG,Mongolia,False,8542,Electronic integrated circuits,H6,1488.034,,False,True,False
+2025,699,IND,India,X,Export,504,MAR,Morocco,False,8542,Electronic integrated circuits,H6,13748.643,,False,True,False
+2025,699,IND,India,X,Export,508,MOZ,Mozambique,False,8542,Electronic integrated circuits,H6,6825.365,5.916,True,True,False
+2025,699,IND,India,X,Export,512,OMN,Oman,False,8542,Electronic integrated circuits,H6,58498.663,130.601,True,True,False
+2025,699,IND,India,X,Export,516,NAM,Namibia,False,8542,Electronic integrated circuits,H6,746.11,,False,True,False
+2025,699,IND,India,X,Export,524,NPL,Nepal,False,8542,Electronic integrated circuits,H6,150152.625,987.276,True,True,False
+2025,699,IND,India,X,Export,528,NLD,Netherlands,False,8542,Electronic integrated circuits,H6,722729.531,501.829,True,True,False
+2025,699,IND,India,X,Export,554,NZL,New Zealand,False,8542,Electronic integrated circuits,H6,86703.35,55.941,True,True,False
+2025,699,IND,India,X,Export,566,NGA,Nigeria,False,8542,Electronic integrated circuits,H6,1395050.589,870.408,True,True,False
+2025,699,IND,India,X,Export,579,NOR,Norway,False,8542,Electronic integrated circuits,H6,61784.973,151.675,True,True,False
+2025,699,IND,India,X,Export,591,PAN,Panama,False,8542,Electronic integrated circuits,H6,6050.493,,False,True,False
+2025,699,IND,India,X,Export,598,PNG,Papua New Guinea,False,8542,Electronic integrated circuits,H6,54.514,,False,True,False
+2025,699,IND,India,X,Export,600,PRY,Paraguay,False,8542,Electronic integrated circuits,H6,775.024,,False,True,False
+2025,699,IND,India,X,Export,604,PER,Peru,False,8542,Electronic integrated circuits,H6,2940.059,,False,True,False
+2025,699,IND,India,X,Export,608,PHL,Philippines,False,8542,Electronic integrated circuits,H6,176663.786,110.63,True,True,False
+2025,699,IND,India,X,Export,616,POL,Poland,False,8542,Electronic integrated circuits,H6,671952.738,48739.849,True,True,False
+2025,699,IND,India,X,Export,620,PRT,Portugal,False,8542,Electronic integrated circuits,H6,78638.374,78.457,True,True,False
+2025,699,IND,India,X,Export,634,QAT,Qatar,False,8542,Electronic integrated circuits,H6,21209.046,15.703,True,True,False
+2025,699,IND,India,X,Export,642,ROU,Romania,False,8542,Electronic integrated circuits,H6,728520.885,412.924,True,True,False
+2025,699,IND,India,X,Export,643,RUS,Russian Federation,False,8542,Electronic integrated circuits,H6,2083893.447,906.108,True,True,False
+2025,699,IND,India,X,Export,646,RWA,Rwanda,False,8542,Electronic integrated circuits,H6,11279.732,51.414,True,True,False
+2025,699,IND,India,X,Export,682,SAU,Saudi Arabia,False,8542,Electronic integrated circuits,H6,639498.471,393.021,True,True,False
+2025,699,IND,India,X,Export,686,SEN,Senegal,False,8542,Electronic integrated circuits,H6,1184.739,145.334,True,True,False
+2025,699,IND,India,X,Export,688,SRB,Serbia,False,8542,Electronic integrated circuits,H6,365867.5,222.414,True,True,False
+2025,699,IND,India,X,Export,690,SYC,Seychelles,False,8542,Electronic integrated circuits,H6,41.957,10.0,False,True,False
+2025,699,IND,India,X,Export,694,SLE,Sierra Leone,False,8542,Electronic integrated circuits,H6,2485.301,74.886,True,True,False
+2025,699,IND,India,X,Export,702,SGP,Singapore,False,8542,Electronic integrated circuits,H6,23551945.111,13771.52,True,True,False
+2025,699,IND,India,X,Export,703,SVK,Slovakia,False,8542,Electronic integrated circuits,H6,27442.29,17.906,True,True,False
+2025,699,IND,India,X,Export,704,VNM,Viet Nam,False,8542,Electronic integrated circuits,H6,25509373.928,13439.866,True,True,False
+2025,699,IND,India,X,Export,705,SVN,Slovenia,False,8542,Electronic integrated circuits,H6,153938.069,87.728,True,True,False
+2025,699,IND,India,X,Export,710,ZAF,South Africa,False,8542,Electronic integrated circuits,H6,562620.91,324.115,True,True,False
+2025,699,IND,India,X,Export,716,ZWE,Zimbabwe,False,8542,Electronic integrated circuits,H6,6561.076,11.401,True,True,False
+2025,699,IND,India,X,Export,724,ESP,Spain,False,8542,Electronic integrated circuits,H6,469752.468,898.982,True,True,False
+2025,699,IND,India,X,Export,752,SWE,Sweden,False,8542,Electronic integrated circuits,H6,1061500.552,623.803,True,True,False
+2025,699,IND,India,X,Export,757,CHE,Switzerland,False,8542,Electronic integrated circuits,H6,108924.565,62.851,True,True,False
+2025,699,IND,India,X,Export,764,THA,Thailand,False,8542,Electronic integrated circuits,H6,2646539.202,130433.812,True,True,False
+2025,699,IND,India,X,Export,768,TGO,Togo,False,8542,Electronic integrated circuits,H6,1178.839,270.0,False,True,False
+2025,699,IND,India,X,Export,780,TTO,Trinidad and Tobago,False,8542,Electronic integrated circuits,H6,10715.816,15.946,True,True,False
+2025,699,IND,India,X,Export,784,ARE,United Arab Emirates,False,8542,Electronic integrated circuits,H6,7304201.685,4316.664,True,True,False
+2025,699,IND,India,X,Export,788,TUN,Tunisia,False,8542,Electronic integrated circuits,H6,39844.984,,False,True,False
+2025,699,IND,India,X,Export,792,TUR,Türkiye,False,8542,Electronic integrated circuits,H6,352496.069,,False,True,False
+2025,699,IND,India,X,Export,795,TKM,Turkmenistan,False,8542,Electronic integrated circuits,H6,62.39,,False,True,False
+2025,699,IND,India,X,Export,800,UGA,Uganda,False,8542,Electronic integrated circuits,H6,6663.797,10.877,True,True,False
+2025,699,IND,India,X,Export,804,UKR,Ukraine,False,8542,Electronic integrated circuits,H6,6887.894,,False,True,False
+2025,699,IND,India,X,Export,807,MKD,North Macedonia,False,8542,Electronic integrated circuits,H6,106.27,2.0,False,True,False
+2025,699,IND,India,X,Export,818,EGY,Egypt,False,8542,Electronic integrated circuits,H6,17471.978,609.674,True,True,False
+2025,699,IND,India,X,Export,826,GBR,United Kingdom,False,8542,Electronic integrated circuits,H6,6244569.821,4137.31,True,True,False
+2025,699,IND,India,X,Export,834,TZA,United Rep. of Tanzania,False,8542,Electronic integrated circuits,H6,278166.264,623.97,True,True,False
+2025,699,IND,India,X,Export,842,USA,USA,False,8542,Electronic integrated circuits,H6,17053887.998,13601.068,True,True,False
+2025,699,IND,India,X,Export,854,BFA,Burkina Faso,False,8542,Electronic integrated circuits,H6,3373.991,,False,True,False
+2025,699,IND,India,X,Export,858,URY,Uruguay,False,8542,Electronic integrated circuits,H6,115.319,,False,True,False
+2025,699,IND,India,X,Export,860,UZB,Uzbekistan,False,8542,Electronic integrated circuits,H6,11909.159,7.554,True,True,False
+2025,699,IND,India,X,Export,887,YEM,Yemen,False,8542,Electronic integrated circuits,H6,622.013,,False,True,False
+2025,699,IND,India,X,Export,894,ZMB,Zambia,False,8542,Electronic integrated circuits,H6,12093.155,9.759,True,True,False
+2025,699,IND,India,X,Export,899,_X ,"Areas, nes",False,8542,Electronic integrated circuits,H6,50318.559,33.238,True,True,False

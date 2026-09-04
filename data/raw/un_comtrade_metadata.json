@@ -1,0 +1,64 @@
+{
+  "source": "United Nations Comtrade Database",
+  "source_documentation": "https://uncomtrade.org/docs/un-comtrade-api/",
+  "api_endpoint": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+  "partner_reference_endpoint": "https://comtradeapi.un.org/files/v1/app/reference/partnerAreas.json",
+  "retrieved_at_utc": "2026-09-04T14:00:10+00:00",
+  "scope": {
+    "reporter": "India",
+    "reporter_code": 699,
+    "commodity": "Electronic integrated circuits",
+    "hs_code": "8542",
+    "years": [
+      2019,
+      2025
+    ],
+    "flows": [
+      "Import",
+      "Export"
+    ]
+  },
+  "record_count": 1443,
+  "queries": [
+    {
+      "year": 2019,
+      "record_count": 190,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2019&reporterCode=699&flowCode=M%2CX&cmdCode=8542&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2020,
+      "record_count": 199,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2020&reporterCode=699&flowCode=M%2CX&cmdCode=8542&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2021,
+      "record_count": 196,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2021&reporterCode=699&flowCode=M%2CX&cmdCode=8542&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2022,
+      "record_count": 215,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2022&reporterCode=699&flowCode=M%2CX&cmdCode=8542&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2023,
+      "record_count": 220,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2023&reporterCode=699&flowCode=M%2CX&cmdCode=8542&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2024,
+      "record_count": 213,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2024&reporterCode=699&flowCode=M%2CX&cmdCode=8542&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    },
+    {
+      "year": 2025,
+      "record_count": 210,
+      "url": "https://comtradeapi.un.org/public/v1/preview/C/A/HS?period=2025&reporterCode=699&flowCode=M%2CX&cmdCode=8542&partner2Code=0&customsCode=C00&motCode=0&maxRecords=500"
+    }
+  ],
+  "notes": [
+    "The public preview API requires no subscription key.",
+    "Each request contains one year and one HS product and is checked against the 500-record limit.",
+    "Partner code 0 is the World aggregate and is retained for national totals."
+  ]
+}

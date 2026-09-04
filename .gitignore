@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.r-lib/
+notebooks/*_cache/
+notebooks/*_files/
