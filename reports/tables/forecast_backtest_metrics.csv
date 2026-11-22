@@ -1,0 +1,25 @@
+series,model,mape_percent
+Total HS 8542,Recent 3-year log-linear,4.610287239596528
+Total HS 8542,Full-period log-linear,4.023037154330206
+Total HS 8542,Linear trend,14.01292032576747
+Total HS 8542,Naive (last value),25.44690962961295
+Amplifiers,Recent 3-year log-linear,208.88983914793857
+Amplifiers,Full-period log-linear,205.60821858337667
+Amplifiers,Linear trend,14.7235110238908
+Amplifiers,Naive (last value),8.459303891429503
+Memories,Recent 3-year log-linear,8.43299419036562
+Memories,Full-period log-linear,8.865655038877557
+Memories,Linear trend,13.853196427629818
+Memories,Naive (last value),32.01812474270836
+Other electronic integrated circuits,Recent 3-year log-linear,6.719558748491419
+Other electronic integrated circuits,Full-period log-linear,22.62464651374949
+Other electronic integrated circuits,Linear trend,24.18727991143449
+Other electronic integrated circuits,Naive (last value),27.13482286015948
+Parts of electronic integrated circuits,Recent 3-year log-linear,61.16963732867673
+Parts of electronic integrated circuits,Full-period log-linear,86.7963619555916
+Parts of electronic integrated circuits,Linear trend,100.0
+Parts of electronic integrated circuits,Naive (last value),3.2832629176441195
+Processors and controllers,Recent 3-year log-linear,9.290841111192895
+Processors and controllers,Full-period log-linear,9.436423025836348
+Processors and controllers,Linear trend,8.089614743845539
+Processors and controllers,Naive (last value),23.279892871956175
