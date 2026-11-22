@@ -12,9 +12,10 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
-knitr::opts_knit$set(root.dir = normalizePath(".."))
+project_root <- if (basename(getwd()) == "notebooks") normalizePath("..") else normalizePath(".")
+knitr::opts_knit$set(root.dir = project_root)
 library(reticulate)
-virtualenv_path <- normalizePath(file.path("..", ".venv"), mustWork = FALSE)
+virtualenv_path <- file.path(project_root, ".venv")
 if (dir.exists(virtualenv_path)) {
   reticulate::use_virtualenv(virtualenv_path, required = TRUE)
 }
@@ -76,6 +77,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import seaborn as sns
+from scipy import stats
 
 DATA_PATH = Path("data/raw/india_hs8542_trade_2019_2025.csv")
 DETAIL_PATH = Path("data/raw/india_hs8542_hs6_imports_2019_2025.csv")
@@ -573,7 +575,488 @@ The offsetting movement between China, Hong Kong SAR and `Other Asia, nes` may p
 
 At the partner-product level, the largest increases were processors and controllers from `Other Asia, nes` (**USD 5.88 billion**), other integrated circuits from China (**USD 3.03 billion**), processors and controllers from China (**USD 2.99 billion**), memories from China (**USD 2.55 billion**), and processors and controllers from the Republic of Korea (**USD 2.54 billion**). The diagnostic result is therefore a shift in both product mix and declared sourcing location, rather than a simple uniform increase across all semiconductor imports.
 
-# 7. Limitations and next analytics stages
+# 7. Predictive extension
+
+## Predictive question
+
+The third stage uses **predictive analytics**. It asks:
+
+> What is a reasonable range for India's HS 8542 imports in 2026-2028, and how does that range split across the five HS six-digit categories?
+
+Seven annual observations are too few for a flexible machine-learning model. The forecast therefore uses a log-linear trend, which is equivalent to extrapolating a constant annual growth rate. The model is fitted to 2022-2025 rather than 2019-2025 because India's classification changes from HS 2017 to HS 2022 in 2022 and the supplier mix shifts sharply in 2023. A full-period model is retained as a sensitivity check.
+
+## 7.1 Forecast model and validation
+
+```{python forecast-functions}
+forecast_years = [2026, 2027, 2028]
+history_years = sorted(int(year) for year in yearly["year"])
+recent_years = [year for year in history_years if year >= 2022]
+
+
+def log_linear_forecast(values, years, targets, confidence=0.80):
+    """Fit log(value) on year and return forecasts with a prediction interval."""
+    x = np.asarray(years, dtype=float)
+    y = np.asarray(values, dtype=float)
+    if (y <= 0).any():
+        raise ValueError("Log-linear forecasts require strictly positive values.")
+    log_y = np.log(y)
+    slope, intercept = np.polyfit(x, log_y, 1)
+    fitted = intercept + slope * x
+    residual_se = np.sqrt(((log_y - fitted) ** 2).sum() / (len(x) - 2))
+    t_critical = stats.t.ppf(0.5 + confidence / 2, len(x) - 2)
+    rows = []
+    for target in targets:
+        mean_log = intercept + slope * target
+        se_pred = residual_se * np.sqrt(
+            1 + 1 / len(x) + (target - x.mean()) ** 2 / ((x - x.mean()) ** 2).sum()
+        )
+        rows.append(
+            {
+                "year": int(target),
+                "forecast_usd": float(np.exp(mean_log)),
+                "lower_80_usd": float(np.exp(mean_log - t_critical * se_pred)),
+                "upper_80_usd": float(np.exp(mean_log + t_critical * se_pred)),
+            }
+        )
+    return pd.DataFrame(rows)
+
+
+def backtest_forecast(series, train_end=2023):
+    """Compare four simple models on a holdout of the last two years."""
+    train = series.loc[series.index <= train_end]
+    test = series.loc[series.index > train_end]
+    recent_train = train.loc[train.index >= train.index.max() - 2]
+    predictions = {
+        "Recent 3-year log-linear": log_linear_forecast(
+            recent_train.values, recent_train.index, test.index
+        )["forecast_usd"].values,
+        "Full-period log-linear": log_linear_forecast(
+            train.values, train.index, test.index
+        )["forecast_usd"].values,
+        "Linear trend": np.maximum(
+            np.polyval(
+                np.polyfit(train.index.astype(float), train.values, 1),
+                test.index.astype(float),
+            ),
+            0,
+        ),
+        "Naive (last value)": np.repeat(train.iloc[-1], len(test)),
+    }
+    return pd.DataFrame(
+        {
+            "model": list(predictions),
+            "mape_percent": [
+                float(np.mean(np.abs(predicted - test.values) / test.values) * 100)
+                for predicted in predictions.values()
+            ],
+        }
+    )
+```
+
+```{python forecast-validation}
+product_series = {
+    commodity: group.set_index("year")["trade_value_usd"].reindex(history_years).fillna(0)
+    for commodity, group in product_year.groupby("commodity")
+}
+total_series = (
+    product_year.groupby("year")["trade_value_usd"].sum().reindex(history_years).fillna(0)
+)
+
+backtest_rows = []
+for name, series in [("Total HS 8542", total_series), *product_series.items()]:
+    result = backtest_forecast(series)
+    result.insert(0, "series", name)
+    backtest_rows.append(result)
+backtest_metrics = pd.concat(backtest_rows, ignore_index=True)
+backtest_metrics.to_csv(TABLE_DIR / "forecast_backtest_metrics.csv", index=False)
+
+print(
+    backtest_metrics.pivot(index="series", columns="model", values="mape_percent")
+    .round(1)
+    .to_string()
+)
+```
+
+## 7.2 Import forecast to 2028
+
+```{python import-forecast}
+category_forecasts = []
+for commodity, series in product_series.items():
+    recent = series.loc[recent_years]
+    forecast = log_linear_forecast(recent.values, recent.index, forecast_years)
+    forecast["hs_code"] = detail_world.loc[
+        detail_world["commodity"] == commodity, "hs_code"
+    ].iloc[0]
+    forecast["commodity"] = commodity
+    category_forecasts.append(forecast)
+category_forecasts = pd.concat(category_forecasts, ignore_index=True)
+
+total_forecast = log_linear_forecast(
+    total_series.loc[recent_years].values, recent_years, forecast_years
+)
+total_forecast["hs_code"] = "8542"
+total_forecast["commodity"] = "Electronic integrated circuits"
+
+# Reconcile the category detail to the direct total forecast.
+category_totals = category_forecasts.groupby("year")["forecast_usd"].sum()
+reconciliation_factor = total_forecast.set_index("year")["forecast_usd"] / category_totals
+for column in ["forecast_usd", "lower_80_usd", "upper_80_usd"]:
+    category_forecasts[column] = (
+        category_forecasts[column] * category_forecasts["year"].map(reconciliation_factor)
+    )
+
+total_by_year = total_forecast.set_index("year")["forecast_usd"]
+category_forecasts["share_of_total_percent"] = (
+    category_forecasts["forecast_usd"]
+    / category_forecasts["year"].map(total_by_year)
+    * 100
+)
+total_forecast["share_of_total_percent"] = 100.0
+
+forecast_table = pd.concat([category_forecasts, total_forecast], ignore_index=True)
+forecast_2028 = forecast_table.loc[forecast_table["year"] == 2028]
+cagr_2028 = {}
+for row in forecast_2028.itertuples(index=False):
+    base_2025 = (
+        product_series[row.commodity].loc[2025]
+        if row.commodity in product_series
+        else total_series.loc[2025]
+    )
+    cagr_2028[row.commodity] = ((row.forecast_usd / base_2025) ** (1 / 3) - 1) * 100
+forecast_table["implied_cagr_2025_2028_percent"] = forecast_table["commodity"].map(cagr_2028)
+forecast_table = forecast_table.sort_values(["year", "hs_code"]).reset_index(drop=True)
+forecast_table.to_csv(TABLE_DIR / "import_forecast_2026_2028.csv", index=False)
+print(forecast_table.to_string(index=False))
+```
+
+The full-period model is a sensitivity check rather than the primary forecast. It gives a wider interval because it includes the 2020 disruption.
+
+```{python forecast-sensitivity}
+full_period_total = log_linear_forecast(
+    total_series.values, history_years, forecast_years
+)
+forecast_sensitivity = pd.DataFrame(
+    [
+        {
+            "window": "2022-2025 (primary)",
+            "forecast_2028_usd": total_forecast.loc[
+                total_forecast["year"] == 2028, "forecast_usd"
+            ].iloc[0],
+            "lower_80_usd": total_forecast.loc[
+                total_forecast["year"] == 2028, "lower_80_usd"
+            ].iloc[0],
+            "upper_80_usd": total_forecast.loc[
+                total_forecast["year"] == 2028, "upper_80_usd"
+            ].iloc[0],
+        },
+        {
+            "window": "2019-2025 (sensitivity)",
+            "forecast_2028_usd": full_period_total.loc[
+                full_period_total["year"] == 2028, "forecast_usd"
+            ].iloc[0],
+            "lower_80_usd": full_period_total.loc[
+                full_period_total["year"] == 2028, "lower_80_usd"
+            ].iloc[0],
+            "upper_80_usd": full_period_total.loc[
+                full_period_total["year"] == 2028, "upper_80_usd"
+            ].iloc[0],
+        },
+    ]
+)
+forecast_sensitivity.to_csv(TABLE_DIR / "forecast_sensitivity_2028.csv", index=False)
+print(forecast_sensitivity.to_string(index=False))
+```
+
+```{python forecast-chart, fig.width=13, fig.height=5.2}
+fig, axes = plt.subplots(1, 2, figsize=(13, 5.2))
+
+ax = axes[0]
+ax.plot(
+    total_series.index, total_series.values / 1e9,
+    marker="o", linewidth=2.3, color="#2a6fbb", label="Actual"
+)
+forecast_line_years = [2025] + forecast_years
+forecast_line_values = [total_series.loc[2025] / 1e9] + (
+    total_forecast["forecast_usd"] / 1e9
+).tolist()
+ax.plot(
+    forecast_line_years, forecast_line_values,
+    marker="o", linestyle="--", linewidth=2.0, color="#c44e52",
+    label="Central forecast"
+)
+ax.fill_between(
+    forecast_years,
+    total_forecast["lower_80_usd"] / 1e9,
+    total_forecast["upper_80_usd"] / 1e9,
+    color="#c44e52", alpha=0.18, label="80% interval, 2022-2025 model"
+)
+ax.fill_between(
+    forecast_years,
+    full_period_total["lower_80_usd"] / 1e9,
+    full_period_total["upper_80_usd"] / 1e9,
+    color="#777777", alpha=0.10, label="80% interval, 2019-2025 model"
+)
+ax.set(
+    title="India's HS 8542 imports: history and forecast",
+    xlabel="Year", ylabel="Import value (USD billions)"
+)
+ax.legend(fontsize=8)
+
+ax = axes[1]
+latest_forecast = category_forecasts.loc[
+    category_forecasts["year"] == 2028
+].sort_values("forecast_usd")
+ax.barh(
+    latest_forecast["commodity"], latest_forecast["forecast_usd"] / 1e9,
+    color="#2a6fbb"
+)
+for position, (_, row) in enumerate(latest_forecast.iterrows()):
+    ax.text(
+        row["forecast_usd"] / 1e9 + 0.3, position,
+        f"USD {row['forecast_usd'] / 1e9:.1f}bn", va="center", fontsize=9
+    )
+ax.set(
+    title="Forecast import value by HS6 category, 2028",
+    xlabel="Import value (USD billions)", ylabel=""
+)
+ax.set_xlim(0, latest_forecast["forecast_usd"].max() / 1e9 * 1.22)
+
+fig.tight_layout()
+fig.savefig(FIGURE_DIR / "import_forecast_2026_2028.png", dpi=180, bbox_inches="tight")
+plt.show()
+```
+
+## Predictive findings
+
+The recent-window model puts 2028 imports at **USD 50.67 billion**, equivalent to a **21.0% CAGR** from 2025. The full-period model gives almost the same central value (USD 51.54 billion) but a much wider 80% interval (USD 38.61-68.81 billion), because it includes the 2020 disruption. The recent-window interval (USD 48.69-52.73 billion) is conditional on the post-2022 trend continuing and should not be read as a full planning range. The wider range is the more honest summary of forecast uncertainty.
+
+Processors and controllers account for **USD 28.63 billion (56.5%)** of the 2028 central forecast, followed by memories at **USD 10.81 billion (21.3%)**, other integrated circuits at **USD 10.03 billion (19.8%)**, amplifiers at **USD 1.06 billion (2.1%)**, and parts at **USD 0.18 billion (0.4%)**.
+
+The holdout test trains on 2019-2023 and predicts 2024-2025. The recent-window model has a total MAPE of **4.6%**, compared with 14.0% for a linear trend and 25.4% for a naive last-value forecast. Category errors are larger: processors 9.3%, memories 8.4%, other integrated circuits 6.7%, parts 61.2%, and amplifiers 208.9%. The amplifier and parts forecasts are therefore indicative only; both categories are small and volatile.
+
+# 8. Prescriptive extension
+
+## Prescriptive question
+
+The fourth stage uses **prescriptive analytics through scenario analysis**. It asks:
+
+> If India wants to reduce single-supplier concentration in 2028, what supplier mix would meet a given cap, and how large is the required reallocation?
+
+The analysis treats the 2028 central forecast as fixed demand and the 2025 supplier shares as the baseline mix. A policy cap is applied to supplier shares, and the excess is redistributed pro rata across uncapped suppliers. The scenarios are accounting benchmarks, not procurement plans: they do not include tariffs, logistics costs, supplier capacity, or firm-level contracts.
+
+## 8.1 Scenario construction
+
+```{python prescriptive-scenarios}
+total_2028 = float(
+    total_forecast.loc[total_forecast["year"] == 2028, "forecast_usd"].iloc[0]
+)
+supplier_2025 = suppliers.set_index("partner_name")["trade_value_usd"]
+baseline_2028 = supplier_2025 / supplier_2025.sum() * total_2028
+
+
+def allocate_with_caps(baseline_values, caps):
+    """Cap suppliers and redistribute the excess pro rata across uncapped suppliers."""
+    allocation = baseline_values.astype(float).copy()
+    fixed = pd.Series(False, index=allocation.index)
+    for _ in range(len(allocation) + 1):
+        over = (allocation > caps + 1e-6) & (~fixed)
+        if not over.any():
+            break
+        excess = (allocation[over] - caps[over]).sum()
+        allocation[over] = caps[over]
+        fixed[over] = True
+        free = ~fixed
+        if not free.any():
+            raise ValueError("The caps are infeasible for this import total.")
+        weights = baseline_values[free] / baseline_values[free].sum()
+        allocation[free] += excess * weights
+    return allocation
+
+
+infinite_caps = pd.Series(np.inf, index=baseline_2028.index)
+scenarios = {
+    "Baseline (2025 mix)": infinite_caps,
+    "China capped at 30%": infinite_caps.copy(),
+    "Every supplier capped at 35%": pd.Series(
+        0.35 * total_2028, index=baseline_2028.index
+    ),
+    "Every supplier capped at 25%": pd.Series(
+        0.25 * total_2028, index=baseline_2028.index
+    ),
+}
+scenarios["China capped at 30%"]["China"] = 0.30 * total_2028
+
+scenario_allocations = {
+    name: allocate_with_caps(baseline_2028, caps) for name, caps in scenarios.items()
+}
+```
+
+## 8.2 Scenario metrics and feasibility
+
+```{python prescriptive-metrics}
+def concentration_summary(values):
+    shares = values / values.sum() * 100
+    return {
+        "hhi": float((shares ** 2).sum()),
+        "effective_suppliers": float(1 / ((shares / 100) ** 2).sum()),
+        "top_1_share_percent": float(shares.max()),
+        "top_3_share_percent": float(shares.nlargest(3).sum()),
+        "top_5_share_percent": float(shares.nlargest(5).sum()),
+        "suppliers_above_5_percent": int((shares >= 5).sum()),
+        "china_share_percent": float(shares.get("China", 0)),
+        "other_asia_share_percent": float(shares.get("Other Asia, nes", 0)),
+        "korea_share_percent": float(shares.get("Rep. of Korea", 0)),
+    }
+
+
+baseline_cagr = (total_2028 / supplier_2025.sum()) ** (1 / 3) - 1
+scenario_rows = []
+for name, allocation in scenario_allocations.items():
+    row = {"scenario": name, **concentration_summary(allocation)}
+    row["total_imports_2028_usd"] = float(allocation.sum())
+    row["reallocated_usd"] = float((allocation - baseline_2028).clip(lower=0).sum())
+    row["reallocated_share_percent"] = (
+        row["reallocated_usd"] / row["total_imports_2028_usd"] * 100
+    )
+    required_cagr = (allocation / supplier_2025.reindex(allocation.index)) ** (1 / 3) - 1
+    material = allocation >= 0.01 * allocation.sum()
+    row["max_required_cagr_percent"] = float(required_cagr[material].max() * 100)
+    row["max_incremental_cagr_points"] = float(
+        (required_cagr[material] - baseline_cagr).max() * 100
+    )
+    scenario_rows.append(row)
+
+scenario_table = pd.DataFrame(scenario_rows).set_index("scenario")
+scenario_table.to_csv(TABLE_DIR / "prescriptive_scenarios_2028.csv")
+print(scenario_table.round(2).to_string())
+```
+
+```{python prescriptive-allocation}
+supplier_history = (
+    bilateral.groupby(["year", "partner_name"])["trade_value_usd"].sum().unstack(fill_value=0)
+)
+
+
+def recent_supplier_cagr(series, start_year=2022):
+    values = series.loc[start_year:]
+    positive = values[values > 0]
+    if len(positive) < 2:
+        return np.nan
+    return (
+        (positive.iloc[-1] / positive.iloc[0])
+        ** (1 / (positive.index[-1] - positive.index[0]))
+        - 1
+    ) * 100
+
+
+recent_cagr = {
+    name: recent_supplier_cagr(supplier_history[name])
+    for name in supplier_history.columns
+}
+
+allocation_rows = []
+for name, allocation in scenario_allocations.items():
+    frame = pd.DataFrame(
+        {
+            "scenario": name,
+            "partner_name": allocation.index,
+            "value_2025_usd": supplier_2025.reindex(allocation.index).values,
+            "share_2025_percent": (
+                supplier_2025.reindex(allocation.index) / supplier_2025.sum() * 100
+            ).values,
+            "value_2028_usd": allocation.values,
+            "share_2028_percent": (allocation / allocation.sum() * 100).values,
+        }
+    )
+    frame["change_usd"] = frame["value_2028_usd"] - frame["value_2025_usd"]
+    frame["required_cagr_2025_2028_percent"] = (
+        (frame["value_2028_usd"] / frame["value_2025_usd"]) ** (1 / 3) - 1
+    ) * 100
+    frame["baseline_cagr_percent"] = baseline_cagr * 100
+    frame["incremental_cagr_points"] = (
+        frame["required_cagr_2025_2028_percent"] - frame["baseline_cagr_percent"]
+    )
+    frame["recent_cagr_2022_2025_percent"] = frame["partner_name"].map(recent_cagr)
+    allocation_rows.append(frame)
+
+supplier_allocations = pd.concat(allocation_rows, ignore_index=True)
+supplier_allocations.to_csv(
+    TABLE_DIR / "prescriptive_supplier_allocation_2028.csv", index=False
+)
+
+focus = supplier_allocations.loc[
+    supplier_allocations["scenario"] == "Every supplier capped at 25%"
+].sort_values("value_2028_usd", ascending=False)
+print(focus.head(12).to_string(index=False))
+```
+
+```{python prescriptive-chart, fig.width=13, fig.height=5.8}
+scenario_names = list(scenario_allocations)
+top_partners = suppliers.head(8)["partner_name"].tolist()
+mix = pd.DataFrame(index=scenario_names)
+for partner in top_partners:
+    mix[partner] = [
+        scenario_allocations[name].get(partner, 0)
+        / scenario_allocations[name].sum()
+        * 100
+        for name in scenario_names
+    ]
+mix["Other suppliers"] = 100 - mix.sum(axis=1)
+
+fig, axes = plt.subplots(1, 2, figsize=(13, 5.8), gridspec_kw={"width_ratios": [2.4, 1]})
+ax = axes[0]
+colors = sns.color_palette("tab10", n_colors=len(mix.columns))
+bottom = np.zeros(len(mix))
+for column, color in zip(mix.columns, colors):
+    ax.bar(
+        range(len(mix)), mix[column], bottom=bottom,
+        color=color, label=column, width=0.7
+    )
+    bottom += mix[column].values
+ax.set_xticks(range(len(mix)))
+ax.set_xticklabels(scenario_names, rotation=18, ha="right")
+ax.set_ylim(0, 100)
+ax.set(
+    title="Supplier mix under 2028 diversification scenarios",
+    xlabel="", ylabel="Share of import value (%)"
+)
+ax.legend(
+    bbox_to_anchor=(0.5, -0.28), loc="upper center",
+    ncol=3, fontsize=8, frameon=False, title="Supplier"
+)
+
+ax = axes[1]
+hhi_values = scenario_table["hhi"].reindex(scenario_names)
+bars = ax.barh(range(len(scenario_names)), hhi_values.values, color="#2a6fbb")
+ax.set_yticks(range(len(scenario_names)))
+ax.set_yticklabels(scenario_names)
+ax.invert_yaxis()
+for bar, value in zip(bars, hhi_values.values):
+    ax.text(
+        value + 40, bar.get_y() + bar.get_height() / 2,
+        f"{value:,.0f}", va="center", fontsize=9
+    )
+ax.set(title="Supplier HHI by scenario", xlabel="HHI", ylabel="")
+ax.set_xlim(0, hhi_values.max() * 1.18)
+
+fig.tight_layout()
+fig.savefig(FIGURE_DIR / "prescriptive_scenarios_2028.png", dpi=180, bbox_inches="tight")
+plt.show()
+```
+
+## Prescriptive findings
+
+The baseline applies the 2025 supplier mix to the 2028 central forecast. It leaves the HHI at **2,752.8** and the top three suppliers at **85.0%**, so the concentration problem does not fade simply because the market grows.
+
+A targeted cap on China at **30%** lowers the HHI to **2,413.7** and the top-three share to **82.3%**, but it raises `Other Asia, nes` to **33.3%**. Because that label is an unspecified partner, the scenario swaps one concentration risk for another and is not a complete diversification strategy. The required reallocation is **USD 5.53 billion (10.9% of 2028 imports)**, and alternative suppliers would need to grow at **28.0% a year**, about **7.0 percentage points** faster than the baseline path.
+
+A universal **35%** cap lowers the HHI to **2,530.2** and requires **USD 3.00 billion (5.9%)** of reallocation. Alternative suppliers would need **24.9% annual growth**, only **3.9 points** above the baseline. This is the most feasible of the diversification scenarios, but it is a modest improvement: the top three still hold **83.5%**.
+
+A universal **25%** cap is the only scenario that brings the HHI below **2,000** (**1,962.8**) and raises the effective supplier count above five (**5.09**). It requires **USD 9.65 billion (19.0%)** of reallocation, with China growing at only **2.7% a year** and every other material supplier growing at about **43.6% a year**, **22.6 points** above the baseline. That is a step-change in supplier capacity, not a marginal shift.
+
+The prescriptive result is therefore conditional: a **35% cap** is a realistic medium-term diversification target, while a **25% cap** describes the scale of change required for a genuinely diversified supplier base. A targeted China cap is not sufficient on its own because it shifts dependence to `Other Asia, nes`. The scenarios assume that alternative suppliers can scale and that trade is re-routed without cost; they do not include tariffs, logistics, capacity, or firm-level contracts.
+
+# 9. Limitations and next analytics stages
 
 - Trade value is measured in current US dollars; changes can reflect prices and exchange rates as well as physical volume.
 - HS six-digit categories remain broad and do not identify individual chip models, manufacturers, fabrication locations, or technology nodes.
@@ -582,11 +1065,14 @@ At the partner-product level, the largest increases were processors and controll
 - India's original Comtrade classification changes from HS 2017 to HS 2022 in 2022. The five selected codes reconcile to the HS 8542 total in every year, but classification revisions should still be noted.
 - Net-weight observations may be estimated or unavailable, so trade value is the primary measure.
 - The public API output can be revised by the data provider after retrieval. The metadata file records the retrieval time and query URLs.
-- No causal claim is made from descriptive results.
+- No causal claim is made from descriptive or diagnostic results.
+- The predictive model uses four annual observations in its primary window and seven in its sensitivity check. Its intervals describe model fit, not structural breaks, policy changes, or data revisions.
+- The prescriptive scenarios hold the 2028 central forecast and the 2025 supplier mix fixed, cap shares by assumption, and redistribute pro rata. They do not model tariffs, logistics costs, supplier capacity, lead times, or firm-level contracts.
+- The scenario results are accounting benchmarks, not recommendations for a specific firm or procurement decision.
 
-A predictive extension can forecast import demand by HS six-digit category. A prescriptive extension can combine trade data with tariff rates, logistics cost, supplier capacity, and disruption indicators to compare diversification scenarios for a named importing firm.
+The project now covers all four analytics types. Further work could add firm-level sourcing data, causal identification of supply-chain disruptions, and a cost-based optimisation that includes tariffs, logistics, and supplier capacity.
 
-# 8. Reproducibility
+# 10. Reproducibility
 
 Run the following commands from the repository root:
 
@@ -595,4 +1081,4 @@ python -m pip install -r requirements.txt
 python scripts/data_acquisition.py
 ```
 
-Then open `notebooks/Project_Notebook.Rmd` in RStudio and knit it to HTML. R and the R packages `rmarkdown`, `knitr`, and `reticulate` are required only to render the notebook; the analysis itself runs in Python.
+Then open `notebooks/Project_Notebook.Rmd` in RStudio and knit it to HTML. R and the R packages `rmarkdown`, `knitr`, and `reticulate` are required only to render the notebook; the analysis itself runs in Python. The predictive model uses 2022-2025 as its primary window, and the 2019-2025 model is a sensitivity check. The scenario caps in the prescriptive section are parameters and can be changed to test other policies.
