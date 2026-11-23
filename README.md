@@ -48,7 +48,8 @@ The source choice, data requirements, access plan, quality checks, analysis, int
 │   ├── raw/                    # HS4 and HS6 API downloads and query metadata
 │   └── processed/              # Validated analysis datasets
 ├── notebooks/
-│   └── Project_Notebook.Rmd    # R Markdown notebook with Python analysis
+│   ├── Project_Notebook.Rmd    # R Markdown notebook with Python analysis
+│   └── Project_Notebook.ipynb  # Jupyter version for running cell by cell
 ├── reports/
 │   ├── Project_Notebook.html   # Knitted HTML report
 │   ├── Project_Notebook.pdf    # Knitted PDF report
@@ -88,6 +89,18 @@ rmarkdown::render(
 ```
 
 Then move `notebooks/Project_Notebook.pdf` into `reports/`. The PDF build also needs a LaTeX installation such as MiKTeX or TinyTeX; the HTML build does not.
+
+## Live walkthrough notebook
+
+`notebooks/Project_Notebook.ipynb` is a Jupyter version of the analysis, organized so each step can be run and explained separately. It reads the saved data in `data/raw` and does not download anything.
+
+Register the project environment as a Jupyter kernel:
+
+```bash
+.venv\Scripts\python -m ipykernel install --user --name trade-project --display-name "Python 3 (Trade Project)"
+```
+
+Then open the notebook in VS Code or Jupyter, select **Python 3 (Trade Project)**, and run the cells from top to bottom. The notebook includes a setup cell, the four analysis stages, a key-results summary, and a troubleshooting note.
 
 ## Report outputs
 
